@@ -73,7 +73,11 @@ export default function InfoModal({ isOpen, onClose }) {
                   <p className="text-sm"><strong>5. Financial system:</strong><br/>Hybrid (joint for household + separate personal)</p>
                   <p className="text-sm"><strong>6. Housing payment:</strong><br/>Husband's responsibility</p>
                   <p className="text-sm"><strong>7. Loans & debt:</strong><br/>No, all loans discussed together</p>
-                  <p className="text-sm"><strong>8. Financial goals:</strong><br/>Save for house deposit</p>
+                  <p className="text-sm"><strong>8. Financial goals:</strong></p>
+                  <p className="text-xs bg-white p-2 rounded border mt-1">
+                    ⚠️ <strong>TEXT MATCH REQUIRED:</strong> Copy this exactly:<br/>
+                    <span className="font-mono text-xs">In the next 5 years, we will save 20,000 MVR for emergencies, pay off any debts as priority, and save monthly for our future needs.</span>
+                  </p>
                 </div>
               </div>
 
@@ -114,7 +118,11 @@ export default function InfoModal({ isOpen, onClose }) {
                 <div className="space-y-2 ml-2">
                   <p className="text-sm"><strong>15. Decision-making:</strong><br/>All decided jointly (both must agree)</p>
                   <p className="text-sm"><strong>16. Housework:</strong><br/>Split everything equally</p>
-                  <p className="text-sm"><strong>17. Religious practice:</strong><br/>Support each other's practice</p>
+                  <p className="text-sm"><strong>17. Religious practice:</strong></p>
+                  <p className="text-xs bg-white p-2 rounded border mt-1">
+                    ⚠️ <strong>TEXT MATCH REQUIRED:</strong> Copy this exactly:<br/>
+                    <span className="font-mono text-xs">We will support each other in fulfilling our five daily prayers, observe fasting during Ramadan, and raise our children with Islamic values. We will learn and grow together in our faith, while respecting each other's individual spiritual journey.</span>
+                  </p>
                   <p className="text-sm"><strong>18. Health screening:</strong><br/>Yes, including STI and thalassemia testing</p>
                   <p className="text-sm"><strong>19. Conflict resolution:</strong><br/>All of the above</p>
                   <p className="text-sm"><strong>20. Life changes:</strong><br/>All of the above</p>

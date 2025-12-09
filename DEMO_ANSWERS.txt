@@ -50,7 +50,10 @@ Answer: **Husband's responsibility**
 Answer: **No, all loans discussed together**
 
 **Decision 8: Financial goals**
-Answer: **Save for house deposit**
+⚠️ **REQUIRES TEXT MATCH!** Copy-paste this exactly:
+```
+In the next 5 years, we will save 20,000 MVR for emergencies, pay off any debts as priority, and save monthly for our future needs.
+```
 
 ---
 
@@ -105,7 +108,10 @@ Answer: **Split everything equally**
 ### TOPIC 8: RELIGIOUS (Checkpoint 17)
 
 **Decision 17: Islamic practice expectations**
-Answer: **Support each other's practice**
+⚠️ **REQUIRES TEXT MATCH!** Copy-paste this exactly:
+```
+We will support each other in fulfilling our five daily prayers, observe fasting during Ramadan, and raise our children with Islamic values. We will learn and grow together in our faith, while respecting each other's individual spiritual journey.
+```
 
 ---
 
@@ -154,11 +160,21 @@ Answer: **All of the above**
 
 ## QUICK REFERENCE: TEXT MATCH ANSWERS
 
-Only 1 checkpoint requires exact text matching:
+3 checkpoints require exact text matching:
+
+**Checkpoint 8 (Financial Goals):**
+```
+In the next 5 years, we will save 20,000 MVR for emergencies, pay off any debts as priority, and save monthly for our future needs.
+```
 
 **Checkpoint 13 (Family Involvement):**
 ```
 We agree that each partner will handle issues with their own family first, and only involve the spouse when necessary for support.
+```
+
+**Checkpoint 17 (Islamic Practice Expectations):**
+```
+We will support each other in fulfilling our five daily prayers, observe fasting during Ramadan, and raise our children with Islamic values. We will learn and grow together in our faith, while respecting each other's individual spiritual journey.
 ```
 
 ---

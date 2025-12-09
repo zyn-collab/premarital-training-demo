@@ -520,18 +520,11 @@
       "checkpointNumber": 8,
       "topic": "FINANCES",
       "title": "DECISION 2D: FINANCIAL GOALS",
-      "subtitle": "What are your shared financial goals?",
-      "question": "We agree our top priority is:",
-      "options": [
-        "Save for house deposit",
-        "Pay off debts",
-        "Save for Hajj",
-        "Start business",
-        "Build emergency fund",
-        "Need to discuss priorities"
-      ],
-      "demoCorrectAnswer": "Save for house deposit",
-      "requiresTextMatch": false,
+      "subtitle": "Discuss and write your shared financial goals for the next 5 years",
+      "question": "What are our realistic financial goals? Discuss together and write an agreed statement:",
+      "requiresTextMatch": true,
+      "textMatchPrompt": "Both partners copy-paste your agreed financial goals:",
+      "correctTextMatch": "In the next 5 years, we will save 20,000 MVR for emergencies, pay off any debts as priority, and save monthly for our future needs.",
       "type": "checkpoint"
     },
     {
@@ -691,18 +684,11 @@
       "checkpointNumber": 17,
       "topic": "RELIGIOUS",
       "title": "DECISION 8: ISLAMIC PRACTICE EXPECTATIONS",
-      "subtitle": "What are our expectations about Islamic practices?",
-      "question": "We agree on approach to:",
-      "options": [
-        "Follow all Islamic obligations together",
-        "Support each other's practice",
-        "Pray together when possible",
-        "Raise children with Islamic values",
-        "Continue learning Islam together",
-        "Need to discuss specifics"
-      ],
-      "demoCorrectAnswer": "Support each other's practice",
-      "requiresTextMatch": false,
+      "subtitle": "Discuss and write your shared Islamic practice expectations",
+      "question": "What are our expectations about Islamic practice in our marriage? Discuss together and write an agreed statement:",
+      "requiresTextMatch": true,
+      "textMatchPrompt": "Both partners copy-paste your agreed Islamic practice expectations:",
+      "correctTextMatch": "We will support each other in fulfilling our five daily prayers, observe fasting during Ramadan, and raise our children with Islamic values. We will learn and grow together in our faith, while respecting each other's individual spiritual journey.",
       "type": "checkpoint"
     },
     {
