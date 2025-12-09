@@ -468,19 +468,11 @@
       "checkpointNumber": 5,
       "topic": "FINANCES",
       "title": "DECISION 2A: FINANCIAL SYSTEM",
-      "subtitle": "Money is a top cause of conflict. Decide your system NOW.",
-      "question": "How will we manage money?",
-      "options": [
-        "Completely joint (all money in one account)",
-        "Completely separate (each keeps own account)",
-        "Hybrid (joint for household + separate personal)",
-        "Husband manages all money",
-        "Wife manages all money",
-        "We manage together with equal input",
-        "Need to discuss more"
-      ],
-      "demoCorrectAnswer": "Hybrid (joint for household + separate personal)",
-      "requiresTextMatch": false,
+      "subtitle": "Discuss and agree on your specific financial management system",
+      "question": "How will we manage money? Discuss together and write an agreed statement:",
+      "requiresTextMatch": true,
+      "textMatchPrompt": "Both partners copy-paste your agreed financial management statement:",
+      "correctTextMatch": "We will maintain a hybrid system with joint household account and separate personal accounts, with monthly budget reviews.",
       "type": "checkpoint"
     },
     {

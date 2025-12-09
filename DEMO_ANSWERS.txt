@@ -41,7 +41,10 @@ Answer: **Seek medical fertility treatment**
 ### TOPIC 2: FINANCES (Checkpoints 5-8)
 
 **Decision 5: Financial system**
-Answer: **Hybrid (joint for household + separate personal)**
+⚠️ **REQUIRES TEXT MATCH!** Copy-paste this exactly:
+```
+We will maintain a hybrid system with joint household account and separate personal accounts, with monthly budget reviews.
+```
 
 **Decision 6: Who pays for housing?**
 Answer: **Husband's responsibility**
@@ -160,7 +163,12 @@ Answer: **All of the above**
 
 ## QUICK REFERENCE: TEXT MATCH ANSWERS
 
-3 checkpoints require exact text matching:
+4 checkpoints require exact text matching:
+
+**Checkpoint 5 (Financial System):**
+```
+We will maintain a hybrid system with joint household account and separate personal accounts, with monthly budget reviews.
+```
 
 **Checkpoint 8 (Financial Goals):**
 ```

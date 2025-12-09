@@ -70,7 +70,11 @@ export default function InfoModal({ isOpen, onClose }) {
               <div className="bg-green-50 p-3 rounded border-l-4 border-green-500">
                 <p className="font-bold text-green-900 mb-2">TOPIC 2: FINANCES (4 decisions)</p>
                 <div className="space-y-2 ml-2">
-                  <p className="text-sm"><strong>5. Financial system:</strong><br/>Hybrid (joint for household + separate personal)</p>
+                  <p className="text-sm"><strong>5. Financial system:</strong></p>
+                  <p className="text-xs bg-white p-2 rounded border mt-1">
+                    ⚠️ <strong>TEXT MATCH REQUIRED:</strong> Copy this exactly:<br/>
+                    <span className="font-mono text-xs">We will maintain a hybrid system with joint household account and separate personal accounts, with monthly budget reviews.</span>
+                  </p>
                   <p className="text-sm"><strong>6. Housing payment:</strong><br/>Husband's responsibility</p>
                   <p className="text-sm"><strong>7. Loans & debt:</strong><br/>No, all loans discussed together</p>
                   <p className="text-sm"><strong>8. Financial goals:</strong></p>
