@@ -1,0 +1,394 @@
+{
+  "courseTitle": "Course 2: Communication & Planning Together",
+  "courseDuration": "75 minutes",
+  "totalSlides": 50,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 2",
+      "subtitle": "COMMUNICATION & PLANNING TOGETHER",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "WHAT MALDIVES FAMILY COURT SEES",
+      "sections": [
+        {
+          "heading": "FROM MALDIVES FAMILY COURT:",
+          "quote": "The biggest and most common cause of divorce we see is lack of communication. People not having conversations that need to be had. Many discussions should have been had BEFORE marriage."
+        },
+        {
+          "heading": "THE PROBLEM:",
+          "items": [
+            "Not discussing important topics before marriage",
+            "Assuming 'we'll figure it out later'",
+            "Avoiding difficult conversations",
+            "'When you're in love, talking about these things isn't appropriate'"
+          ]
+        },
+        {
+          "heading": "THE REALITY:",
+          "items": [
+            "Love doesn't automatically create agreement",
+            "Assumptions lead to resentment",
+            "'We'll figure it out' becomes 'Why didn't we discuss this?!'",
+            "Couples who discuss everything before marriage have stronger, happier marriages"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "title": "IF YOU CAN'T COMMUNICATE BEFORE MARRIAGE...",
+      "sections": [
+        {
+          "heading": "TRUTH:",
+          "content": "If you can't have these conversations BEFORE marriage when everything is romantic and hopeful..."
+        },
+        {
+          "heading": "You definitely won't be able to have them DURING marriage when:",
+          "items": [
+            "Money is tight",
+            "You're exhausted",
+            "Baby is crying",
+            "You're angry at each other",
+            "Resentment has built up"
+          ]
+        }
+      ],
+      "footer": "Communication skills learned NOW = Foundation for entire marriage"
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "WHAT THIS COURSE WILL DO",
+      "sections": [
+        {
+          "heading": "YOU WILL:",
+          "items": [
+            "Learn how to communicate (active listening, 'I' statements, PAUSE technique)",
+            "Practice communication skills",
+            "Discuss 15 essential topics that couples must agree on",
+            "Make joint decisions on major life areas",
+            "Identify where you agree (and where you don't)",
+            "Know what to put in your marital agreement"
+          ]
+        },
+        {
+          "heading": "BY THE END:",
+          "items": [
+            "You'll have discussed every major life decision",
+            "You'll know how to handle disagreements",
+            "You'll be prepared for marriage",
+            "You'll have communication framework for life together"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "title": "ACTIVE LISTENING",
+      "sections": [
+        {
+          "heading": "NOT Active Listening:",
+          "symbol": "✗",
+          "items": [
+            "Waiting for your turn to talk",
+            "Planning your response",
+            "Interrupting",
+            "Checking phone",
+            "'I know what you mean'"
+          ]
+        },
+        {
+          "heading": "Active Listening IS:",
+          "symbol": "✓",
+          "items": [
+            "Full attention",
+            "Understanding their view",
+            "Reflecting back",
+            "Letting them finish",
+            "'Tell me more'"
+          ]
+        }
+      ],
+      "footer": "Goal: Make your partner feel HEARD"
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "4 STEPS OF ACTIVE LISTENING",
+      "steps": [
+        {
+          "number": 1,
+          "title": "STOP what you're doing",
+          "items": [
+            "Put phone away",
+            "Turn toward partner",
+            "Make eye contact"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "LISTEN without interrupting",
+          "items": [
+            "Let them finish completely",
+            "Notice emotions, not just words"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "REFLECT back what you heard",
+          "items": [
+            "'What I hear you saying is...'",
+            "'It sounds like you feel...'"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "ASK for clarification",
+          "items": [
+            "'Did I understand correctly?'",
+            "'Tell me more about...'"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "title": "\"YOU\" STATEMENTS vs \"I\" STATEMENTS",
+      "sections": [
+        {
+          "heading": "YOU Statements (Create Defensiveness):",
+          "symbol": "✗",
+          "items": [
+            "'You never help around the house'",
+            "'You always spend too much'",
+            "'You don't care about my feelings'",
+            "'You're just like your mother'"
+          ]
+        },
+        {
+          "heading": "I Statements (Invite Discussion):",
+          "symbol": "✓",
+          "items": [
+            "'I feel overwhelmed with housework'",
+            "'I'm worried about our budget'",
+            "'I feel hurt when...'",
+            "'I need...'"
+          ]
+        }
+      ],
+      "formula": "I feel [emotion] when [situation] because [reason]. I need [request]."
+    },
+    {
+      "id": 8,
+      "type": "content",
+      "title": "WHEN EMOTIONS GET TOO HIGH",
+      "warningSignsHeading": "Warning Signs You Need a Break:",
+      "warningSigns": [
+        "Raised voices",
+        "Name-calling",
+        "Bringing up past issues",
+        "Saying hurtful things",
+        "Physical tension",
+        "Can't hear each other"
+      ],
+      "techniqueTitle": "THE PAUSE TECHNIQUE:",
+      "technique": [
+        {
+          "letter": "P",
+          "text": "Pause the conversation"
+        },
+        {
+          "letter": "A",
+          "text": "Acknowledge emotions ('I'm too upset')"
+        },
+        {
+          "letter": "U",
+          "text": "Understand it's not giving up"
+        },
+        {
+          "letter": "S",
+          "text": "Set time to return ('Let's talk in 1 hour')"
+        },
+        {
+          "letter": "E",
+          "text": "Exit calmly (no slamming doors)"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "content",
+      "title": "RULES FOR FAIR FIGHTING",
+      "sections": [
+        {
+          "heading": "DO:",
+          "symbol": "✓",
+          "items": [
+            "Stay on current issue",
+            "Use 'I' statements",
+            "Take breaks if needed",
+            "Look for solutions",
+            "Apologize when wrong",
+            "Forgive"
+          ]
+        },
+        {
+          "heading": "DON'T:",
+          "symbol": "✗",
+          "items": [
+            "Bring up past fights",
+            "Call names or insult",
+            "Threaten divorce",
+            "Involve others (unless mediator)",
+            "Use silent treatment",
+            "Criticize partner's family"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "type": "video",
+      "title": "BUILDING EMPATHY",
+      "intro": {
+        "question": "What is Empathy?",
+        "answer": "'Understanding how your partner feels, even if you don't agree'"
+      },
+      "content": {
+        "heading": "Why People See Things Differently:",
+        "reasons": [
+          "How you were raised",
+          "Your past experiences",
+          "Your values and priorities",
+          "Your fears and hopes"
+        ]
+      },
+      "example": {
+        "title": "Example: Money",
+        "scenarios": [
+          "One partner saves every rufiyaa (grew up poor)",
+          "Other spends freely (never worried about money)"
+        ],
+        "conclusion": "Both are valid based on their experience!"
+      },
+      "video": {
+        "duration": "5min",
+        "description": "Examples of perspective-taking in marriage"
+      }
+    },
+    {
+      "id": 11,
+      "type": "practice",
+      "title": "PRACTICE: CONVERT TO \"I\" STATEMENTS",
+      "subtitle": "Transform these 'You' statements:",
+      "exercises": [
+        {
+          "number": 1,
+          "youStatement": "'You never listen to me!'",
+          "template": "I feel _______ when I'm talking and you're on your phone because _______. I need _______."
+        },
+        {
+          "number": 2,
+          "youStatement": "'You're always late!'",
+          "template": "I feel _______ when we have plans and I wait because _______. I need _______."
+        }
+      ],
+      "instructions": "[Both partners complete independently]",
+      "helpText": "Feelings words to help: worried, hurt, frustrated, lonely, overwhelmed, scared, disappointed, unimportant"
+    },
+    {
+      "id": 12,
+      "type": "content",
+      "title": "PRACTICE SCENARIO: THE PHONE ISSUE",
+      "scenario": "Partner A feels hurt because Partner B is always on their phone during dinner.",
+      "sections": [
+        {
+          "heading": "BAD RESPONSE:",
+          "symbol": "✗",
+          "content": "'You never pay attention to me! You care more about your phone than me!'"
+        },
+        {
+          "heading": "GOOD RESPONSE (I Statement):",
+          "symbol": "✓",
+          "content": "'I feel lonely when we're at dinner and you're on your phone, because I want us to connect. I need us to have phone-free dinners together.'"
+        },
+        {
+          "heading": "ACTIVE LISTENING RESPONSE:",
+          "content": "'I hear that you feel lonely at dinner when I'm on my phone. You're right - this is our time together. Let's both put phones away during meals.'"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "video",
+      "title": "COMMUNICATION IN ACTION",
+      "video": {
+        "duration": "3min",
+        "description": "Video demonstration of couple using these communication skills"
+      }
+    },
+    {
+      "id": 14,
+      "type": "content",
+      "title": "AVOIDING THE BIG MISTAKE",
+      "sections": [
+        {
+          "heading": "THE MISTAKE:",
+          "content": "Assuming you both want the same things without actually discussing them."
+        },
+        {
+          "heading": "WHAT HAPPENS:",
+          "items": [
+            "Partner A assumes they'll have 5 children",
+            "Partner B assumes they'll have 1-2",
+            "They never actually discussed it",
+            "After marriage: HUGE conflict"
+          ]
+        },
+        {
+          "heading": "THE SOLUTION:",
+          "content": "DISCUSS EVERYTHING NOW. Even if it feels awkward."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "transition",
+      "title": "NOW: THE 15 ESSENTIAL DISCUSSIONS",
+      "intro": "From Maldives Family Court and focus groups with married/divorced couples, these are the topics that MUST be discussed before marriage.",
+      "footer": "Let's begin."
+    },
+    {
+      "id": 16,
+      "type": "content",
+      "title": "THE 15 ESSENTIAL TOPICS",
+      "intro": "These are the conversations that matter:",
+      "topics": [
+        "1. Children - Do we want them? When? How many?",
+        "2. Financial Management - How will we handle money?",
+        "3. Living Location - Where will we live?",
+        "4. Work & Career - Will both work?",
+        "5. Education Plans - Further studies?",
+        "6. Family Boundaries - How involved will families be?",
+        "7. Decision-Making - How do we decide things together?",
+        "8. Household Responsibilities - Who does what at home?",
+        "9. Religious Practices - What are our expectations?",
+        "10. Health Disclosure - Any conditions to share?",
+        "11. Conflict Resolution - How will we handle fights?",
+        "12. Future Contingencies - What if situations change?",
+        "13. Life Goals - What do we want to achieve?",
+        "14. Daily Life - Practical day-to-day agreements",
+        "15. Communication Agreement - Our ongoing communication plan"
+      ],
+      "footer": "Let's discuss each one."
+    }
+  ]
+}

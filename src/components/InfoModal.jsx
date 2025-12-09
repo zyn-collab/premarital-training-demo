@@ -51,63 +51,76 @@ export default function InfoModal({ isOpen, onClose }) {
 
           {/* Demo Answers */}
           <section>
-            <h3 className="text-xl font-bold text-gray-800 mb-3">✅ Demo Answers to Use</h3>
+            <h3 className="text-xl font-bold text-gray-800 mb-3">✅ All 22 Demo Answers to Use</h3>
+            <p className="text-sm text-gray-600 mb-4">Use these answers to successfully complete all checkpoints</p>
 
-            <div className="space-y-4">
-              {/* Decision 1 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 1: Children</p>
-                <p className="text-gray-700">Yes, we want children (number flexible)</p>
-              </div>
-
-              {/* Decision 2 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 2: When</p>
-                <p className="text-gray-700">Wait 1 year to strengthen relationship</p>
-              </div>
-
-              {/* Decision 3 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 3: Money Management</p>
-                <p className="text-gray-700 mb-2"><strong>Dropdown:</strong> Hybrid: Joint for household + separate personal</p>
-                <p className="text-gray-700 mb-1"><strong>Copy-paste this text:</strong></p>
-                <div className="bg-gray-50 p-2 rounded border border-gray-300">
-                  <p className="text-sm font-mono">We will maintain a hybrid system with joint household account and separate personal accounts, with monthly budget reviews.</p>
+            <div className="space-y-3 max-h-96 overflow-y-auto pr-2">
+              {/* TOPIC 1: CHILDREN */}
+              <div className="bg-blue-50 p-3 rounded border-l-4 border-blue-500">
+                <p className="font-bold text-blue-900 mb-2">TOPIC 1: CHILDREN (4 decisions)</p>
+                <div className="space-y-2 ml-2">
+                  <p className="text-sm"><strong>1. Do we want children?</strong><br/>Yes, but flexible about it</p>
+                  <p className="text-sm"><strong>2. How many?</strong><br/>Flexible, we'll see</p>
+                  <p className="text-sm"><strong>3. When to start?</strong><br/>Wait 1 year</p>
+                  <p className="text-sm"><strong>4. If infertility:</strong><br/>Seek medical fertility treatment</p>
                 </div>
               </div>
 
-              {/* Decision 4 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 4: Where to Live</p>
-                <p className="text-gray-700">Independently (our own place)</p>
-              </div>
-
-              {/* Decision 5 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 5: Work & Career</p>
-                <p className="text-gray-700">Both will work outside home</p>
-              </div>
-
-              {/* Decision 6 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 6: Family Relationships</p>
-                <p className="text-gray-700 mb-2"><strong>Dropdown:</strong> Each handles their own family's issues</p>
-                <p className="text-gray-700 mb-1"><strong>Copy-paste this text:</strong></p>
-                <div className="bg-gray-50 p-2 rounded border border-gray-300">
-                  <p className="text-sm font-mono">We agree that each partner will handle issues with their own family first, and only involve the spouse when necessary for support.</p>
+              {/* TOPIC 2: FINANCES */}
+              <div className="bg-green-50 p-3 rounded border-l-4 border-green-500">
+                <p className="font-bold text-green-900 mb-2">TOPIC 2: FINANCES (4 decisions)</p>
+                <div className="space-y-2 ml-2">
+                  <p className="text-sm"><strong>5. Financial system:</strong><br/>Hybrid (joint for household + separate personal)</p>
+                  <p className="text-sm"><strong>6. Housing payment:</strong><br/>Husband's responsibility</p>
+                  <p className="text-sm"><strong>7. Loans & debt:</strong><br/>No, all loans discussed together</p>
+                  <p className="text-sm"><strong>8. Financial goals:</strong><br/>Save for house deposit</p>
                 </div>
               </div>
 
-              {/* Decision 7 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 7: Decision Making</p>
-                <p className="text-gray-700">All major decisions made jointly (must both agree)</p>
+              {/* TOPIC 3: LIVING */}
+              <div className="bg-purple-50 p-3 rounded border-l-4 border-purple-500">
+                <p className="font-bold text-purple-900 mb-2">TOPIC 3: LIVING (2 decisions)</p>
+                <div className="space-y-2 ml-2">
+                  <p className="text-sm"><strong>9. Where live:</strong><br/>Independently (our own place)</p>
+                  <p className="text-sm"><strong>10. Housing type:</strong><br/>Rental apartment</p>
+                </div>
               </div>
 
-              {/* Decision 8 */}
-              <div className="bg-white border-2 border-gray-200 rounded-lg p-4">
-                <p className="font-semibold text-emerald-600 mb-2">Decision 8: Raising Children</p>
-                <p className="text-gray-700">We'll follow Islamic guidance and decide together</p>
+              {/* TOPIC 4: WORK */}
+              <div className="bg-yellow-50 p-3 rounded border-l-4 border-yellow-500">
+                <p className="font-bold text-yellow-900 mb-2">TOPIC 4: WORK (2 decisions)</p>
+                <div className="space-y-2 ml-2">
+                  <p className="text-sm"><strong>11. Both work?</strong><br/>Both work outside home</p>
+                  <p className="text-sm"><strong>12. Work-life balance:</strong><br/>Share household tasks equally</p>
+                </div>
+              </div>
+
+              {/* TOPIC 5: FAMILY */}
+              <div className="bg-red-50 p-3 rounded border-l-4 border-red-500">
+                <p className="font-bold text-red-900 mb-2">TOPIC 5: FAMILY (2 decisions)</p>
+                <div className="space-y-2 ml-2">
+                  <p className="text-sm"><strong>13. Family involvement:</strong><br/>Each handles their own family's issues</p>
+                  <p className="text-xs bg-white p-2 rounded border mt-1">
+                    ⚠️ <strong>TEXT MATCH REQUIRED:</strong> Copy this exactly:<br/>
+                    <span className="font-mono text-xs">We agree that each partner will handle issues with their own family first, and only involve the spouse when necessary for support.</span>
+                  </p>
+                  <p className="text-sm"><strong>14. Elderly parents:</strong><br/>Each looks after own parents</p>
+                </div>
+              </div>
+
+              {/* TOPICS 6-15: REMAINING */}
+              <div className="bg-indigo-50 p-3 rounded border-l-4 border-indigo-500">
+                <p className="font-bold text-indigo-900 mb-2">REMAINING TOPICS (8 decisions)</p>
+                <div className="space-y-2 ml-2">
+                  <p className="text-sm"><strong>15. Decision-making:</strong><br/>All decided jointly (both must agree)</p>
+                  <p className="text-sm"><strong>16. Housework:</strong><br/>Split everything equally</p>
+                  <p className="text-sm"><strong>17. Religious practice:</strong><br/>Support each other's practice</p>
+                  <p className="text-sm"><strong>18. Health screening:</strong><br/>Yes, including STI and thalassemia testing</p>
+                  <p className="text-sm"><strong>19. Conflict resolution:</strong><br/>All of the above</p>
+                  <p className="text-sm"><strong>20. Life changes:</strong><br/>All of the above</p>
+                  <p className="text-sm"><strong>21. Daily life:</strong><br/>All of the above</p>
+                  <p className="text-sm"><strong>22. Communication:</strong><br/>All of the above</p>
+                </div>
               </div>
             </div>
           </section>

@@ -1,0 +1,92 @@
+{
+  "courseTitle": "Course 2: Communication & Planning Together",
+  "courseDuration": "75 minutes",
+  "totalSlides": 4,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 2",
+      "subtitle": "COMMUNICATION & PLANNING TOGETHER",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "WHAT MALDIVES FAMILY COURT SEES",
+      "sections": [
+        {
+          "heading": "FROM MALDIVES FAMILY COURT:",
+          "quote": "The biggest and most common cause of divorce we see is lack of communication. People not having conversations that need to be had. Many discussions should have been had BEFORE marriage."
+        },
+        {
+          "heading": "THE PROBLEM:",
+          "items": [
+            "Not discussing important topics before marriage",
+            "Assuming we will figure it out later",
+            "Avoiding difficult conversations",
+            "When you are in love, talking about these things is not appropriate"
+          ]
+        },
+        {
+          "heading": "THE REALITY:",
+          "items": [
+            "Love does not automatically create agreement",
+            "Assumptions lead to resentment",
+            "We will figure it out becomes Why did we not discuss this?!",
+            "Couples who discuss everything before marriage have stronger, happier marriages"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "title": "IF YOU CANNOT COMMUNICATE BEFORE MARRIAGE...",
+      "sections": [
+        {
+          "heading": "TRUTH:",
+          "content": "If you cannot have these conversations BEFORE marriage when everything is romantic and hopeful..."
+        },
+        {
+          "heading": "You definitely will not be able to have them DURING marriage when:",
+          "items": [
+            "Money is tight",
+            "You are exhausted",
+            "Baby is crying",
+            "You are angry at each other",
+            "Resentment has built up"
+          ]
+        }
+      ],
+      "footer": "Communication skills learned NOW = Foundation for entire marriage"
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "WHAT THIS COURSE WILL DO",
+      "sections": [
+        {
+          "heading": "YOU WILL:",
+          "items": [
+            "Learn how to communicate (active listening, I statements, PAUSE technique)",
+            "Practice communication skills",
+            "Discuss 15 essential topics that couples must agree on",
+            "Make joint decisions on major life areas",
+            "Identify where you agree (and where you do not)",
+            "Know what to put in your marital agreement"
+          ]
+        },
+        {
+          "heading": "BY THE END:",
+          "items": [
+            "You will have discussed every major life decision",
+            "You will know how to handle disagreements",
+            "You will be prepared for marriage",
+            "You will have communication framework for life together"
+          ]
+        }
+      ]
+    }
+  ]
+}

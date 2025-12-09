@@ -1,0 +1,177 @@
+# DEMO ANSWERS FOR COURSE 2: COMMUNICATION & PLANNING TOGETHER
+
+## HOW THE APP WORKS
+
+### Real App (Full Version):
+1. Both partners access the course independently on their own devices
+2. Each partner submits their answers without seeing the other's responses
+3. Answers are stored in a database
+4. The system compares both answers when both have submitted
+5. Partners can only proceed when answers match
+6. Partners can go back and change answers until they reach agreement
+
+### Demo Version:
+- Simulates Partner A's answer with predefined "correct" answers
+- When you submit, it validates against these simulated partner answers
+- Demonstrates the validation logic without requiring a backend
+- You can test the validation by intentionally selecting wrong answers first
+
+---
+
+## ALL 22 DECISION CHECKPOINT ANSWERS
+
+Use these answers to successfully complete the demo:
+
+### TOPIC 1: CHILDREN (Checkpoints 1-4)
+
+**Decision 1: Do we want children?**
+Answer: **Yes, but flexible about it**
+
+**Decision 2: How many children?**
+Answer: **Flexible, we'll see**
+
+**Decision 3: When to start?**
+Answer: **Wait 1 year**
+
+**Decision 4: If we face infertility**
+Answer: **Seek medical fertility treatment**
+
+---
+
+### TOPIC 2: FINANCES (Checkpoints 5-8)
+
+**Decision 5: Financial system**
+Answer: **Hybrid (joint for household + separate personal)**
+
+**Decision 6: Who pays for housing?**
+Answer: **Husband's responsibility**
+
+**Decision 7: Big purchases & debt**
+Answer: **No, all loans discussed together**
+
+**Decision 8: Financial goals**
+Answer: **Save for house deposit**
+
+---
+
+### TOPIC 3: LIVING (Checkpoints 9-10)
+
+**Decision 9: Where will we live?**
+Answer: **Independently (our own place)**
+
+**Decision 10: Type of housing**
+Answer: **Rental apartment**
+
+---
+
+### TOPIC 4: WORK (Checkpoints 11-12)
+
+**Decision 11: Will both partners work?**
+Answer: **Both work outside home**
+
+**Decision 12: Work-life balance**
+Answer: **Share household tasks equally**
+
+---
+
+### TOPIC 5: FAMILY (Checkpoints 13-14)
+
+**Decision 13: Family involvement**
+Answer: **Each handles their own family's issues**
+⚠️ **REQUIRES TEXT MATCH!** Copy-paste this exactly:
+```
+We agree that each partner will handle issues with their own family first, and only involve the spouse when necessary for support.
+```
+
+**Decision 14: Supporting elderly parents**
+Answer: **Each looks after own parents**
+
+---
+
+### TOPIC 6: DECISION-MAKING (Checkpoint 15)
+
+**Decision 15: How we make decisions**
+Answer: **All decided jointly (both must agree)**
+
+---
+
+### TOPIC 7: HOUSEHOLD (Checkpoint 16)
+
+**Decision 16: Division of housework**
+Answer: **Split everything equally**
+
+---
+
+### TOPIC 8: RELIGIOUS (Checkpoint 17)
+
+**Decision 17: Islamic practice expectations**
+Answer: **Support each other's practice**
+
+---
+
+### TOPIC 9: HEALTH (Checkpoint 18)
+
+**Decision 18: Health screening agreement**
+Answer: **Yes, including STI and thalassemia testing**
+
+---
+
+### TOPIC 10: CONFLICT (Checkpoint 19)
+
+**Decision 19: How we'll handle conflicts**
+Answer: **All of the above**
+
+---
+
+### TOPIC 11: CONTINGENCIES (Checkpoint 20)
+
+**Decision 20: If serious illness or disability**
+Answer: **All of the above**
+
+---
+
+### TOPICS 12-15: REMAINING (Checkpoints 21-22)
+
+**Decision 21: Day-to-day living**
+Answer: **All of the above**
+
+**Decision 22: Our communication plan**
+Answer: **All of the above**
+
+---
+
+## DEMO TIPS
+
+1. **Try wrong answers first** to see the validation error messages
+2. **Then use correct answers** to proceed through the course
+3. **For text match questions (Decision 13)**: Copy-paste the exact text provided above
+4. **Content slides** auto-advance after 4 seconds
+5. **Video slides** play for 10 seconds
+6. **Use "Reset Demo"** button (bottom right) to clear all progress and start over
+7. **You can go back** to previous slides to change answers
+
+---
+
+## QUICK REFERENCE: TEXT MATCH ANSWERS
+
+Only 1 checkpoint requires exact text matching:
+
+**Checkpoint 13 (Family Involvement):**
+```
+We agree that each partner will handle issues with their own family first, and only involve the spouse when necessary for support.
+```
+
+---
+
+## TESTING THE VALIDATION
+
+To demonstrate the matching logic:
+1. Select a wrong answer → See error message
+2. Select correct answer → Proceed to next slide
+3. Go back and change answer → Previous answer is remembered
+4. Reset Demo → All answers cleared
+
+---
+
+Last updated: Complete 50-slide Course 2 version
+Total decisions: 22 checkpoints covering 15 essential topics

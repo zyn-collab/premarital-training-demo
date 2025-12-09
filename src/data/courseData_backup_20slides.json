@@ -1,0 +1,559 @@
+{
+  "courseTitle": "Course 2: Communication & Planning Together",
+  "courseDuration": "75 minutes",
+  "totalSlides": 20,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 2",
+      "subtitle": "COMMUNICATION & PLANNING TOGETHER",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "video",
+      "title": "WHY COMMUNICATION MATTERS",
+      "quote": "Communication issues are cited in 65% of divorce cases",
+      "content": {
+        "poorCommunication": {
+          "heading": "Poor Communication Leads To:",
+          "items": [
+            "Misunderstandings",
+            "Resentment",
+            "Escalating conflicts",
+            "Emotional distance",
+            "Divorce"
+          ]
+        },
+        "goodCommunication": {
+          "heading": "Good Communication Builds:",
+          "items": [
+            "Trust",
+            "Intimacy",
+            "Problem-solving ability",
+            "Strong partnership",
+            "Lasting love"
+          ]
+        }
+      },
+      "footer": "Let's learn the skills!",
+      "video": {
+        "duration": "3min",
+        "description": "Overview of communication in marriage",
+        "note": "Consider inviting marriage counselor if available"
+      }
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "title": "ACTIVE LISTENING",
+      "sections": [
+        {
+          "heading": "NOT Active Listening:",
+          "symbol": "✗",
+          "items": [
+            "Waiting for your turn to talk",
+            "Planning your response",
+            "Interrupting",
+            "Checking phone",
+            "\"I know what you mean\""
+          ]
+        },
+        {
+          "heading": "Active Listening IS:",
+          "symbol": "✓",
+          "items": [
+            "Full attention",
+            "Understanding their view",
+            "Reflecting back",
+            "Letting them finish",
+            "\"Tell me more\""
+          ]
+        }
+      ],
+      "footer": "Goal: Make your partner feel HEARD"
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "4 STEPS OF ACTIVE LISTENING",
+      "steps": [
+        {
+          "number": 1,
+          "title": "STOP what you're doing",
+          "items": [
+            "Put phone away",
+            "Turn toward partner",
+            "Make eye contact"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "LISTEN without interrupting",
+          "items": [
+            "Let them finish completely",
+            "Notice emotions, not just words"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "REFLECT back what you heard",
+          "items": [
+            "\"What I hear you saying is...\"",
+            "\"It sounds like you feel...\""
+          ]
+        },
+        {
+          "number": 4,
+          "title": "ASK for clarification",
+          "items": [
+            "\"Did I understand correctly?\"",
+            "\"Tell me more about...\""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "title": "\"YOU\" STATEMENTS vs \"I\" STATEMENTS",
+      "sections": [
+        {
+          "heading": "YOU Statements (Create Defensiveness):",
+          "symbol": "✗",
+          "items": [
+            "\"You never help around the house\"",
+            "\"You always spend too much\"",
+            "\"You don't care about my feelings\"",
+            "\"You're just like your mother\""
+          ]
+        },
+        {
+          "heading": "I Statements (Invite Discussion):",
+          "symbol": "✓",
+          "items": [
+            "\"I feel overwhelmed with housework\"",
+            "\"I'm worried about our budget\"",
+            "\"I feel hurt when...\"",
+            "\"I need...\""
+          ]
+        }
+      ],
+      "formula": "I feel [emotion] when [situation] because [reason]. I need [request]."
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "WHEN EMOTIONS GET TOO HIGH",
+      "warningSignsHeading": "Warning Signs You Need a Break:",
+      "warningSigns": [
+        "Raised voices",
+        "Name-calling",
+        "Bringing up past issues",
+        "Saying hurtful things",
+        "Physical tension",
+        "Can't hear each other"
+      ],
+      "techniqueTitle": "THE PAUSE TECHNIQUE:",
+      "technique": [
+        {
+          "letter": "P",
+          "text": "Pause the conversation"
+        },
+        {
+          "letter": "A",
+          "text": "Acknowledge emotions (\"I'm too upset\")"
+        },
+        {
+          "letter": "U",
+          "text": "Understand it's not giving up"
+        },
+        {
+          "letter": "S",
+          "text": "Set time to return (\"Let's talk in 1 hour\")"
+        },
+        {
+          "letter": "E",
+          "text": "Exit calmly (no slamming doors)"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "title": "RULES FOR FAIR FIGHTING",
+      "sections": [
+        {
+          "heading": "DO:",
+          "symbol": "✓",
+          "items": [
+            "Stay on current issue",
+            "Use \"I\" statements",
+            "Take breaks if needed",
+            "Look for solutions",
+            "Apologize when wrong",
+            "Forgive"
+          ]
+        },
+        {
+          "heading": "DON'T:",
+          "symbol": "✗",
+          "items": [
+            "Bring up past fights",
+            "Call names or insult",
+            "Threaten divorce",
+            "Involve others (unless mediator)",
+            "Use silent treatment",
+            "Criticize partner's family"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "video",
+      "title": "BUILDING EMPATHY",
+      "intro": {
+        "question": "What is Empathy?",
+        "answer": "\"Understanding how your partner feels, even if you don't agree\""
+      },
+      "content": {
+        "heading": "Why People See Things Differently:",
+        "reasons": [
+          "How you were raised",
+          "Your past experiences",
+          "Your values and priorities",
+          "Your fears and hopes"
+        ]
+      },
+      "example": {
+        "title": "Example: Money",
+        "scenarios": [
+          "One partner saves every rufiyaa (grew up poor)",
+          "Other spends freely (never worried about money)"
+        ],
+        "conclusion": "Both are valid based on their experience!"
+      },
+      "video": {
+        "duration": "5min",
+        "description": "Examples of perspective-taking in marriage"
+      }
+    },
+    {
+      "id": 9,
+      "type": "practice",
+      "title": "PRACTICE: CONVERT TO \"I\" STATEMENTS",
+      "subtitle": "Transform these \"You\" statements:",
+      "exercises": [
+        {
+          "number": 1,
+          "youStatement": "\"You never listen to me!\"",
+          "template": "I feel _______ when I'm talking and you're on your phone because _______. I need _______."
+        },
+        {
+          "number": 2,
+          "youStatement": "\"You're always late!\"",
+          "template": "I feel _______ when we have plans and I wait because _______. I need _______."
+        }
+      ],
+      "instructions": "[Both partners complete independently]",
+      "note": "[Ghaazee can review if \"need to discuss\" selected too many times]",
+      "helpText": "Feelings words to help: worried, hurt, frustrated, lonely, overwhelmed, scared, disappointed, unimportant"
+    },
+    {
+      "id": 10,
+      "type": "transition",
+      "title": "NOW: PLAN YOUR LIFE TOGETHER",
+      "intro": "In Course 1, you saw a checklist of topics to discuss.\n\nNow it's time to actually make those decisions.",
+      "howItWorks": {
+        "heading": "How this works:",
+        "steps": [
+          "Each topic has a question",
+          "Both partners answer independently",
+          "Answers must MATCH to proceed",
+          "If don't match → discuss and resubmit",
+          "If \"need to discuss\" → will discuss with Ghaazee or counselor"
+        ]
+      },
+      "footer": "Ready? Let's begin."
+    },
+    {
+      "id": 11,
+      "type": "checkpoint",
+      "checkpointNumber": 1,
+      "title": "DECISION 1: DO WE WANT CHILDREN?",
+      "subtitle": "This is the most important decision you'll make. Discuss honestly.",
+      "discussionPoints": {
+        "heading": "Talk about:",
+        "items": [
+          "Do we both want children?",
+          "How many children ideally?",
+          "When should we start trying?",
+          "What if we face infertility?",
+          "Would we consider adoption?"
+        ]
+      },
+      "question": "Both partners select (must match):",
+      "options": [
+        "Yes, we want children (1-2 children)",
+        "Yes, we want children (3+ children)",
+        "Yes, we want children (number flexible)",
+        "No, we don't want children",
+        "We're unsure - need more time to decide",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "Yes, we want children (number flexible)",
+      "needDiscussMessage": "This topic will be discussed during your pre-marriage meeting with the Ghaazee/marriage officer. Counseling is also available: [number]",
+      "requiresTextMatch": false
+    },
+    {
+      "id": 12,
+      "type": "checkpoint",
+      "checkpointNumber": 2,
+      "title": "DECISION 2: WHEN TO HAVE CHILDREN?",
+      "subtitle": "(Only if you want children)",
+      "intro": {
+        "heading": "Timing matters for:",
+        "items": [
+          "Your relationship stability",
+          "Financial readiness",
+          "Career goals",
+          "Health preparation"
+        ]
+      },
+      "question": "Both partners select (must match):",
+      "options": [
+        "Start trying immediately after marriage",
+        "Wait 1 year to strengthen relationship",
+        "Wait 2-3 years to achieve financial stability",
+        "Wait 3+ years for career/education",
+        "Flexible - see how we feel",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "Wait 1 year to strengthen relationship",
+      "requiresTextMatch": false
+    },
+    {
+      "id": 13,
+      "type": "checkpoint",
+      "checkpointNumber": 3,
+      "title": "DECISION 3: HOW WILL WE MANAGE MONEY?",
+      "subtitle": "Money is a top cause of conflict. Decide your system NOW.",
+      "reminder": {
+        "heading": "Remember Islamic rights:",
+        "items": [
+          "Wife's money is hers alone",
+          "Husband provides nafaqa",
+          "Wife can contribute voluntarily"
+        ]
+      },
+      "question": "Both partners select (must match):",
+      "options": [
+        "Completely joint finances (all in one account)",
+        "Completely separate finances",
+        "Hybrid: Joint for household + separate personal",
+        "Husband manages all money",
+        "Wife manages all money",
+        "We manage together with equal input",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "Hybrid: Joint for household + separate personal",
+      "requiresTextMatch": true,
+      "textMatchPrompt": "Please both copy-paste your agreed statement:",
+      "correctTextMatch": "We will maintain a hybrid system with joint household account and separate personal accounts, with monthly budget reviews."
+    },
+    {
+      "id": 14,
+      "type": "checkpoint",
+      "checkpointNumber": 4,
+      "title": "DECISION 4: WHERE WILL WE LIVE?",
+      "intro": {
+        "heading": "Location affects everything:",
+        "items": [
+          "Jobs and income",
+          "Family proximity",
+          "Lifestyle",
+          "Costs",
+          "Support network"
+        ]
+      },
+      "question": "Both partners select (must match):",
+      "options": [
+        "Malé",
+        "[Specific atoll/island - free text allowed]",
+        "With husband's family",
+        "With wife's family",
+        "Independently (our own place)",
+        "Flexible - wherever work takes us",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "Independently (our own place)",
+      "requiresTextMatch": false
+    },
+    {
+      "id": 15,
+      "type": "checkpoint",
+      "checkpointNumber": 5,
+      "title": "DECISION 5: WORK & CAREER PLANS",
+      "intro": {
+        "heading": "Work affects:",
+        "items": [
+          "Income and finances",
+          "Time together",
+          "Childcare arrangements",
+          "Life goals"
+        ]
+      },
+      "question": "Both partners select (must match):",
+      "options": [
+        "Both will work outside home",
+        "Only husband will work",
+        "Only wife will work",
+        "One works while other studies, then may switch",
+        "Flexible based on circumstances",
+        "Will decide based on children",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "Both will work outside home",
+      "requiresTextMatch": false
+    },
+    {
+      "id": 16,
+      "type": "checkpoint",
+      "checkpointNumber": 6,
+      "title": "DECISION 6: RELATIONSHIPS WITH FAMILIES",
+      "subtitle": "In-law problems destroy many marriages. Prevent them by setting boundaries now.",
+      "question": "Both partners select (must match):",
+      "options": [
+        "Families can visit and advise freely",
+        "We set clear visiting schedules and boundaries",
+        "We keep some distance from both families",
+        "We involve families in major decisions",
+        "We make our own decisions, inform families after",
+        "Each handles their own family's issues",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "Each handles their own family's issues",
+      "requiresTextMatch": true,
+      "textMatchPrompt": "Please both copy-paste your agreed statement:",
+      "correctTextMatch": "We agree that each partner will handle issues with their own family first, and only involve the spouse when necessary for support."
+    },
+    {
+      "id": 17,
+      "type": "checkpoint",
+      "checkpointNumber": 7,
+      "title": "DECISION 7: HOW DO WE MAKE DECISIONS?",
+      "subtitle": "Who decides what? This prevents future arguments.",
+      "question": "Both partners select (must match):",
+      "options": [
+        "All major decisions made jointly (must both agree)",
+        "Each makes decisions in their area of expertise",
+        "We discuss until we agree on everything",
+        "If can't agree, seek counseling/mediation",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "All major decisions made jointly (must both agree)",
+      "requiresTextMatch": false
+    },
+    {
+      "id": 18,
+      "type": "checkpoint",
+      "checkpointNumber": 8,
+      "title": "DECISION 8: HOW WILL WE RAISE CHILDREN?",
+      "subtitle": "(Only if you want children)",
+      "intro": "These decisions shape your children's future:",
+      "question": "Both partners select (must match):",
+      "options": [
+        "We agree on approach (will detail in marital agreement)",
+        "We'll combine both our upbringings' best parts",
+        "We'll follow Islamic guidance and decide together",
+        "Modern parenting with Islamic values",
+        "Traditional parenting approach",
+        "We'll learn and decide as we go",
+        "Need to discuss with Ghaazee/counselor"
+      ],
+      "demoCorrectAnswer": "We'll follow Islamic guidance and decide together",
+      "requiresTextMatch": false
+    },
+    {
+      "id": 19,
+      "type": "summary",
+      "title": "YOUR DECISIONS SUMMARY",
+      "subtitle": "Review what you've agreed on:",
+      "decisionsToShow": [
+        {
+          "number": 1,
+          "label": "Children",
+          "checkpointId": 11
+        },
+        {
+          "number": 2,
+          "label": "When",
+          "checkpointId": 12
+        },
+        {
+          "number": 3,
+          "label": "Finance System",
+          "checkpointId": 13
+        },
+        {
+          "number": 4,
+          "label": "Living",
+          "checkpointId": 14
+        },
+        {
+          "number": 5,
+          "label": "Work",
+          "checkpointId": 15
+        },
+        {
+          "number": 6,
+          "label": "Family Boundaries",
+          "checkpointId": 16
+        },
+        {
+          "number": 7,
+          "label": "Decision-Making",
+          "checkpointId": 17
+        },
+        {
+          "number": 8,
+          "label": "Raising Children",
+          "checkpointId": 18
+        }
+      ],
+      "footer": {
+        "text1": "These can be included in your Marital Agreement.",
+        "text2": "You can download a template to formalize this.",
+        "buttonText": "Download Marital Agreement Template",
+        "note": "You can revise answers by going back."
+      }
+    },
+    {
+      "id": 20,
+      "type": "completion",
+      "title": "CONGRATULATIONS!",
+      "subtitle": "You have completed Course 2:",
+      "courseTitle": "COMMUNICATION & PLANNING TOGETHER",
+      "learned": {
+        "heading": "What you learned:",
+        "items": [
+          "Active listening skills",
+          "\"I\" statements",
+          "Conflict management (PAUSE technique)",
+          "Building empathy",
+          "Made major life decisions together"
+        ]
+      },
+      "created": {
+        "heading": "What you created:",
+        "items": [
+          "Shared understanding on 8 key topics",
+          "Foundation for marital agreement"
+        ]
+      },
+      "progress": "Certificate Progress: 2/6 Complete"
+    }
+  ]
+}
