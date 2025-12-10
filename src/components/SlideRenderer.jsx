@@ -6,8 +6,9 @@ import TransitionSlide from './slides/TransitionSlide';
 import CheckpointSlide from './slides/CheckpointSlide';
 import SummarySlide from './slides/SummarySlide';
 import CompletionSlide from './slides/CompletionSlide';
+import InteractiveSlide from './slides/InteractiveSlide';
 
-export default function SlideRenderer({ slide, onNextEnabled }) {
+export default function SlideRenderer({ slide, onNextEnabled, courseId = 2 }) {
   if (!slide) {
     return (
       <div className="bg-white rounded-lg shadow-lg p-8">
@@ -28,11 +29,13 @@ export default function SlideRenderer({ slide, onNextEnabled }) {
     case 'transition':
       return <TransitionSlide data={slide} onNextEnabled={onNextEnabled} />;
     case 'checkpoint':
-      return <CheckpointSlide data={slide} onNextEnabled={onNextEnabled} />;
+      return <CheckpointSlide data={slide} onNextEnabled={onNextEnabled} courseId={courseId} />;
     case 'summary':
       return <SummarySlide data={slide} onNextEnabled={onNextEnabled} />;
     case 'completion':
       return <CompletionSlide data={slide} />;
+    case 'interactive':
+      return <InteractiveSlide data={slide} onNextEnabled={onNextEnabled} />;
     default:
       return (
         <div className="bg-white rounded-lg shadow-lg p-8">

@@ -1,0 +1,103 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Foundations of Partnership",
+      "shortTitle": "Foundations",
+      "duration": "60 minutes",
+      "totalSlides": 28,
+      "description": "Learn the Quranic foundation of marriage, rights and responsibilities under Maldivian law, and build realistic expectations.",
+      "icon": "🤝",
+      "topics": [
+        "Quranic foundation of marriage",
+        "Islamic principles of partnership",
+        "Rights and responsibilities",
+        "Maldivian marriage law",
+        "Realistic expectations"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Communication & Planning Together",
+      "shortTitle": "Communication",
+      "duration": "75 minutes",
+      "totalSlides": 50,
+      "description": "Master communication skills and make joint decisions on 15 essential life topics through 22 decision checkpoints.",
+      "icon": "💬",
+      "topics": [
+        "Active listening",
+        "I-statements and conflict resolution",
+        "PAUSE technique",
+        "15 essential life decisions",
+        "Marital agreement planning"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Health & Intimacy",
+      "shortTitle": "Health",
+      "duration": "60 minutes",
+      "totalSlides": 32,
+      "description": "Understand reproductive health, family planning, intimate relations in Islam, and health screening requirements.",
+      "icon": "❤️",
+      "topics": [
+        "Reproductive health",
+        "Family planning options",
+        "Intimate relations in Islam",
+        "Health screening",
+        "Sexual health education"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Financial Partnership",
+      "shortTitle": "Finances",
+      "duration": "60 minutes",
+      "totalSlides": 30,
+      "description": "Learn Islamic financial rights, budgeting, debt management, and creating a sustainable financial plan together.",
+      "icon": "💰",
+      "topics": [
+        "Islamic financial rights",
+        "Budgeting and saving",
+        "Debt management",
+        "Financial transparency",
+        "Long-term planning"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Building a Safe Home & Navigating Systems",
+      "shortTitle": "Safe Home",
+      "duration": "70 minutes",
+      "totalSlides": 38,
+      "description": "Recognize warning signs, understand domestic violence laws, access support systems, and build a violence-free home.",
+      "icon": "🏠",
+      "topics": [
+        "Warning signs",
+        "Domestic violence laws",
+        "Support systems",
+        "Safety planning",
+        "Building safe relationships"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Parenting & Child Well-Being",
+      "shortTitle": "Parenting",
+      "duration": "60 minutes",
+      "totalSlides": 32,
+      "description": "Prepare for parenthood with Islamic guidance, modern parenting skills, and child protection knowledge.",
+      "icon": "👶",
+      "topics": [
+        "Islamic parenting principles",
+        "Child development",
+        "Positive discipline",
+        "Child protection",
+        "Co-parenting strategies"
+      ]
+    }
+  ],
+  "totalDuration": "6 hours",
+  "totalSlides": 210,
+  "certificateRequirement": "Complete all 6 courses"
+}

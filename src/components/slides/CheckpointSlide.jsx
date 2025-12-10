@@ -1,23 +1,28 @@
 import { useState, useEffect } from 'react';
-import { saveCheckpointAnswer, getCheckpointAnswer, getCheckpointTextAnswer } from '../../utils/localStorage';
+import {
+  saveCourseCheckpointAnswer,
+  getCourseCheckpointAnswer,
+  getCourseCheckpointTextAnswer,
+  getCourseProgress
+} from '../../utils/localStorage';
 
-export default function CheckpointSlide({ data, onNextEnabled }) {
+export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
   const [selectedOption, setSelectedOption] = useState('');
   const [textAnswer, setTextAnswer] = useState('');
   const [message, setMessage] = useState(null);
 
   useEffect(() => {
     // Load saved answer if exists
-    const saved = getCheckpointAnswer(data.checkpointNumber);
-    const savedText = getCheckpointTextAnswer(data.checkpointNumber);
+    const saved = getCourseCheckpointAnswer(courseId, data.checkpointNumber);
+    const savedText = getCourseCheckpointTextAnswer(courseId, data.checkpointNumber);
     if (saved) {
       setSelectedOption(saved);
       if (savedText) {
         setTextAnswer(savedText);
       }
       // If already passed, enable next button
-      const passed = localStorage.getItem(`checkpoint_${data.checkpointNumber}_passed`);
-      if (passed === 'true') {
+      const progress = getCourseProgress(courseId);
+      if (progress.checkpoints?.[data.checkpointNumber]?.passed) {
         setMessage({
           type: 'success',
           text: "✓ Answers match! You're aligned on this decision."
@@ -25,7 +30,7 @@ export default function CheckpointSlide({ data, onNextEnabled }) {
         onNextEnabled();
       }
     }
-  }, [data.checkpointNumber, onNextEnabled]);
+  }, [courseId, data.checkpointNumber, onNextEnabled]);
 
   const handleSubmit = () => {
     setMessage(null);
@@ -36,7 +41,7 @@ export default function CheckpointSlide({ data, onNextEnabled }) {
         type: 'warning',
         text: data.needDiscussMessage || "This topic will be discussed during your pre-marriage meeting with the Ghaazee/marriage officer."
       });
-      saveCheckpointAnswer(data.checkpointNumber, selectedOption);
+      saveCourseCheckpointAnswer(courseId, data.checkpointNumber, selectedOption);
       onNextEnabled();
       return;
     }
@@ -69,7 +74,7 @@ export default function CheckpointSlide({ data, onNextEnabled }) {
       type: 'success',
       text: "✓ Answers match! You're aligned on this decision."
     });
-    saveCheckpointAnswer(data.checkpointNumber, selectedOption, textAnswer || null);
+    saveCourseCheckpointAnswer(courseId, data.checkpointNumber, selectedOption, textAnswer || null);
     onNextEnabled();
   };
 

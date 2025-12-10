@@ -24,13 +24,21 @@ export default function ContentSlide({ data, onNextEnabled }) {
             {section.symbol && <span className="text-2xl">{section.symbol}</span>}
             {section.heading}
           </h3>
-          <ul className="space-y-2 ml-8">
-            {section.items.map((item, i) => (
-              <li key={i} className="text-base md:text-lg text-gray-700">
-                {section.symbol} {item}
-              </li>
-            ))}
-          </ul>
+          {section.items ? (
+            <ul className="space-y-2 ml-8">
+              {section.items.map((item, i) => (
+                <li key={i} className="text-base md:text-lg text-gray-700">
+                  {section.symbol ? section.symbol : '•'} {item}
+                </li>
+              ))}
+            </ul>
+          ) : section.content ? (
+            <p className="text-base md:text-lg text-gray-700 ml-4">{section.content}</p>
+          ) : section.quote ? (
+            <p className="text-base md:text-lg text-gray-700 italic ml-4 border-l-4 border-emerald-500 pl-4">
+              "{section.quote}"
+            </p>
+          ) : null}
         </div>
       ))}
 

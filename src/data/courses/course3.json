@@ -1,0 +1,889 @@
+{
+  "courseTitle": "Course 3: Health & Intimacy",
+  "courseDuration": "60 minutes",
+  "totalSlides": 32,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 3",
+      "subtitle": "HEALTH & INTIMACY",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "WHY HEALTH & INTIMACY EDUCATION MATTERS",
+      "sections": [
+        {
+          "heading": "THIS COURSE COVERS:",
+          "items": [
+            "Physical and sexual health",
+            "Reproductive health",
+            "Family planning",
+            "Mental and emotional health",
+            "Islamic perspective on intimacy",
+            "Communication about intimate matters"
+          ]
+        },
+        {
+          "heading": "WHY IT MATTERS:",
+          "items": [
+            "Healthy bodies = healthy marriage",
+            "Knowledge prevents problems",
+            "Islam values both physical and spiritual intimacy",
+            "Communication about health is essential",
+            "Preparation prevents misunderstandings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "title": "Introduction to Course",
+      "video": {
+        "duration": "3min",
+        "description": "Health professional introduces course topics"
+      }
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "ISLAMIC PERSPECTIVE ON INTIMACY",
+      "sections": [
+        {
+          "heading": "INTIMACY IN ISLAM:",
+          "items": [
+            "Marriage makes intimacy halal",
+            "Intimacy is worship when done with right intention",
+            "Both partners have rights to intimacy",
+            "Intimacy strengthens marital bond",
+            "Tenderness and consideration are emphasized"
+          ]
+        },
+        {
+          "heading": "MUTUAL RIGHTS:",
+          "items": [
+            "Both spouses have right to intimacy",
+            "Mutual consent is required",
+            "Gentleness and care are obligatory",
+            "Communication about needs is encouraged",
+            "Modesty outside marriage is essential"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "title": "PRE-MARRIAGE HEALTH SCREENING",
+      "sections": [
+        {
+          "heading": "RECOMMENDED TESTS:",
+          "items": [
+            "STI screening",
+            "Thalassemia testing",
+            "General health check",
+            "Blood tests",
+            "Any chronic conditions disclosure"
+          ]
+        },
+        {
+          "heading": "WHY GET TESTED:",
+          "items": [
+            "Protects both partners",
+            "Protects future children",
+            "Early treatment if needed",
+            "Informed decisions",
+            "Peace of mind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "REPRODUCTIVE HEALTH BASICS",
+      "sections": [
+        {
+          "heading": "UNDERSTANDING YOUR BODY:",
+          "items": [
+            "Basic reproductive anatomy",
+            "Menstrual cycle",
+            "Fertility awareness",
+            "Signs of reproductive health",
+            "When to seek medical help"
+          ]
+        },
+        {
+          "heading": "PREPARING FOR PREGNANCY:",
+          "items": [
+            "Folic acid supplementation (3 months before conception)",
+            "Healthy lifestyle",
+            "Addressing health issues",
+            "Vaccinations if needed",
+            "Medical consultation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "title": "FAMILY PLANNING IN ISLAM",
+      "sections": [
+        {
+          "heading": "ISLAMIC RULINGS:",
+          "items": [
+            "Family planning is permissible",
+            "Temporary contraception is allowed",
+            "Mutual consultation required",
+            "Permanent sterilization requires careful consideration",
+            "Valid reasons for spacing children"
+          ]
+        },
+        {
+          "heading": "CONTRACEPTION OPTIONS:",
+          "items": [
+            "Barrier methods",
+            "Hormonal methods",
+            "Natural family planning",
+            "Consult healthcare provider",
+            "Discuss with spouse"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "content",
+      "title": "MENTAL & EMOTIONAL HEALTH",
+      "sections": [
+        {
+          "heading": "MENTAL HEALTH MATTERS:",
+          "items": [
+            "Mental health is as important as physical health",
+            "Depression, anxiety are medical conditions",
+            "Not a sign of weak faith",
+            "Treatment is important",
+            "Support your partner"
+          ]
+        },
+        {
+          "heading": "SEEKING HELP:",
+          "items": [
+            "Therapy/counseling is beneficial",
+            "Medication when prescribed",
+            "No shame in seeking help",
+            "Mental health affects marriage",
+            "Early intervention prevents crisis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "type": "video",
+      "title": "Understanding Sexual Health",
+      "video": {
+        "duration": "5min",
+        "description": "Health professional discusses sexual health basics"
+      }
+    },
+    {
+      "id": 10,
+      "type": "content",
+      "title": "COMMUNICATING ABOUT INTIMACY",
+      "sections": [
+        {
+          "heading": "IMPORTANCE OF COMMUNICATION:",
+          "items": [
+            "Talk about expectations",
+            "Express needs and preferences",
+            "Discuss boundaries",
+            "Address concerns openly",
+            "Be patient and understanding"
+          ]
+        },
+        {
+          "heading": "HOW TO COMMUNICATE:",
+          "items": [
+            "Choose appropriate time",
+            "Use respectful language",
+            "Listen to partner",
+            "Be gentle and considerate",
+            "Seek knowledge together"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "type": "content",
+      "title": "PREGNANCY & CHILDBIRTH",
+      "sections": [
+        {
+          "heading": "PREGNANCY CARE:",
+          "items": [
+            "Regular prenatal checkups",
+            "Proper nutrition",
+            "Rest and exercise",
+            "Avoid harmful substances",
+            "Emotional support needed"
+          ]
+        },
+        {
+          "heading": "HUSBAND'S ROLE:",
+          "items": [
+            "Support wife emotionally and physically",
+            "Attend medical appointments",
+            "Help with household tasks",
+            "Be understanding of changes",
+            "Prepare for childbirth together"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "type": "content",
+      "title": "POSTPARTUM PERIOD",
+      "sections": [
+        {
+          "heading": "AFTER CHILDBIRTH:",
+          "items": [
+            "Recovery time needed (40 days minimum)",
+            "Postpartum bleeding normal",
+            "Physical healing takes time",
+            "Emotional changes common",
+            "Intimacy resumes gradually"
+          ]
+        },
+        {
+          "heading": "SUPPORTING NEW MOTHER:",
+          "items": [
+            "Help with baby care",
+            "Allow her to rest",
+            "Be patient and understanding",
+            "Watch for postpartum depression",
+            "Seek help if needed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "type": "content",
+      "title": "INFERTILITY: IF YOU FACE CHALLENGES",
+      "sections": [
+        {
+          "heading": "UNDERSTANDING INFERTILITY:",
+          "items": [
+            "Affects 1 in 6 couples",
+            "Can be male or female factors",
+            "Not a punishment from Allah",
+            "Medical treatments available",
+            "Emotional support crucial"
+          ]
+        },
+        {
+          "heading": "WHAT TO DO:",
+          "items": [
+            "Consult fertility specialist",
+            "Both partners get tested",
+            "Consider treatment options",
+            "Support each other emotionally",
+            "Remember: Children are from Allah's will"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "type": "checkpoint",
+      "content": {
+        "title": "UNDERSTANDING CONSENT & RIGHTS",
+        "introduction": "Islamic and legal requirements for intimacy in marriage",
+        "keyPrinciple": "MUTUAL CONSENT IS REQUIRED:",
+        "rights": [
+          "Both partners have right to intimacy",
+          "Both must consent to specific acts",
+          "Either can say no if unwell or tired",
+          "Gentleness and care required",
+          "Forcing intimacy is abuse and forbidden"
+        ],
+        "islamicGuidance": [
+          "Intimacy should be with kindness",
+          "Foreplay is encouraged",
+          "Both partners' satisfaction matters",
+          "Communication is essential",
+          "Modesty and privacy required"
+        ],
+        "instruction": "To confirm you understand the importance of consent and mutual respect in intimacy, both partners copy and paste:",
+        "requiredText": "I understand that intimacy in marriage requires mutual consent, gentleness, and respect. Both partners have rights to intimacy and to refuse if needed. Forcing intimacy is abuse and forbidden in Islam.",
+        "validation": {
+          "mustMatchExactly": true,
+          "bothMustComplete": true,
+          "errorMessage": "Text must match exactly. Please copy and paste the complete statement."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "transition",
+      "title": "NEXT: GENDER-SPECIFIC SESSIONS",
+      "explanation": "The next section covers sensitive health topics specific to men and women.",
+      "sessions": {
+        "men": {
+          "title": "MEN → Male Sexual Health (15 min)",
+          "topics": "Male anatomy, common concerns, supporting partner during pregnancy, understanding menstruation"
+        },
+        "women": {
+          "title": "WOMEN → Female Sexual Health (15 min)",
+          "topics": "Female anatomy, common concerns, pregnancy and postpartum, communicating needs"
+        }
+      },
+      "rationale": {
+        "heading": "WHY SEPARATE?",
+        "reasons": [
+          "Some topics are private/sensitive",
+          "Allows frank discussion without embarrassment",
+          "Respects Islamic principles of modesty",
+          "More comfortable learning environment"
+        ]
+      },
+      "mechanics": {
+        "heading": "HOW IT WORKS:",
+        "explanation": "System automatically directs you based on gender to the appropriate session. After both sessions complete, Course 3 continues together."
+      },
+      "coverage": "Both sessions cover: Anatomy and health, Common concerns and solutions, Supporting your partner, When to seek medical help",
+      "assurance": "All information is: Medically accurate, Islamically appropriate, Practical and helpful"
+    },
+    {
+      "id": 16,
+      "type": "content",
+      "genderSpecific": "male",
+      "title": "MALE SEXUAL HEALTH",
+      "sections": [
+        {
+          "heading": "BASIC ANATOMY:",
+          "items": [
+            "Understanding male reproductive system",
+            "Normal functions",
+            "Hygiene practices",
+            "Common concerns",
+            "When to see doctor"
+          ]
+        },
+        {
+          "heading": "COMMON CONCERNS:",
+          "items": [
+            "Performance anxiety is normal initially",
+            "Communication with partner helps",
+            "Medical conditions can be treated",
+            "Seek help if persistent issues",
+            "Don't be embarrassed to consult doctor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "content",
+      "genderSpecific": "male",
+      "title": "SUPPORTING YOUR WIFE",
+      "sections": [
+        {
+          "heading": "UNDERSTANDING MENSTRUATION:",
+          "items": [
+            "Normal monthly cycle",
+            "Can cause discomfort and mood changes",
+            "Be understanding and supportive",
+            "Help with tasks if she's in pain",
+            "Intimacy not allowed during period"
+          ]
+        },
+        {
+          "heading": "DURING PREGNANCY:",
+          "items": [
+            "Physical changes affect her body",
+            "Emotional changes are normal",
+            "She may be tired or uncomfortable",
+            "Intimacy may need adjustments",
+            "Be patient and caring"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "type": "content",
+      "genderSpecific": "female",
+      "title": "FEMALE SEXUAL HEALTH",
+      "sections": [
+        {
+          "heading": "BASIC ANATOMY:",
+          "items": [
+            "Understanding female reproductive system",
+            "Normal functions",
+            "Hygiene practices",
+            "Common concerns",
+            "When to see doctor"
+          ]
+        },
+        {
+          "heading": "MENSTRUAL HEALTH:",
+          "items": [
+            "Normal cycle characteristics",
+            "Managing symptoms",
+            "When to be concerned",
+            "Hygiene during menstruation",
+            "Pain management options"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "type": "content",
+      "genderSpecific": "female",
+      "title": "PREGNANCY & YOUR BODY",
+      "sections": [
+        {
+          "heading": "PREGNANCY CHANGES:",
+          "items": [
+            "Physical changes are normal",
+            "Hormonal effects on mood",
+            "Need for rest and care",
+            "Nutrition requirements",
+            "Regular medical checkups essential"
+          ]
+        },
+        {
+          "heading": "YOUR RIGHTS:",
+          "items": [
+            "Right to medical care",
+            "Right to rest and support",
+            "Husband must provide for needs",
+            "Don't ignore concerning symptoms",
+            "Seek help if feeling overwhelmed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "content",
+      "genderSpecific": "female",
+      "title": "COMMUNICATING YOUR NEEDS",
+      "sections": [
+        {
+          "heading": "IT'S OKAY TO:",
+          "items": [
+            "Express preferences about intimacy",
+            "Say if something is uncomfortable",
+            "Ask for gentleness",
+            "Discuss concerns with husband",
+            "Seek medical help for issues"
+          ]
+        },
+        {
+          "heading": "IMPORTANT:",
+          "items": [
+            "Pain during sex is NOT normal",
+            "Don't suffer silently",
+            "Medical treatment available",
+            "Your comfort matters",
+            "Husband should be understanding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "content",
+      "title": "ISLAMIC GUIDANCE ON INTIMACY",
+      "sections": [
+        {
+          "heading": "ISLAMIC PRINCIPLES:",
+          "items": [
+            "Intimacy is part of worship in marriage",
+            "Both partners' pleasure is important",
+            "Gentleness and foreplay encouraged",
+            "Communication about preferences",
+            "Privacy and modesty essential"
+          ]
+        },
+        {
+          "heading": "PROHIBITED ACTS:",
+          "items": [
+            "Intimacy during menstruation",
+            "Intimacy during fasting (daytime)",
+            "Anal intercourse",
+            "Intimacy in front of others",
+            "Forcing partner"
+          ]
+        },
+        {
+          "heading": "GHUSL (RITUAL BATH):",
+          "items": [
+            "Required after intimacy",
+            "Both partners must perform",
+            "Necessary before prayer",
+            "Proper method important",
+            "Can be performed together"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "video",
+      "title": "Healthy Relationships",
+      "video": {
+        "duration": "5min",
+        "description": "Counselor discusses healthy intimate relationships"
+      }
+    },
+    {
+      "id": 23,
+      "type": "content",
+      "title": "WHEN TO SEEK MEDICAL HELP",
+      "sections": [
+        {
+          "heading": "SEE A DOCTOR IF:",
+          "items": [
+            "Pain during intercourse",
+            "Unusual discharge or odor",
+            "Bleeding between periods",
+            "Difficulty conceiving after 1 year",
+            "Painful periods affecting daily life",
+            "Concerns about sexual function",
+            "Signs of infection",
+            "Any reproductive health concerns"
+          ]
+        },
+        {
+          "heading": "DON'T BE EMBARRASSED:",
+          "items": [
+            "Doctors are professionals",
+            "They've seen it all",
+            "Early treatment prevents complications",
+            "Your health is important",
+            "Many issues are easily treatable"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "content",
+      "title": "HEALTHY LIFESTYLE FOR FERTILITY",
+      "sections": [
+        {
+          "heading": "BOTH PARTNERS SHOULD:",
+          "items": [
+            "Maintain healthy weight",
+            "Eat nutritious diet",
+            "Exercise regularly",
+            "Avoid smoking",
+            "Limit caffeine",
+            "Manage stress",
+            "Get adequate sleep"
+          ]
+        },
+        {
+          "heading": "FOR WOMEN PLANNING PREGNANCY:",
+          "items": [
+            "Start folic acid 3 months before",
+            "Eat iron-rich foods",
+            "Avoid alcohol completely",
+            "Update vaccinations",
+            "Manage chronic conditions"
+          ]
+        },
+        {
+          "heading": "FOR MEN:",
+          "items": [
+            "Smoking affects sperm quality",
+            "Excessive heat can reduce fertility",
+            "Healthy lifestyle improves fertility",
+            "Medications can affect fertility (consult doctor)",
+            "Stress management important"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "content",
+      "title": "SEXUALLY TRANSMITTED INFECTIONS (STIs)",
+      "sections": [
+        {
+          "heading": "PROTECTION IN MARRIAGE:",
+          "items": [
+            "Monogamy protects both partners",
+            "Pre-marriage testing recommended",
+            "Disclose any STI history",
+            "Treatment available for most STIs",
+            "Protect your spouse and future children"
+          ]
+        },
+        {
+          "heading": "COMMON STIs:",
+          "items": [
+            "Many have no symptoms initially",
+            "Can cause infertility if untreated",
+            "Can pass to baby during pregnancy",
+            "Testing is simple",
+            "Treatment usually effective"
+          ]
+        },
+        {
+          "heading": "IF DIAGNOSED:",
+          "items": [
+            "Both partners must be treated",
+            "Complete full treatment course",
+            "Follow-up testing needed",
+            "Temporary abstinence during treatment",
+            "No shame - seek treatment"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "type": "content",
+      "title": "THALASSEMIA AWARENESS",
+      "sections": [
+        {
+          "heading": "WHAT IS THALASSEMIA:",
+          "items": [
+            "Inherited blood disorder",
+            "Common in Maldives",
+            "Carriers usually have no symptoms",
+            "Can be passed to children",
+            "Severe form requires lifelong treatment"
+          ]
+        },
+        {
+          "heading": "WHY TEST:",
+          "items": [
+            "If both parents are carriers: 25% chance child has severe form",
+            "Pre-marriage testing helps informed decisions",
+            "Genetic counseling available",
+            "Understanding risks important",
+            "Children with severe thalassemia need extensive medical care"
+          ]
+        },
+        {
+          "heading": "IF BOTH CARRIERS:",
+          "items": [
+            "Doesn't mean you can't marry",
+            "Need genetic counseling",
+            "Understand implications",
+            "Make informed decision",
+            "Options for family planning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "content",
+      "title": "STRESS & INTIMACY",
+      "sections": [
+        {
+          "heading": "HOW STRESS AFFECTS INTIMACY:",
+          "items": [
+            "Reduces desire",
+            "Causes performance issues",
+            "Affects mood",
+            "Creates distance between partners",
+            "Physical symptoms"
+          ]
+        },
+        {
+          "heading": "MANAGING STRESS TOGETHER:",
+          "items": [
+            "Communicate about stressors",
+            "Support each other",
+            "Make time for connection",
+            "Don't let work dominate life",
+            "Seek help if overwhelmed",
+            "Remember intimacy relieves stress",
+            "Be patient with each other"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "content",
+      "title": "MAINTAINING HEALTHY INTIMACY",
+      "sections": [
+        {
+          "heading": "LONG-TERM RELATIONSHIP:",
+          "items": [
+            "Intimacy changes over time (normal)",
+            "Communication keeps it healthy",
+            "Make time for each other",
+            "Don't neglect this aspect",
+            "Pregnancy/children affect intimacy temporarily",
+            "Seek help if persistent problems"
+          ]
+        },
+        {
+          "heading": "KEEPING CONNECTION STRONG:",
+          "items": [
+            "Express affection daily",
+            "Compliment each other",
+            "Small gestures matter",
+            "Make intimacy a priority",
+            "Be creative and keep learning",
+            "Remember: it's halal and encouraged in marriage"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "type": "content",
+      "title": "RESOURCES & SUPPORT",
+      "sections": [
+        {
+          "heading": "WHERE TO GET HELP:",
+          "items": [
+            "Family Health Centers",
+            "IGMH Women's Health Clinic",
+            "Private gynecologists/urologists",
+            "Sexual health counselors",
+            "Mental health professionals",
+            "Religious scholars for Islamic guidance"
+          ]
+        },
+        {
+          "heading": "REMEMBER:",
+          "items": [
+            "Seeking help is strength, not weakness",
+            "Many issues are common and treatable",
+            "Professional help is confidential",
+            "Your health affects your marriage",
+            "Prevention is better than cure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "type": "checkpoint",
+      "content": {
+        "title": "KNOWLEDGE CHECK",
+        "passingScore": 6,
+        "totalQuestions": 8,
+        "questions": [
+          {
+            "id": 1,
+            "statement": "Folic acid should be started 3 months BEFORE trying to conceive.",
+            "correctAnswer": true
+          },
+          {
+            "id": 2,
+            "statement": "All family planning methods are haram.",
+            "correctAnswer": false
+          },
+          {
+            "id": 3,
+            "statement": "Mental health problems are a sign of weak faith.",
+            "correctAnswer": false
+          },
+          {
+            "id": 4,
+            "statement": "Intimacy during menstruation is not allowed.",
+            "correctAnswer": true
+          },
+          {
+            "id": 5,
+            "statement": "Both partners must perform ghusl after intimacy.",
+            "correctAnswer": true
+          },
+          {
+            "id": 6,
+            "statement": "Pain during sex is normal for women and should just be endured.",
+            "correctAnswer": false
+          },
+          {
+            "id": 7,
+            "statement": "Smoking affects fertility for both men and women.",
+            "correctAnswer": true
+          },
+          {
+            "id": 8,
+            "statement": "Women should start folic acid only after they get pregnant.",
+            "correctAnswer": false
+          }
+        ],
+        "feedback": {
+          "passing": "Excellent! You understand the health foundations of marriage.",
+          "failing": "Please review the material and try again. You need to get at least 6/8 correct."
+        }
+      }
+    },
+    {
+      "id": 31,
+      "type": "content",
+      "title": "KEY TAKEAWAYS",
+      "sections": [
+        {
+          "heading": "REMEMBER:",
+          "items": [
+            "Health is essential for happy marriage",
+            "Pre-marriage testing protects everyone",
+            "Communication about health and intimacy is crucial",
+            "Islam encourages healthy intimacy in marriage",
+            "Both partners have rights and responsibilities",
+            "Seek medical help when needed",
+            "Mental health matters as much as physical health",
+            "Preparing for pregnancy starts before conception"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "type": "completion",
+      "title": "CONGRATULATIONS!",
+      "subtitle": "You have completed Course 3: HEALTH & INTIMACY",
+      "learned": {
+        "heading": "What you learned:",
+        "items": [
+          "Islamic perspective on intimacy",
+          "Reproductive health basics",
+          "Family planning in Islam",
+          "Pre-marriage health screening importance",
+          "Mental and emotional health",
+          "Gender-specific health information",
+          "Communication about intimate matters",
+          "Maintaining healthy relationships",
+          "When to seek medical help",
+          "Healthy lifestyle for fertility"
+        ]
+      },
+      "keyTakeaways": {
+        "heading": "Key Takeaways:",
+        "items": [
+          "Healthy bodies support healthy marriages",
+          "Knowledge prevents problems",
+          "Communication about health is essential",
+          "Both partners' well-being matters",
+          "Seeking help is strength",
+          "Islamic guidance promotes healthy intimacy"
+        ]
+      },
+      "progress": "Certificate Progress: 3/6 Complete",
+      "next": "Next: Course 4 - Financial Partnership",
+      "nextDescription": "You'll learn how to manage money together and build financial security."
+    }
+  ]
+}

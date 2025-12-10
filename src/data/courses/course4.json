@@ -1,0 +1,1792 @@
+{
+  "courseTitle": "Course 4: Financial Partnership",
+  "courseDuration": "60 minutes",
+  "totalSlides": 30,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 4",
+      "subtitle": "FINANCIAL PARTNERSHIP",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "WHY FINANCIAL PARTNERSHIP MATTERS",
+      "statistic": {
+        "text": "Money arguments are the #1 predictor of divorce",
+        "emphasis": true
+      },
+      "conflictCauses": {
+        "heading": "Money causes conflict when:",
+        "items": [
+          "Expectations don't match",
+          "One person controls everything",
+          "Secrets about spending or debt",
+          "Different priorities",
+          "No planning together",
+          "Financial abuse"
+        ]
+      },
+      "strengthens": {
+        "heading": "Money strengthens marriage when:",
+        "items": [
+          "Both participate in financial decisions",
+          "Transparent communication",
+          "Shared goals",
+          "Mutual respect for Islamic rights",
+          "Planning and budgeting together",
+          "Trust and honesty"
+        ]
+      },
+      "courseTopics": {
+        "heading": "This course will teach you:",
+        "items": [
+          "Review: Islamic and legal financial rights",
+          "Financial management systems",
+          "How to create a budget together",
+          "Emergency fund importance",
+          "Saving strategies (poverty-sensitive)",
+          "Recognizing financial abuse",
+          "Rights in divorce",
+          "Protecting yourself financially",
+          "Managing debt"
+        ]
+      },
+      "closing": "Let's learn how to build financial partnership!"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "title": "Introduction to Financial Partnership",
+      "video": {
+        "duration": "3min",
+        "description": "Financial counselor introduces importance of financial communication (3 minutes)"
+      }
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "ISLAMIC FINANCIAL RIGHTS",
+      "subtitle": "(Review from Course 1)",
+      "husbandResponsibilities": {
+        "heading": "HUSBAND'S RESPONSIBILITIES:",
+        "nafaqa": {
+          "title": "NAFAQA (Maintenance) - OBLIGATION:",
+          "intro": "The husband MUST provide:",
+          "items": [
+            "Housing",
+            "Food",
+            "Clothing",
+            "Healthcare",
+            "Children's expenses"
+          ],
+          "emphasis": "This is not optional. This is a religious and legal obligation."
+        },
+        "mahru": {
+          "title": "MAHRU (Dowry):",
+          "items": [
+            "Must pay the agreed mahru",
+            "Amount decided by wife",
+            "Becomes hers at nikah",
+            "She can claim in court if not paid"
+          ]
+        }
+      },
+      "wifeRights": {
+        "heading": "WIFE'S FINANCIAL RIGHTS:",
+        "principle": "HER MONEY IS HERS - ABSOLUTE RIGHT:",
+        "items": [
+          "Her salary - keeps it ALL",
+          "Her property - in her name",
+          "Her inheritance - belongs to her",
+          "Her mahru - her money",
+          "NOT obligated to spend on household"
+        ],
+        "can": [
+          "She CAN contribute voluntarily.",
+          "She CANNOT be forced to contribute."
+        ],
+        "abilities": [
+          "Work without husband's permission",
+          "Keep her earnings entirely",
+          "Own property in her name",
+          "Invest her money",
+          "Spend her money as she wishes",
+          "Refuse to give money to husband"
+        ]
+      },
+      "legal": "This is Islamic law. This is Maldivian law. This is your right.",
+      "important": "These are MINIMUM requirements. A good marriage involves MORE than minimum.",
+      "baseline": [
+        "Husband provides nafaqa",
+        "Wife keeps her own money",
+        "Both can agree to different arrangements",
+        "But HER RIGHTS cannot be taken away"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "title": "HOW WILL YOU MANAGE MONEY?",
+      "introduction": "In Course 2, you chose your system. Now let's understand how to make it work.",
+      "systems": [
+        {
+          "number": 1,
+          "title": "FULLY JOINT",
+          "description": [
+            "All income goes into one account",
+            "All expenses paid from one account",
+            "Everything shared equally",
+            "Complete financial transparency"
+          ],
+          "pros": [
+            "True partnership feeling",
+            "Complete transparency",
+            "Simplified money management",
+            "Both know everything"
+          ],
+          "cons": [
+            "Less personal freedom",
+            "Every purchase is 'our' business",
+            "Can cause conflict over spending differences"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "FULLY SEPARATE",
+          "description": [
+            "Each person keeps own account",
+            "Divide expenses clearly (50/50 or by income ratio)",
+            "Personal spending is private",
+            "Financial independence"
+          ],
+          "pros": [
+            "Personal financial freedom",
+            "Respects Islamic rights",
+            "Less conflict over spending differences",
+            "Each manages own money"
+          ],
+          "cons": [
+            "Can feel like roommates, not spouses",
+            "Harder to achieve shared goals",
+            "Need clear agreements on who pays what"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "HYBRID (Most Common)",
+          "description": [
+            "Joint account for household expenses",
+            "Separate personal accounts",
+            "Both contribute to joint account",
+            "Personal money for personal spending"
+          ],
+          "pros": [
+            "Balance of togetherness and independence",
+            "Clear household budget",
+            "Personal spending freedom",
+            "Respects Islamic rights while building partnership"
+          ],
+          "cons": [
+            "More accounts to manage",
+            "Need clear agreements on contribution amounts"
+          ]
+        }
+      ],
+      "keyPrinciples": {
+        "heading": "WHICHEVER SYSTEM YOU CHOSE:",
+        "items": [
+          "BOTH agree",
+          "BOTH understand",
+          "BOTH participate",
+          "Rules are CLEAR",
+          "Respects Islamic rights",
+          "Can adjust as needed"
+        ]
+      },
+      "reminder": "Your system from Course 2: [Displays their choice from Course 2 data]",
+      "closing": "Let's learn how to make it work!"
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "WHY BUDGET TOGETHER?",
+      "definition": "Budget = Plan for your money",
+      "withoutBudget": {
+        "heading": "Without Budget:",
+        "items": [
+          "Money disappears ('where did it go?')",
+          "Overspending",
+          "Can't save",
+          "Stress and arguments",
+          "One person feels excluded",
+          "Financial surprises"
+        ]
+      },
+      "withBudget": {
+        "heading": "With Budget:",
+        "items": [
+          "Know exactly where money goes",
+          "Prevent overspending",
+          "Achieve goals faster",
+          "Less money stress",
+          "Both feel included and informed",
+          "No financial surprises",
+          "Save for what you want"
+        ]
+      },
+      "misconception": {
+        "heading": "BUDGET IS NOT RESTRICTING:",
+        "myth": "Many people think budget = giving up what you want.",
+        "truth": "Budget = FREEDOM",
+        "freedoms": [
+          "Freedom from worry",
+          "Freedom from debt",
+          "Freedom to achieve goals",
+          "Freedom from arguments"
+        ]
+      },
+      "concept": "A budget tells your money where to go instead of wondering where it went.",
+      "together": {
+        "heading": "Creating budget TOGETHER:",
+        "items": [
+          "Both participate",
+          "Both understand",
+          "Both commit",
+          "Partnership, not control"
+        ]
+      },
+      "closing": "Let's create yours now!"
+    },
+    {
+      "id": 7,
+      "type": "interactive",
+      "interactionType": "budgetBuilder",
+      "title": "LET'S CREATE YOUR BUDGET",
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "CALCULATE TOTAL MONTHLY INCOME",
+          "fields": [
+            {
+              "label": "Husband's monthly income",
+              "type": "number",
+              "unit": "MVR",
+              "id": "husbandIncome"
+            },
+            {
+              "label": "Wife's monthly income",
+              "type": "number",
+              "unit": "MVR",
+              "id": "wifeIncome"
+            },
+            {
+              "label": "Other income (rental, etc.)",
+              "type": "number",
+              "unit": "MVR",
+              "id": "otherIncome"
+            }
+          ],
+          "calculation": {
+            "formula": "husbandIncome + wifeIncome + otherIncome",
+            "display": "TOTAL MONTHLY INCOME: [Auto-calculates] MVR",
+            "id": "totalIncome"
+          }
+        },
+        {
+          "stepNumber": 2,
+          "title": "LIST YOUR MONTHLY EXPENSES",
+          "categories": [
+            {
+              "name": "HOUSING",
+              "fields": [
+                {
+                  "label": "Rent or mortgage payment",
+                  "id": "rent"
+                },
+                {
+                  "label": "Electricity",
+                  "id": "electricity"
+                },
+                {
+                  "label": "Water",
+                  "id": "water"
+                },
+                {
+                  "label": "Internet/Phone",
+                  "id": "internet"
+                }
+              ],
+              "subtotalId": "housingSubtotal"
+            },
+            {
+              "name": "FOOD",
+              "fields": [
+                {
+                  "label": "Groceries",
+                  "id": "groceries"
+                },
+                {
+                  "label": "Dining out",
+                  "id": "diningOut"
+                }
+              ],
+              "subtotalId": "foodSubtotal"
+            },
+            {
+              "name": "TRANSPORTATION",
+              "fields": [
+                {
+                  "label": "Fuel/Ferry",
+                  "id": "fuel"
+                },
+                {
+                  "label": "Vehicle maintenance",
+                  "id": "vehicleMaintenance"
+                }
+              ],
+              "subtotalId": "transportSubtotal"
+            },
+            {
+              "name": "PERSONAL",
+              "fields": [
+                {
+                  "label": "Clothing",
+                  "id": "clothing"
+                },
+                {
+                  "label": "Personal care (haircut, etc.)",
+                  "id": "personalCare"
+                },
+                {
+                  "label": "Phone credit",
+                  "id": "phoneCredit"
+                }
+              ],
+              "subtotalId": "personalSubtotal"
+            },
+            {
+              "name": "HEALTHCARE",
+              "fields": [
+                {
+                  "label": "Medications",
+                  "id": "medications"
+                },
+                {
+                  "label": "Doctor visits (not covered by Aasandha)",
+                  "id": "doctorVisits"
+                }
+              ],
+              "subtotalId": "healthcareSubtotal"
+            },
+            {
+              "name": "DEBTS",
+              "fields": [
+                {
+                  "label": "Loan payments",
+                  "id": "loanPayments"
+                },
+                {
+                  "label": "Credit card minimum",
+                  "id": "creditCard"
+                }
+              ],
+              "subtotalId": "debtsSubtotal"
+            },
+            {
+              "name": "FAMILY OBLIGATIONS",
+              "fields": [
+                {
+                  "label": "Support to parents/family",
+                  "id": "familySupport"
+                }
+              ],
+              "subtotalId": "familySubtotal"
+            },
+            {
+              "name": "SAVINGS & GOALS",
+              "fields": [
+                {
+                  "label": "Emergency fund",
+                  "id": "emergencyFund"
+                },
+                {
+                  "label": "Future goals (hajj, house, etc.)",
+                  "id": "futureGoals"
+                }
+              ],
+              "subtotalId": "savingsSubtotal"
+            }
+          ],
+          "calculation": {
+            "formula": "sum of all subtotals",
+            "display": "TOTAL MONTHLY EXPENSES: [Auto-calculates] MVR",
+            "id": "totalExpenses"
+          }
+        },
+        {
+          "stepNumber": 3,
+          "title": "COMPARE",
+          "display": [
+            "Total Income: [X] MVR",
+            "Total Expenses: [Y] MVR",
+            "DIFFERENCE: [X - Y] MVR"
+          ],
+          "conditionalFeedback": [
+            {
+              "condition": "positive",
+              "message": "✓ You have [X] MVR left each month!",
+              "suggestions": [
+                "Increasing savings",
+                "Paying extra on debt",
+                "Setting additional goals"
+              ]
+            },
+            {
+              "condition": "negative",
+              "message": "⚠️ You're spending [X] MVR more than you earn!",
+              "warning": "This means debt will grow each month. You MUST make changes.",
+              "action": "See next slide for solutions."
+            },
+            {
+              "condition": "zero",
+              "message": "You're breaking even.",
+              "suggestions": [
+                "Building emergency fund",
+                "Finding ways to increase income or reduce expenses"
+              ]
+            }
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "button": "Download Your Budget PDF",
+          "action": "generateBudgetPDF"
+        },
+        {
+          "button": "Share with Partner",
+          "action": "shareBudget"
+        }
+      ],
+      "storage": {
+        "saveAs": "course4_budget",
+        "fields": "all input values and calculations"
+      }
+    },
+    {
+      "id": 8,
+      "type": "content",
+      "conditionalDisplay": "Only shows if budget difference is negative",
+      "title": "⚠️ SPENDING MORE THAN EARNING ⚠️",
+      "situation": "Your budget shows you're spending more than you earn each month.",
+      "consequences": {
+        "heading": "This means:",
+        "items": [
+          "Debt will grow",
+          "Savings will decrease",
+          "Financial stress will increase",
+          "You cannot sustain this"
+        ]
+      },
+      "imperative": "YOU MUST MAKE CHANGES.",
+      "options": [
+        {
+          "number": 1,
+          "title": "REDUCE EXPENSES",
+          "intro": "Look at each category:",
+          "suggestions": [
+            {
+              "category": "HOUSING (Usually biggest expense)",
+              "ideas": [
+                "Find cheaper housing?",
+                "Get roommate?",
+                "Move to less expensive area?",
+                "Live with family temporarily?"
+              ]
+            },
+            {
+              "category": "FOOD",
+              "ideas": [
+                "Cook at home (much cheaper than eating out)",
+                "Buy in bulk",
+                "Plan meals to avoid waste",
+                "Use leftovers",
+                "Buy generic brands",
+                "Shop at cheaper markets"
+              ]
+            },
+            {
+              "category": "TRANSPORTATION",
+              "ideas": [
+                "Use ferry instead of speedboat",
+                "Walk when possible",
+                "Share rides",
+                "Maintain vehicle to prevent breakdowns"
+              ]
+            },
+            {
+              "category": "UTILITIES",
+              "ideas": [
+                "Turn off lights/AC when not using",
+                "Reduce phone/internet package",
+                "Conserve water"
+              ]
+            },
+            {
+              "category": "PERSONAL",
+              "ideas": [
+                "Cut unnecessary subscriptions",
+                "Reduce shopping",
+                "DIY when possible (haircuts, etc.)"
+              ]
+            },
+            {
+              "category": "DINING OUT/ENTERTAINMENT",
+              "ideas": [
+                "This is often easiest to cut",
+                "Find free activities",
+                "Limit restaurant meals"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "title": "INCREASE INCOME",
+          "ideas": [
+            "Look for higher-paying job",
+            "Ask for raise at current job",
+            "Start side business",
+            "Freelance work",
+            "Sell items you don't need",
+            "Wife works if not currently working",
+            "Second job temporarily"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "COMBINATION",
+          "note": "Usually best approach:",
+          "items": [
+            "Reduce expenses where possible",
+            "Increase income where possible"
+          ]
+        }
+      ],
+      "realistic": {
+        "heading": "BE REALISTIC:",
+        "items": [
+          "Small changes add up",
+          "It takes time",
+          "Both partners must commit",
+          "Review budget monthly and adjust"
+        ]
+      },
+      "remember": {
+        "warning": "Financial stress destroys marriages. Living beyond your means creates debt and arguments.",
+        "betterTo": [
+          "Live simply now",
+          "Build stable foundation",
+          "Achieve goals gradually"
+        ],
+        "thanTo": [
+          "Live beyond means",
+          "Accumulate debt",
+          "Constant stress"
+        ]
+      },
+      "action": "Recalculate Budget with Changes"
+    },
+    {
+      "id": 9,
+      "type": "content",
+      "title": "EMERGENCY FUND: YOUR SAFETY NET",
+      "definition": {
+        "heading": "What is Emergency Fund?",
+        "text": "Money saved ONLY for unexpected expenses:",
+        "examples": [
+          "Job loss",
+          "Medical emergency",
+          "Home/vehicle repairs",
+          "Family crisis",
+          "Unexpected travel"
+        ],
+        "notFor": [
+          "Vacations",
+          "Shopping",
+          "Planned expenses",
+          "Wants"
+        ]
+      },
+      "importance": {
+        "heading": "Why You NEED It:",
+        "withoutFund": [
+          "Must borrow money when crisis hits (creating debt + interest)",
+          "Stress and panic",
+          "Cannot handle problems",
+          "May lose home/assets",
+          "Relationship strain"
+        ],
+        "withFund": [
+          "Handle emergencies calmly",
+          "No new debt",
+          "Peace of mind",
+          "Sleep better at night",
+          "Marital harmony"
+        ]
+      },
+      "howMuch": {
+        "heading": "HOW MUCH TO SAVE?",
+        "goal": "GOAL: 3-6 months of expenses",
+        "example": [
+          "If monthly expenses = 10,000 MVR",
+          "Emergency fund goal = 30,000-60,000 MVR"
+        ],
+        "encouragement": [
+          "This sounds like a lot, but:",
+          "You build it gradually",
+          "Start small",
+          "Every amount helps"
+        ]
+      },
+      "startSmall": {
+        "heading": "START SMALL:",
+        "approach": "Don't wait until you can save big amounts. Start with what you can:",
+        "examples": [
+          "100 MVR this month",
+          "200 MVR next month",
+          "Build slowly"
+        ],
+        "affirmation": [
+          "Even 500 MVR is progress!",
+          "Even 1,000 MVR helps!"
+        ]
+      },
+      "howToBuild": {
+        "heading": "HOW TO BUILD IT:",
+        "steps": [
+          {
+            "number": 1,
+            "title": "SET IT AS PRIORITY",
+            "detail": "Pay yourself first - put money in savings BEFORE spending on other things"
+          },
+          {
+            "number": 2,
+            "title": "AUTOMATE IF POSSIBLE",
+            "detail": "Set up automatic transfer to savings account"
+          },
+          {
+            "number": 3,
+            "title": "SAVE WINDFALLS",
+            "examples": [
+              "Bonus at work",
+              "Tax refund",
+              "Gift money",
+              "Sold something"
+            ],
+            "action": "Don't spend it - save it!"
+          },
+          {
+            "number": 4,
+            "title": "REDUCE ONE EXPENSE",
+            "detail": "Find one thing to cut. Put that money in emergency fund"
+          }
+        ]
+      },
+      "whereToKeep": {
+        "heading": "WHERE TO KEEP IT:",
+        "items": [
+          "Savings account (can access easily)",
+          "NOT in investments (need quick access)",
+          "NOT in business (keep separate)",
+          "Both partners know where it is",
+          "Both partners agree not to touch except emergency"
+        ]
+      },
+      "defineEmergency": {
+        "heading": "DEFINE 'EMERGENCY':",
+        "agreeBeforehand": "What counts as emergency?",
+        "usually": [
+          "Job loss",
+          "Medical emergency",
+          "Major repair",
+          "Family crisis"
+        ],
+        "not": [
+          "Sale you don't want to miss",
+          "Wedding invitation",
+          "New phone because you want one"
+        ]
+      },
+      "closing": "Having emergency fund = Financial security. Start building yours TODAY."
+    },
+    {
+      "id": 10,
+      "type": "content",
+      "title": "HOW TO SAVE (Even with Low Income)",
+      "truth": {
+        "heading": "TRUTH: Saving is hard when income is low.",
+        "context": "If most of your income goes to: Rent, Food, Basic necessities",
+        "feeling": "It feels impossible to save.",
+        "acknowledgment": "We understand.",
+        "hope": "But even small amounts help."
+      },
+      "strategies": [
+        {
+          "number": 1,
+          "title": "PAY YOURSELF FIRST",
+          "traditional": "Traditional advice: 'Save 10% of income'",
+          "reality": "Reality: If you earn 8,000 MVR and rent is 5,000 MVR, saving 10% (800 MVR) is very hard.",
+          "instead": "Instead: Save WHAT YOU CAN",
+          "examples": [
+            "50 MVR this month? Great!",
+            "100 MVR? Even better!",
+            "10 MVR? Still progress!"
+          ],
+          "action": "Put it aside BEFORE spending on anything else."
+        },
+        {
+          "number": 2,
+          "title": "AUTOMATE IF POSSIBLE",
+          "ifBankAllows": [
+            "Auto-transfer small amount to savings",
+            "You won't miss what you don't see"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "SAVE WINDFALLS",
+          "whenYouGet": [
+            "Bonus",
+            "Gift",
+            "Tax refund",
+            "Sold something"
+          ],
+          "action": "SAVE IT. Don't spend it."
+        },
+        {
+          "number": 4,
+          "title": "REDUCE ONE THING",
+          "findOne": [
+            "Make coffee at home instead of buying",
+            "Bring lunch instead of buying",
+            "Walk instead of speedboat once a week"
+          ],
+          "action": "Put that money in savings."
+        },
+        {
+          "number": 5,
+          "title": "USE CASH/JARS METHOD",
+          "physical": [
+            "Keep jar for savings",
+            "Put in loose change",
+            "Put in small bills",
+            "Watch it grow!"
+          ],
+          "motivation": "Seeing progress motivates you."
+        },
+        {
+          "number": 6,
+          "title": "INCREASE INCOME (if possible)",
+          "options": [
+            "Sell items you don't need",
+            "Small side work",
+            "Freelance skills",
+            "Ask for raise"
+          ]
+        },
+        {
+          "number": 7,
+          "title": "CELEBRATE SMALL WINS",
+          "milestones": [
+            "Saved 500 MVR? Celebrate!",
+            "Saved 1,000 MVR? Amazing!",
+            "Every amount matters!"
+          ]
+        }
+      ],
+      "mindset": {
+        "heading": "IMPORTANT MINDSET:",
+        "dontCompare": [
+          "People who can save 5,000 MVR monthly",
+          "People with high incomes",
+          "Social media 'perfect' finances"
+        ],
+        "compareInstead": [
+          "Yourself last month",
+          "Your own progress",
+          "Your own goals"
+        ],
+        "mantras": [
+          "Something is better than nothing.",
+          "Every rufiyaa counts.",
+          "Small amounts add up over time."
+        ]
+      },
+      "example": {
+        "heading": "If you can only save 20 MVR this month:",
+        "benefits": [
+          "That's 240 MVR in a year",
+          "That's an emergency taxi ride",
+          "That's medicine when needed",
+          "That's SOMETHING"
+        ]
+      },
+      "closing": {
+        "encouragement": [
+          "Start where you are.",
+          "Use what you have.",
+          "Do what you can.",
+          "Poverty is not a moral failing.",
+          "Trying to save despite poverty is admirable.",
+          "Be patient with yourself.",
+          "Celebrate small victories.",
+          "Keep trying."
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "type": "content",
+      "title": "⚠️ FINANCIAL ABUSE IS DOMESTIC VIOLENCE ⚠️",
+      "definition": "Financial abuse = Using money to control partner",
+      "legal": "This is ILLEGAL under Domestic Violence Prevention Act.",
+      "warningSigns": {
+        "heading": "WARNING SIGNS:",
+        "items": [
+          "Takes your bank card/ID without permission",
+          "Demands access to YOUR accounts but hides theirs",
+          "Gives you 'allowance' from YOUR own money",
+          "Prevents you from working",
+          "Spends family money on self while family suffers",
+          "Takes loans in your name without permission",
+          "Refuses to contribute to household (husband's obligation)",
+          "Withholds money as punishment",
+          "Makes you beg for basic needs",
+          "Hides financial information from you",
+          "Controls ALL money decisions without input",
+          "Steals your money",
+          "Ruins your credit",
+          "Sabotages your job (makes you late, harasses you at work)"
+        ]
+      },
+      "emphasis": "EVEN ONE of these signs is abuse.",
+      "examples": [
+        {
+          "caseNumber": 1,
+          "scenario": "Mariyam earns 15,000 MVR as nurse. Husband took her bank card 'for safekeeping.' Now gives her 2,000 MVR monthly for 'personal use.' Won't show her where the 13,000 MVR goes. He bought new phone for himself. She can't help her family despite earning good salary.",
+          "verdict": "THIS IS FINANCIAL ABUSE."
+        },
+        {
+          "caseNumber": 2,
+          "scenario": "Ahmed's wife controls all money. He works and earns salary. She takes it all. He has to ask for bus fare. She ridicules him for wanting money. He feels trapped.",
+          "verdict": "THIS IS FINANCIAL ABUSE. (Yes, can happen to men too)"
+        }
+      ],
+      "whyAbuse": {
+        "heading": "WHY IS IT ABUSE?",
+        "reasons": [
+          "Removes person's autonomy",
+          "Creates dependence",
+          "Traps victim",
+          "Violates Islamic/legal rights",
+          "Causes harm"
+        ]
+      },
+      "whatToDo": {
+        "heading": "WHAT TO DO IF EXPERIENCING:",
+        "steps": [
+          {
+            "number": 1,
+            "title": "KNOW YOUR RIGHTS",
+            "items": [
+              "Wife: Your money is YOURS",
+              "Husband: You have right to your earnings too",
+              "Both: Financial transparency is your right"
+            ]
+          },
+          {
+            "number": 2,
+            "title": "DOCUMENT EVERYTHING",
+            "items": [
+              "Keep records",
+              "Screenshots",
+              "Bank statements",
+              "Any evidence"
+            ]
+          },
+          {
+            "number": 3,
+            "title": "PROTECT YOUR MONEY",
+            "ifPossible": [
+              "Open account in YOUR name only",
+              "Keep some money safely hidden",
+              "Don't tell abuser about it"
+            ]
+          },
+          {
+            "number": 4,
+            "title": "KEEP YOUR ID CARD",
+            "items": [
+              "Never give it to partner to 'keep safe'",
+              "Keep it with you always",
+              "You need it to access services"
+            ]
+          },
+          {
+            "number": 5,
+            "title": "SEEK HELP",
+            "message": "This is not your fault. This is serious abuse.",
+            "contacts": [
+              "Police: 119 / 3322111",
+              "Gender Ministry: 1421",
+              "Family Protection Authority: 3319922",
+              "Family Court (protection order): 3308585",
+              "Legal Aid: [number]"
+            ]
+          }
+        ]
+      },
+      "legalProtection": {
+        "heading": "Under DV Prevention Law:",
+        "rights": [
+          "Financial abuse IS domestic violence",
+          "You can get protection order",
+          "You can take legal action",
+          "Police should help"
+        ]
+      },
+      "prevention": {
+        "heading": "PREVENTION:",
+        "beforeMarriage": [
+          "Keep own bank account",
+          "Never share PIN/passwords",
+          "Keep own ID card",
+          "Know your rights",
+          "Watch for warning signs"
+        ],
+        "inMarriage": [
+          "Maintain financial transparency",
+          "Both participate in decisions",
+          "Respect each other's rights",
+          "Never use money as weapon"
+        ]
+      },
+      "closing": [
+        "Financial abuse is SERIOUS.",
+        "It traps victims.",
+        "It violates rights.",
+        "It's ILLEGAL.",
+        "If it's happening to you: YOU DESERVE BETTER. GET HELP."
+      ]
+    },
+    {
+      "id": 12,
+      "type": "content",
+      "title": "RIGHTS IN DIVORCE - PRACTICAL INFORMATION",
+      "introduction": "Nobody wants to think about this, but knowing rights protects you.",
+      "duringIddah": {
+        "heading": "DURING IDDAH (3 months after divorce):",
+        "wifeRights": [
+          "HOUSING: Husband provides or pays rent",
+          "MAINTENANCE: MINIMUM 2,000 MVR/month",
+          "Keep any unpaid mahru",
+          "Keep all property in her name"
+        ]
+      },
+      "afterIddah": {
+        "heading": "AFTER IDDAH:",
+        "rights": [
+          "Child support for children",
+          "Keep her property/savings/investments",
+          "Get her share of jointly-owned property",
+          "Cannot be evicted from Hiya flat in her name"
+        ]
+      },
+      "childSupport": {
+        "heading": "CHILD SUPPORT:",
+        "obligation": "Father MUST support children until: 18 for girls, Earning age for boys",
+        "determination": "Court determines amount based on: Father's income, Child's needs",
+        "typical": "Typically 1,500-3,000 MVR per child"
+      },
+      "realityCheck": {
+        "heading": "REALITY CHECK:",
+        "hardTruth": [
+          "Many fathers don't pay despite court orders",
+          "Court enforcement is slow (8+ months)",
+          "Plan as if you'll support children alone",
+          "Stay financially independent"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "type": "content",
+      "title": "PROTECTING YOURSELF FINANCIALLY",
+      "introduction": "This is NOT distrust. It's being wise.",
+      "beforeMarriage": {
+        "heading": "Before Marriage:",
+        "items": [
+          "Keep your own bank account",
+          "Know your own passwords",
+          "Keep copies of all important documents",
+          "Have small emergency fund in your name",
+          "Consider marital agreement",
+          "Keep your ID card always with you"
+        ]
+      },
+      "duringMarriage": {
+        "heading": "During Marriage:",
+        "items": [
+          "Stay financially informed",
+          "Keep working if possible",
+          "Maintain own account",
+          "Keep some savings partner doesn't control",
+          "Know all household finances",
+          "Keep important documents safe"
+        ]
+      },
+      "forBoth": {
+        "heading": "For Both Partners:",
+        "items": [
+          "Discuss finances openly",
+          "Make decisions together",
+          "Keep each other informed",
+          "Respect Islamic rights",
+          "Build trust through transparency"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "type": "checkpoint",
+      "content": {
+        "title": "CASE STUDY: FINANCIAL ABUSE",
+        "scenario": {
+          "character": "Mariyam",
+          "occupation": "Nurse",
+          "income": "15,000 MVR/month",
+          "situation": [
+            "When married Ahmed 1 year ago, he suggested she give him her bank card 'for safekeeping'",
+            "Now: She asks for money when needs anything",
+            "He gives her 2,000 MVR/month for 'personal use'",
+            "He says he's 'saving' the rest but won't show her",
+            "Her family needs help but he says 'we can't afford it'",
+            "He bought new phone for himself last month",
+            "She doesn't know what happens to her salary"
+          ]
+        },
+        "questions": [
+          {
+            "id": 1,
+            "type": "multipleChoice",
+            "question": "Is this financial abuse?",
+            "options": [
+              "Yes",
+              "No",
+              "Unsure"
+            ],
+            "correctAnswer": 0,
+            "explanation": "YES, this is financial abuse."
+          },
+          {
+            "id": 2,
+            "type": "textInput",
+            "question": "What signs of financial abuse do you see?",
+            "sampleAnswer": "Taking her bank card and controlling access, Giving 'allowance' from HER money (13,000 missing), Won't show her the 'savings', She can't help her family, He spends on himself freely, She has no access to her own earnings",
+            "validation": "Open-ended, check for key points"
+          },
+          {
+            "id": 3,
+            "type": "multipleChoice",
+            "question": "What should Mariyam do?",
+            "options": [
+              "Accept this arrangement since he's 'saving' the money",
+              "Demand her bank card back, report to Gender Ministry if he refuses, seek legal advice",
+              "Just be grateful he gives her 2,000 MVR",
+              "Ask her family to talk to him"
+            ],
+            "correctAnswer": 1,
+            "explanation": "Correct: Demand her bank card back (it's HER money), Open new account if he refuses, Report to Gender Ministry 1421, Seek legal advice, Consider protection order"
+          }
+        ],
+        "feedback": {
+          "allCorrect": "Excellent! You can recognize financial abuse and know the appropriate response.",
+          "someCorrect": "Review the signs of financial abuse. Mariyam's situation is clearly abusive and requires immediate action.",
+          "needsReview": "This is a clear case of financial abuse. Please review the material on financial abuse warning signs."
+        }
+      }
+    },
+    {
+      "id": 15,
+      "type": "content",
+      "title": "SAVINGS GOALS TOGETHER",
+      "commonGoals": {
+        "heading": "Common goals for couples:",
+        "items": [
+          "Buy/build house",
+          "Hajj",
+          "Children's education",
+          "Starting business",
+          "Big purchases (car/furniture)",
+          "Family vacation"
+        ]
+      },
+      "howToSave": {
+        "heading": "How to save for goals:",
+        "steps": [
+          {
+            "number": 1,
+            "action": "NAME THE GOAL",
+            "detail": "Specifically: 'Save for Hajj' not just 'save money'"
+          },
+          {
+            "number": 2,
+            "action": "SET TARGET AMOUNT",
+            "detail": "Research actual cost"
+          },
+          {
+            "number": 3,
+            "action": "SET DEADLINE",
+            "detail": "When do you want to achieve this?"
+          },
+          {
+            "number": 4,
+            "action": "CALCULATE MONTHLY SAVINGS NEEDED",
+            "formula": "Amount ÷ Months = Monthly savings"
+          },
+          {
+            "number": 5,
+            "action": "OPEN SEPARATE SAVINGS ACCOUNT",
+            "detail": "Just for this goal"
+          },
+          {
+            "number": 6,
+            "action": "TRACK PROGRESS TOGETHER",
+            "detail": "Celebrate milestones"
+          }
+        ]
+      },
+      "example": {
+        "goal": "Hajj in 5 years",
+        "cost": "100,000 MVR",
+        "calculation": "100,000 ÷ 60 months = 1,667 MVR/month",
+        "display": "Need to save 1,667 MVR monthly"
+      }
+    },
+    {
+      "id": 16,
+      "type": "interactive",
+      "interactionType": "goalSetter",
+      "title": "SET YOUR FIRST GOAL TOGETHER",
+      "fields": [
+        {
+          "label": "What is one financial goal you want to achieve together?",
+          "type": "text",
+          "id": "goalName",
+          "placeholder": "e.g., Save for Hajj, Buy house, Children's education"
+        },
+        {
+          "label": "Target amount (MVR)",
+          "type": "number",
+          "id": "targetAmount"
+        },
+        {
+          "label": "Target date",
+          "type": "date",
+          "id": "targetDate"
+        }
+      ],
+      "calculations": {
+        "monthsUntilTarget": "Calculate from today to target date",
+        "monthlySavingsNeeded": "targetAmount ÷ monthsUntilTarget"
+      },
+      "display": [
+        "Goal: [goalName]",
+        "Target Amount: [targetAmount] MVR",
+        "Target Date: [targetDate]",
+        "Months until target: [X] months",
+        "Monthly savings needed: [Y] MVR"
+      ],
+      "validation": {
+        "question": "Can you afford this monthly amount?",
+        "options": [
+          "Yes, we can save this amount",
+          "Need to adjust our budget first",
+          "Need to extend the timeline",
+          "Choose different goal"
+        ]
+      },
+      "actions": [
+        {
+          "button": "Save Goal to Profile",
+          "action": "saveGoal"
+        },
+        {
+          "button": "Download Goal Tracker PDF",
+          "action": "generateGoalPDF"
+        }
+      ],
+      "storage": {
+        "saveAs": "course4_savingsGoal",
+        "fields": "all goal data"
+      }
+    },
+    {
+      "id": 17,
+      "type": "content",
+      "title": "MANAGING DEBT",
+      "introduction": "Debt can destroy marriages. Handle carefully.",
+      "goodVsBad": {
+        "heading": "GOOD DEBT vs BAD DEBT:",
+        "goodDebt": {
+          "title": "Good debt (sometimes necessary):",
+          "items": [
+            "Mortgage for house (building asset)",
+            "Education loan (investing in future)",
+            "Business loan (if well-planned)"
+          ]
+        },
+        "badDebt": {
+          "title": "Bad debt (avoid):",
+          "items": [
+            "Credit card debt (high interest)",
+            "Loans for weddings/parties",
+            "Loans for unnecessary items",
+            "Multiple small loans (debt spiral)"
+          ]
+        }
+      },
+      "ifYouHaveDebt": {
+        "heading": "If you have debt:",
+        "steps": [
+          {
+            "number": 1,
+            "action": "LIST ALL DEBTS",
+            "details": "Amount, Interest rate, Minimum payment"
+          },
+          {
+            "number": 2,
+            "action": "PRIORITIZE PAYOFF",
+            "methods": [
+              "Highest interest first (saves most money)",
+              "OR Smallest amount first (quick wins, motivation)"
+            ]
+          },
+          {
+            "number": 3,
+            "action": "PAY MINIMUM ON ALL",
+            "detail": "Put extra money on priority debt"
+          },
+          {
+            "number": 4,
+            "action": "DON'T TAKE NEW DEBT",
+            "detail": "While paying off existing debt"
+          },
+          {
+            "number": 5,
+            "action": "CUT EXPENSES",
+            "detail": "To speed up payoff"
+          }
+        ]
+      },
+      "closing": "Become debt-free together."
+    },
+    {
+      "id": 18,
+      "type": "video",
+      "title": "Financial Success Stories",
+      "video": {
+        "duration": "5min",
+        "description": "Couples share how they achieved financial goals together"
+      }
+    },
+    {
+      "id": 19,
+      "type": "content",
+      "title": "FINANCIAL PLANNING FOR THE FUTURE",
+      "sections": [
+        {
+          "heading": "SHORT-TERM (1-2 years):",
+          "items": [
+            "Build emergency fund",
+            "Pay off high-interest debt",
+            "Establish budget routine",
+            "Start small savings goals"
+          ]
+        },
+        {
+          "heading": "MEDIUM-TERM (3-5 years):",
+          "items": [
+            "Down payment for house",
+            "Hajj savings",
+            "Children's education fund start",
+            "Increase emergency fund"
+          ]
+        },
+        {
+          "heading": "LONG-TERM (10+ years):",
+          "items": [
+            "Buy/build house",
+            "Children's higher education",
+            "Starting business",
+            "Retirement planning"
+          ]
+        }
+      ],
+      "closing": "Plan together. Achieve together. Build your future together."
+    },
+    {
+      "id": 20,
+      "type": "checkpoint",
+      "content": {
+        "title": "KNOWLEDGE CHECK",
+        "passingScore": 5,
+        "totalQuestions": 6,
+        "questions": [
+          {
+            "id": 1,
+            "statement": "The wife's salary belongs to the household.",
+            "correctAnswer": false
+          },
+          {
+            "id": 2,
+            "statement": "The husband is obligated to provide nafaqa (maintenance).",
+            "correctAnswer": true
+          },
+          {
+            "id": 3,
+            "statement": "Taking your partner's bank card without permission is financial abuse.",
+            "correctAnswer": true
+          },
+          {
+            "id": 4,
+            "statement": "An emergency fund should be 3-6 months of expenses.",
+            "correctAnswer": true
+          },
+          {
+            "id": 5,
+            "statement": "After divorce, fathers don't need to support children.",
+            "correctAnswer": false
+          },
+          {
+            "id": 6,
+            "statement": "A budget restricts freedom.",
+            "correctAnswer": false
+          }
+        ],
+        "feedback": {
+          "passing": "Excellent! You understand financial partnership principles.",
+          "failing": "Please review the material. You need to get at least 5/6 correct."
+        }
+      }
+    },
+    {
+      "id": 21,
+      "type": "content",
+      "title": "BUILDING WEALTH TOGETHER",
+      "sections": [
+        {
+          "heading": "WEALTH ISN'T JUST MONEY:",
+          "items": [
+            "Financial security",
+            "Peace of mind",
+            "Ability to help others",
+            "Achieve goals",
+            "Provide for family",
+            "Leave legacy"
+          ]
+        },
+        {
+          "heading": "HOW TO BUILD WEALTH:",
+          "items": [
+            "Spend less than you earn (always)",
+            "Save and invest the difference",
+            "Avoid unnecessary debt",
+            "Increase income over time",
+            "Make smart financial decisions together",
+            "Be patient and consistent"
+          ]
+        }
+      ],
+      "islamicPrinciple": "Wealth is a trust from Allah. Use it wisely, help others, and be grateful."
+    },
+    {
+      "id": 22,
+      "type": "content",
+      "title": "FINANCIAL RESOURCES IN MALDIVES",
+      "sections": [
+        {
+          "heading": "FINANCIAL ASSISTANCE:",
+          "items": [
+            "Aasandha (healthcare)",
+            "Housing programs (Hiya, HDC)",
+            "Social protection schemes",
+            "Disability allowances",
+            "Single parent support",
+            "Student loan programs"
+          ]
+        },
+        {
+          "heading": "FINANCIAL ADVICE:",
+          "items": [
+            "Banks offer financial counseling",
+            "Microfinance institutions",
+            "Business development services",
+            "Financial literacy programs"
+          ]
+        },
+        {
+          "heading": "LEGAL HELP:",
+          "items": [
+            "Legal Aid office (free legal assistance)",
+            "Family Court",
+            "Gender Ministry",
+            "Consumer Protection"
+          ]
+        }
+      ],
+      "reminder": "Don't be ashamed to ask for help. These services exist to support you."
+    },
+    {
+      "id": 23,
+      "type": "content",
+      "title": "TEACHING CHILDREN ABOUT MONEY",
+      "sections": [
+        {
+          "heading": "START EARLY:",
+          "items": [
+            "Give small allowance",
+            "Teach saving vs spending",
+            "Let them make small financial decisions",
+            "Show them budgeting",
+            "Model good financial behavior"
+          ]
+        },
+        {
+          "heading": "ISLAMIC TEACHINGS:",
+          "items": [
+            "Gratitude for blessings",
+            "Importance of charity",
+            "Avoiding waste",
+            "Hard work and earning",
+            "Honesty in financial matters"
+          ]
+        }
+      ],
+      "closing": "Raising financially literate children sets them up for success."
+    },
+    {
+      "id": 24,
+      "type": "content",
+      "title": "AVOIDING FINANCIAL STRESS",
+      "sections": [
+        {
+          "heading": "FINANCIAL STRESS CAUSES:",
+          "items": [
+            "Living beyond means",
+            "Debt accumulation",
+            "No emergency fund",
+            "Lack of planning",
+            "Financial secrets",
+            "Income loss"
+          ]
+        },
+        {
+          "heading": "PREVENT STRESS BY:",
+          "items": [
+            "Living within budget",
+            "Building savings",
+            "Communicating openly",
+            "Planning together",
+            "Avoiding unnecessary debt",
+            "Having backup plans"
+          ]
+        }
+      ],
+      "islamicReminder": "Trust in Allah's provision (tawakkul), but take practical steps (asbab)."
+    },
+    {
+      "id": 25,
+      "type": "content",
+      "title": "FINANCIAL INTIMACY",
+      "sections": [
+        {
+          "heading": "WHAT IS FINANCIAL INTIMACY:",
+          "content": "Being completely open and honest about money with your spouse"
+        },
+        {
+          "heading": "INCLUDES:",
+          "items": [
+            "Sharing all financial information",
+            "No secret accounts or debt",
+            "Making decisions together",
+            "Supporting each other's goals",
+            "Being vulnerable about money fears",
+            "Celebrating financial wins together"
+          ]
+        },
+        {
+          "heading": "WHY IT MATTERS:",
+          "items": [
+            "Builds trust",
+            "Prevents surprises",
+            "Strengthens partnership",
+            "Reduces money arguments",
+            "Helps achieve goals faster"
+          ]
+        }
+      ],
+      "closing": "Financial intimacy is as important as emotional and physical intimacy."
+    },
+    {
+      "id": 26,
+      "type": "content",
+      "title": "REGULAR FINANCIAL CHECK-INS",
+      "sections": [
+        {
+          "heading": "MONTHLY MEETINGS:",
+          "agenda": [
+            "Review last month's spending",
+            "Compare to budget",
+            "Discuss any issues",
+            "Adjust budget if needed",
+            "Check progress on goals",
+            "Plan for upcoming month"
+          ]
+        },
+        {
+          "heading": "ANNUAL REVIEW:",
+          "agenda": [
+            "Review financial goals",
+            "Assess what worked and what didn't",
+            "Set new goals for next year",
+            "Update marital agreement if needed",
+            "Celebrate achievements",
+            "Plan for major changes"
+          ]
+        }
+      ],
+      "tips": "Make it positive, not stressful. Maybe have tea/coffee together. Focus on teamwork."
+    },
+    {
+      "id": 27,
+      "type": "content",
+      "title": "CHARITY & GIVING",
+      "sections": [
+        {
+          "heading": "ISLAMIC OBLIGATION:",
+          "items": [
+            "Zakat (2.5% of wealth)",
+            "Sadaqah (voluntary charity)",
+            "Helping family",
+            "Supporting community"
+          ]
+        },
+        {
+          "heading": "BENEFITS OF GIVING:",
+          "items": [
+            "Purifies wealth",
+            "Brings barakah (blessings)",
+            "Helps those in need",
+            "Teaches gratitude",
+            "Develops generosity",
+            "Reduces attachment to materialism"
+          ]
+        },
+        {
+          "heading": "IN YOUR BUDGET:",
+          "items": [
+            "Include charity as expense category",
+            "Give even if small amount",
+            "Decide together how much and where",
+            "Don't neglect charity even if finances tight",
+            "Allah will provide"
+          ]
+        }
+      ],
+      "hadith": "Charity does not decrease wealth. - Prophet Muhammad ﷺ"
+    },
+    {
+      "id": 28,
+      "type": "content",
+      "title": "WHEN FINANCIAL PLANS CHANGE",
+      "sections": [
+        {
+          "heading": "LIFE CHANGES:",
+          "items": [
+            "Job loss",
+            "New job",
+            "New baby",
+            "Illness",
+            "Family emergency",
+            "Unexpected expense"
+          ]
+        },
+        {
+          "heading": "HOW TO ADAPT:",
+          "items": [
+            "Don't panic",
+            "Review budget immediately",
+            "Cut non-essentials",
+            "Use emergency fund if needed",
+            "Look for income sources",
+            "Support each other emotionally",
+            "Ask for help if needed",
+            "Remember: This is temporary"
+          ]
+        }
+      ],
+      "reminder": "Flexibility is key. Plans change. Stay united as partners."
+    },
+    {
+      "id": 29,
+      "type": "interactive",
+      "interactionType": "agreementUpdate",
+      "title": "UPDATE YOUR MARITAL AGREEMENT",
+      "subtitle": "Add financial details to your marital agreement from Course 2",
+      "introduction": "Based on this course, add financial details:",
+      "sections": [
+        {
+          "sectionTitle": "Financial Management System",
+          "field": {
+            "type": "display",
+            "label": "System chosen in Course 2:",
+            "value": "[Retrieves from Course 2 data]"
+          }
+        },
+        {
+          "sectionTitle": "Our Monthly Budget",
+          "fields": [
+            {
+              "type": "display",
+              "label": "Total Monthly Income:",
+              "value": "[From budget tool]"
+            },
+            {
+              "type": "display",
+              "label": "Total Monthly Expenses:",
+              "value": "[From budget tool]"
+            },
+            {
+              "type": "display",
+              "label": "Monthly Savings:",
+              "value": "[Calculated difference]"
+            }
+          ],
+          "action": {
+            "button": "Attach Budget Created in This Course",
+            "file": "course4_budget.pdf"
+          }
+        },
+        {
+          "sectionTitle": "Emergency Fund Goal",
+          "fields": [
+            {
+              "type": "text",
+              "label": "We will build an emergency fund of",
+              "id": "emergencyFundAmount",
+              "unit": "MVR"
+            },
+            {
+              "type": "date",
+              "label": "By",
+              "id": "emergencyFundDate"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Savings Goals",
+          "fields": [
+            {
+              "type": "display",
+              "label": "Goal 1:",
+              "value": "[From goal setter tool]"
+            },
+            {
+              "type": "text",
+              "label": "Goal 2 (optional):",
+              "id": "additionalGoal2"
+            },
+            {
+              "type": "text",
+              "label": "Goal 3 (optional):",
+              "id": "additionalGoal3"
+            }
+          ]
+        },
+        {
+          "sectionTitle": "Financial Transparency",
+          "intro": "We agree to:",
+          "checkboxes": [
+            "Share all account information with each other",
+            "Review finances together monthly",
+            "Discuss purchases over [___] MVR before making them",
+            "No secret accounts or hidden money",
+            "Both have equal say in financial decisions"
+          ],
+          "additionalAgreements": {
+            "type": "textarea",
+            "label": "Other financial agreements:",
+            "id": "otherFinancialAgreements",
+            "placeholder": "Add any other financial agreements you want to include"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "button": "Add to Marital Agreement Template",
+          "action": "updateMaritalAgreement"
+        },
+        {
+          "button": "Download Updated Agreement",
+          "action": "downloadAgreement"
+        }
+      ],
+      "storage": {
+        "updateKey": "maritalAgreement_financial",
+        "mergeWith": "course2_maritalAgreement"
+      }
+    },
+    {
+      "id": 30,
+      "type": "completion",
+      "title": "CONGRATULATIONS!",
+      "subtitle": "You have completed Course 4: FINANCIAL PARTNERSHIP",
+      "learned": {
+        "heading": "What you learned:",
+        "items": [
+          "Islamic & legal financial rights (review)",
+          "Financial management systems",
+          "Budget creation (you made one!)",
+          "Emergency fund importance",
+          "Saving strategies (poverty-sensitive)",
+          "Recognizing financial abuse",
+          "Rights in divorce (practical reality)",
+          "Protecting yourself financially",
+          "Managing debt",
+          "Setting financial goals together",
+          "Building wealth",
+          "Financial intimacy",
+          "Charity in marriage"
+        ]
+      },
+      "created": {
+        "heading": "What you created:",
+        "items": [
+          "Your first budget together",
+          "Emergency fund goal",
+          "Savings goal",
+          "Financial section of marital agreement"
+        ]
+      },
+      "keyTakeaway": "Financial partnership requires: Transparency, Respect for Islamic rights, Planning together, Protecting each other",
+      "progress": "Certificate Progress: 4/6 Complete",
+      "next": "Next: Course 5 - Building Safe Home & Navigating Systems",
+      "nextDescription": "You'll learn about safety, domestic violence prevention, and navigating Maldives legal and social systems."
+    }
+  ]
+}

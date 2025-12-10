@@ -1,0 +1,1476 @@
+{
+  "courseTitle": "Course 5: Building a Safe Home & Navigating Systems",
+  "courseDuration": "70 minutes",
+  "totalSlides": 38,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 5",
+      "subtitle": "BUILDING A SAFE HOME & NAVIGATING SYSTEMS",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "WHY SAFETY MATTERS",
+      "principle": "Every person deserves to feel SAFE in marriage",
+      "dimensions": [
+        "Physically",
+        "Emotionally",
+        "Sexually",
+        "Financially"
+      ],
+      "reality": "Unfortunately, domestic violence happens. 1 in 3 Maldivian women experience violence.",
+      "courseWill": {
+        "heading": "This course will:",
+        "items": [
+          "Help recognize abuse early",
+          "Know legal rights",
+          "Navigate system if needed",
+          "Build prevention strategies",
+          "Support others facing violence"
+        ]
+      },
+      "closing": "Knowledge is protection."
+    },
+    {
+      "id": 3,
+      "type": "content",
+      "title": "WHAT IS DOMESTIC VIOLENCE?",
+      "definition": "DV = pattern of behavior used to gain power and control over partner",
+      "isNot": {
+        "heading": "It is NOT:",
+        "items": [
+          "One-time argument",
+          "Mutual fighting",
+          "Stress from outside",
+          "Cultural norm",
+          "Private family matter"
+        ]
+      },
+      "is": {
+        "heading": "It IS:",
+        "items": [
+          "Repeated pattern",
+          "One person controlling",
+          "Against the law",
+          "Violation of Islamic principles",
+          "Serious crime"
+        ]
+      },
+      "islamic": {
+        "principle": "Islam FORBIDS oppression",
+        "hadith": "The best of you are those who are best to their wives - Prophet Muhammad ﷺ"
+      }
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "TYPE 1: PHYSICAL ABUSE",
+      "definition": "Using physical force to hurt or control",
+      "examples": [
+        "Hitting/slapping/punching",
+        "Kicking/pushing/shoving",
+        "Choking/strangling",
+        "Burning/cutting",
+        "Using weapons",
+        "Throwing objects",
+        "Pulling hair",
+        "Restraining/tying up",
+        "Denying medical care"
+      ],
+      "critical": [
+        "Even ONE TIME is abuse",
+        "Even if 'not that hard'",
+        "Even if sorry afterwards",
+        "NO EXCUSE justifies physical violence"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "title": "TYPE 2: SEXUAL ABUSE",
+      "definition": "Forcing or pressuring sexual acts",
+      "critical": "CRITICAL TO UNDERSTAND: Marriage does NOT remove consent requirement",
+      "examples": [
+        "Forcing sex when partner says no",
+        "Sex while asleep/unconscious",
+        "Using threats for sex",
+        "Refusing to use contraception",
+        "Forcing unwanted acts",
+        "Sexual assault during pregnancy",
+        "Causing pain during sex",
+        "Forcing sex after violence"
+      ],
+      "islamicPrinciple": "Islam requires mutual consent for intimacy. Wife has RIGHT to refuse.",
+      "legal": "Marital rape IS rape. It's illegal."
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "TYPE 3: EMOTIONAL & PSYCHOLOGICAL ABUSE",
+      "definition": "Attacking self-worth and emotional wellbeing",
+      "note": "Often HARDEST to recognize. Leaves no visible marks but deeply damaging.",
+      "examples": [
+        "Name-calling/insults",
+        "Constant criticism",
+        "Humiliation (public or private)",
+        "Blaming for everything",
+        "Gaslighting (making doubt reality)",
+        "Threatening harm",
+        "Threatening divorce repeatedly",
+        "Silent treatment (weeks)",
+        "Destroying belongings",
+        "Hurting pets",
+        "Extreme jealousy/accusations",
+        "Monitoring constantly",
+        "Comparing to others negatively"
+      ],
+      "emphasis": "Emotional abuse is REAL abuse."
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "title": "TYPE 4: FINANCIAL ABUSE",
+      "subtitle": "(Review from Course 4)",
+      "definition": "Using money to control partner",
+      "quickReminders": [
+        "Taking bank card/ID",
+        "Controlling all money",
+        "Preventing work",
+        "Giving 'allowance' from partner's money",
+        "Hiding financial information",
+        "Taking loans in partner's name",
+        "Refusing to contribute (husband's obligation)"
+      ],
+      "legal": "Financial abuse = Domestic violence"
+    },
+    {
+      "id": 8,
+      "type": "content",
+      "title": "TYPE 5: SOCIAL ISOLATION & CONTROL",
+      "definition": "Cutting off from support network",
+      "goal": "Make victim dependent and alone",
+      "examples": [
+        "Preventing contact with family",
+        "Preventing friendships",
+        "Monitoring all calls/messages",
+        "Demanding passwords",
+        "Accusing of cheating constantly",
+        "Moving far from support",
+        "Forbidding work/study",
+        "Taking phone/internet away",
+        "Preventing leaving house",
+        "Turning family against victim"
+      ],
+      "warningSign": "If partner is cutting you off from everyone, this is serious abuse.",
+      "danger": "Isolation makes leaving harder. Keep connections with family/friends."
+    },
+    {
+      "id": 9,
+      "type": "content",
+      "title": "TYPE 6: TECHNOLOGY-FACILITATED ABUSE",
+      "definition": "Using technology to abuse/control/stalk",
+      "note": "VERY COMMON in Maldives",
+      "monitoring": [
+        "Installing spyware on phone",
+        "Tracking location constantly",
+        "Reading all messages/emails",
+        "Checking browser history"
+      ],
+      "harassment": [
+        "Constant calls/messages",
+        "Abusive messages",
+        "Threats via social media"
+      ],
+      "imageBasedAbuse": {
+        "heading": "IMAGE-BASED SEXUAL ABUSE (VERY SERIOUS):",
+        "examples": [
+          "Sharing intimate photos without consent",
+          "Threatening to share ('revenge porn')",
+          "Recording without consent",
+          "Blackmail with images"
+        ],
+        "legal": "Under Prevention of Sexual Harassment and Abuse Act: Image-based sexual abuse is ILLEGAL. Penalty: 6 months - 3 years prison"
+      },
+      "critical": "NEVER send intimate images to ANYONE, even trusted partner. Images can be weaponized."
+    },
+    {
+      "id": 10,
+      "type": "content",
+      "title": "TYPE 7: RELIGIOUS/SPIRITUAL ABUSE",
+      "definition": "Misusing religion to control or harm",
+      "proper": {
+        "heading": "Islam is used correctly:",
+        "for": "Guidance, Love, Mercy"
+      },
+      "misuse": {
+        "heading": "Islam is misused:",
+        "as": "Weapon for control"
+      },
+      "examplesOfMisuse": [
+        "'Islam says wife must obey EVERYTHING' - FALSE. Wife is not slave.",
+        "'If you refuse sex angels curse you' - MISUSING hadith. Consent still required.",
+        "'Husband is your god on earth' - WRONG. Only Allah is worshiped.",
+        "'You can't divorce it's haram' - FALSE. Divorce is allowed when needed.",
+        "Using verses out of context",
+        "Selective interpretation",
+        "Preventing religious education",
+        "Forcing extreme religious practices"
+      ],
+      "trueIslam": {
+        "heading": "TRUE ISLAM:",
+        "principles": [
+          "Promotes kindness/mercy/justice",
+          "Forbids oppression",
+          "Protects women's rights",
+          "Allows divorce when needed"
+        ]
+      },
+      "closing": "If someone uses Islam to abuse you, THEY are wrong, not the religion."
+    },
+    {
+      "id": 11,
+      "type": "video",
+      "title": "Understanding Domestic Violence",
+      "video": {
+        "duration": "5min",
+        "description": "DV expert or counselor explains abuse patterns (5 minutes)"
+      }
+    },
+    {
+      "id": 12,
+      "type": "content",
+      "title": "THE CYCLE OF VIOLENCE",
+      "introduction": "Abuse follows predictable pattern:",
+      "phases": [
+        {
+          "number": 1,
+          "name": "TENSION BUILDING",
+          "characteristics": [
+            "Walking on eggshells",
+            "Trying to keep peace",
+            "Feeling anxious",
+            "Minor incidents"
+          ]
+        },
+        {
+          "number": 2,
+          "name": "EXPLOSION (Acute Violence)",
+          "characteristics": [
+            "Physical violence",
+            "Extreme verbal abuse",
+            "Sexual assault",
+            "Destructive behavior"
+          ]
+        },
+        {
+          "number": 3,
+          "name": "HONEYMOON (Reconciliation)",
+          "characteristics": [
+            "Apologies/promises",
+            "Gifts/affection",
+            "Blaming external factors",
+            "'It won't happen again'",
+            "Victim hopes for change"
+          ]
+        }
+      ],
+      "thenRepeat": "THEN back to Phase 1. Cycle repeats, often getting worse.",
+      "trap": "The honeymoon phase makes victims stay, hoping 'this time will be different'",
+      "reality": "BUT: Abuse escalates over time. It does NOT get better on its own."
+    },
+    {
+      "id": 13,
+      "type": "content",
+      "title": "WHY VICTIMS STAY - UNDERSTANDING, NOT JUDGING",
+      "wrongQuestion": "NEVER ask: 'Why doesn't she just leave?'",
+      "rightQuestion": "INSTEAD ask: 'What barriers does she face?'",
+      "reasons": [
+        {
+          "category": "FEAR",
+          "details": [
+            "Threats to kill",
+            "Hurt children",
+            "Hurt family",
+            "Leaving is most dangerous time (TRUE)"
+          ]
+        },
+        {
+          "category": "FINANCIAL",
+          "details": [
+            "No income/job",
+            "Nowhere to go",
+            "Can't support children alone",
+            "He controls all money"
+          ]
+        },
+        {
+          "category": "CHILDREN",
+          "details": [
+            "Want children to have father",
+            "Afraid of losing custody",
+            "Don't want to disrupt children's lives"
+          ]
+        },
+        {
+          "category": "ISOLATION",
+          "details": [
+            "Cut off from family/friends",
+            "No support system",
+            "Ashamed to ask for help"
+          ]
+        },
+        {
+          "category": "HOPE",
+          "details": [
+            "Believes he'll change",
+            "Loves him",
+            "Honeymoon phase feels real"
+          ]
+        },
+        {
+          "category": "SHAME/STIGMA",
+          "details": [
+            "Society blames victim",
+            "Family pressure to stay",
+            "Divorce stigma"
+          ]
+        },
+        {
+          "category": "SYSTEM BARRIERS",
+          "details": [
+            "Police don't help",
+            "Court process slow",
+            "No enforcement",
+            "Nowhere safe to go"
+          ]
+        }
+      ],
+      "reality": [
+        "Leaving takes planning/resources/support",
+        "On average: 7 attempts before finally leaving"
+      ],
+      "imperative": "SUPPORT victims. Don't judge them."
+    },
+    {
+      "id": 14,
+      "type": "content",
+      "title": "⚠️ WARNING SIGNS ABUSE WILL ESCALATE - DANGER SIGNS ⚠️",
+      "introduction": "These signs mean SERIOUS DANGER:",
+      "dangerSigns": [
+        {
+          "sign": "CHOKING/STRANGULATION",
+          "severity": "Predictor of future murder"
+        },
+        {
+          "sign": "THREATS TO KILL",
+          "severity": "Take ALL threats seriously"
+        },
+        {
+          "sign": "WEAPONS",
+          "severity": "Using or threatening with weapons"
+        },
+        {
+          "sign": "OBSESSIVE JEALOUSY",
+          "severity": "Extreme, irrational jealousy"
+        },
+        {
+          "sign": "ESCALATING VIOLENCE",
+          "severity": "Each incident worse than last"
+        },
+        {
+          "sign": "FORCED SEX",
+          "severity": "Especially after violence"
+        },
+        {
+          "sign": "SUBSTANCE ABUSE",
+          "severity": "Drugs/alcohol increasing"
+        },
+        {
+          "sign": "STALKING",
+          "severity": "Following, monitoring constantly"
+        },
+        {
+          "sign": "ANIMAL ABUSE",
+          "severity": "Hurting pets"
+        },
+        {
+          "sign": "THREATS OF SUICIDE",
+          "severity": "'If you leave I'll kill myself'"
+        }
+      ],
+      "action": {
+        "heading": "IF YOU SEE THESE SIGNS:",
+        "urgency": "IMMEDIATE DANGER",
+        "steps": [
+          "Make safety plan NOW",
+          "Call Gender Ministry: 1421",
+          "Call Police: 119",
+          "Call FPA: 3319922"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "type": "content",
+      "title": "YOUR LEGAL RIGHTS: PROTECTION ORDERS",
+      "law": "Under Domestic Violence Prevention Act:",
+      "right": "You can get PROTECTION ORDER from Family Court",
+      "whatIs": {
+        "heading": "What is protection order?",
+        "definition": "Court order that PROHIBITS abuser from:",
+        "items": [
+          "Coming near you",
+          "Contacting you",
+          "Threatening you",
+          "Coming to your home/work",
+          "Taking your belongings"
+        ]
+      },
+      "types": [
+        {
+          "name": "EMERGENCY (Ex-parte)",
+          "characteristics": [
+            "Issued SAME DAY",
+            "No need for abuser to be present",
+            "Lasts until hearing (usually 7-14 days)"
+          ]
+        },
+        {
+          "name": "TEMPORARY",
+          "characteristics": [
+            "After hearing",
+            "Usually 1-3 months",
+            "Can be extended"
+          ]
+        },
+        {
+          "name": "PERMANENT",
+          "characteristics": [
+            "After full trial",
+            "Can last years",
+            "Must renew periodically"
+          ]
+        }
+      ],
+      "howToApply": {
+        "heading": "How to apply:",
+        "steps": [
+          "Go to Family Court",
+          "Fill application form (FREE)",
+          "Explain what happened",
+          "Bring evidence if possible"
+        ]
+      },
+      "contact": "Family Court: 3308585",
+      "emphasis": "Protection orders are FREE"
+    },
+    {
+      "id": 16,
+      "type": "content",
+      "title": "WHAT TO INCLUDE IN PROTECTION ORDER APPLICATION",
+      "instruction": "Be SPECIFIC. Include:",
+      "sections": [
+        {
+          "category": "INCIDENTS OF ABUSE",
+          "include": [
+            "Dates (approximate if don't remember exact)",
+            "What happened exactly",
+            "Witnesses (if any)",
+            "Where it happened"
+          ]
+        },
+        {
+          "category": "INJURIES/HARM",
+          "include": [
+            "Physical injuries",
+            "Emotional harm",
+            "Financial loss",
+            "Sexual abuse"
+          ]
+        },
+        {
+          "category": "EVIDENCE (if you have)",
+          "include": [
+            "Photos of injuries",
+            "Medical reports",
+            "Police reports",
+            "Text messages/emails",
+            "Witness statements",
+            "Financial records"
+          ]
+        },
+        {
+          "category": "WHAT YOU NEED PROTECTED FROM",
+          "include": [
+            "Physical violence",
+            "Threats",
+            "Harassment",
+            "Contact",
+            "Coming to home/work",
+            "Children (if relevant)"
+          ]
+        }
+      ],
+      "critical": "DON'T MINIMIZE. Tell the TRUTH.",
+      "reframe": "This is not complaining. It's protecting yourself."
+    },
+    {
+      "id": 17,
+      "type": "content",
+      "title": "REPORTING TO POLICE",
+      "whenToReport": {
+        "heading": "When to report:",
+        "situations": [
+          "Physical violence",
+          "Sexual assault",
+          "Threats to kill",
+          "Destruction of property",
+          "Violation of protection order",
+          "ANY crime"
+        ]
+      },
+      "howToReport": {
+        "heading": "How to report:",
+        "emergency": "EMERGENCY (ongoing): Call 119 - Violence happening now",
+        "nonEmergency": "NON-EMERGENCY: Go to police station, file formal report"
+      },
+      "policeShouldDo": {
+        "heading": "What police SHOULD do:",
+        "items": [
+          "Take your report seriously",
+          "Document everything",
+          "Take photos of injuries",
+          "Collect evidence",
+          "Arrest abuser if necessary",
+          "Refer to Gender Ministry/FPA",
+          "Help you get to shelter if needed"
+        ]
+      },
+      "realityCheck": {
+        "heading": "REALITY CHECK:",
+        "unfortunate": "Unfortunately, police sometimes:",
+        "problems": [
+          "Don't take reports seriously",
+          "Say 'it's family matter'",
+          "Delay investigation (1-8 months common)",
+          "Don't enforce protection orders"
+        ]
+      },
+      "ifPoliceDontHelp": {
+        "heading": "IF POLICE DON'T HELP:",
+        "steps": [
+          {
+            "number": 1,
+            "action": "Ask to speak to supervisor"
+          },
+          {
+            "number": 2,
+            "action": "File complaint:",
+            "where": [
+              "Police Professional Standards",
+              "Police Integrity Commission",
+              "Human Rights Commission: 3016770"
+            ]
+          },
+          {
+            "number": 3,
+            "action": "Contact Gender Ministry: 1421"
+          },
+          {
+            "number": 4,
+            "action": "Contact FPA: 3319922"
+          }
+        ]
+      },
+      "important": "Get REFERENCE NUMBER for your report. Follow up regularly."
+    },
+    {
+      "id": 18,
+      "type": "content",
+      "title": "COURT PROCESSES OVERVIEW",
+      "introduction": "Three different court processes for DV:",
+      "processes": [
+        {
+          "number": 1,
+          "court": "CRIMINAL COURT",
+          "type": "CRIMINAL CASE",
+          "who": "Police prosecute abuser",
+          "process": [
+            "Police investigate",
+            "Prosecutor files charges",
+            "Trial",
+            "If convicted: fine/prison"
+          ],
+          "timeline": "6 months - 2+ years"
+        },
+        {
+          "number": 2,
+          "court": "FAMILY COURT",
+          "type": "PROTECTION ORDER",
+          "who": "You apply yourself",
+          "process": [
+            "File application",
+            "Hearing within days/weeks",
+            "Order issued if approved",
+            "Must be enforced by police"
+          ],
+          "timeline": "Days to weeks"
+        },
+        {
+          "number": 3,
+          "court": "FAMILY COURT",
+          "type": "DIVORCE",
+          "who": "Either party can file",
+          "process": [
+            "File for divorce",
+            "Mediation attempts",
+            "Trial if no agreement",
+            "Divorce granted",
+            "Custody/maintenance decided"
+          ],
+          "timeline": "3-12 months"
+        }
+      ],
+      "important": "You can pursue ALL THREE at same time",
+      "legalAid": "Free legal aid available"
+    },
+    {
+      "id": 19,
+      "type": "content",
+      "title": "SHELTER SERVICES",
+      "introduction": "If you need safe place to stay:",
+      "shelters": [
+        {
+          "name": "NATIONAL SHELTER (Gender Ministry)",
+          "location": "Malé, K. Atoll",
+          "for": "Women and children fleeing DV",
+          "features": [
+            "Safe, confidential location",
+            "Food/clothing/basic needs provided",
+            "Counseling available",
+            "Help with legal processes",
+            "Can stay while sorting situation"
+          ],
+          "contact": "1421 / 3005500"
+        },
+        {
+          "name": "AMAAN HOUSE",
+          "description": "Another shelter option with similar services"
+        },
+        {
+          "name": "ISLAND SHELTERS (Amaanhiyaas)",
+          "description": "Some islands have safe houses",
+          "howTo": "Contact Gender Ministry to find nearest: 1421"
+        },
+        {
+          "name": "TRUSTED FAMILY",
+          "condition": "May stay with trusted family if safe"
+        }
+      ],
+      "whatToBring": {
+        "heading": "What to bring to shelter (if you can):",
+        "items": [
+          "ID cards",
+          "Birth certificates",
+          "Important documents",
+          "Medications",
+          "Phone/charger",
+          "Few clothes",
+          "Children's items"
+        ],
+        "reassurance": "Don't worry if you can't bring anything - shelter will help"
+      }
+    },
+    {
+      "id": 20,
+      "type": "interactive",
+      "interactionType": "safetyPlan",
+      "title": "SAFETY PLANNING WORKSHEET",
+      "warning": "Complete this worksheet and keep it safe. DO NOT keep where abuser can find it.",
+      "sections": [
+        {
+          "section": "MY SAFE PEOPLE",
+          "fields": [
+            {
+              "label": "Trusted friend 1:",
+              "type": "text",
+              "id": "safePerson1Name"
+            },
+            {
+              "label": "Phone:",
+              "type": "tel",
+              "id": "safePerson1Phone"
+            },
+            {
+              "label": "Trusted friend 2:",
+              "type": "text",
+              "id": "safePerson2Name"
+            },
+            {
+              "label": "Phone:",
+              "type": "tel",
+              "id": "safePerson2Phone"
+            },
+            {
+              "label": "Family member:",
+              "type": "text",
+              "id": "familyMemberName"
+            },
+            {
+              "label": "Phone:",
+              "type": "tel",
+              "id": "familyMemberPhone"
+            }
+          ]
+        },
+        {
+          "section": "MY SAFE PLACES",
+          "fields": [
+            {
+              "label": "Place I can go immediately:",
+              "type": "text",
+              "id": "safePlace1"
+            },
+            {
+              "label": "Address:",
+              "type": "text",
+              "id": "safePlace1Address"
+            },
+            {
+              "label": "Alternative safe place:",
+              "type": "text",
+              "id": "safePlace2"
+            },
+            {
+              "label": "Address:",
+              "type": "text",
+              "id": "safePlace2Address"
+            }
+          ]
+        },
+        {
+          "section": "MY CODE WORD",
+          "fields": [
+            {
+              "label": "Code word for 'help me':",
+              "type": "text",
+              "id": "codeWord"
+            },
+            {
+              "label": "Who knows this code:",
+              "type": "text",
+              "id": "codeWordKnowers"
+            }
+          ]
+        },
+        {
+          "section": "IMPORTANT DOCUMENTS I HAVE COPIED",
+          "checkboxes": [
+            "My ID card",
+            "Children's birth certificates",
+            "Marriage certificate",
+            "Bank statements",
+            "Medical records",
+            "Police reports",
+            "Passport"
+          ],
+          "field": {
+            "label": "Copies stored with:",
+            "type": "text",
+            "id": "documentsLocation"
+          }
+        },
+        {
+          "section": "MY EMERGENCY BAG LOCATION",
+          "field": {
+            "label": "Emergency bag is hidden at:",
+            "type": "text",
+            "id": "emergencyBagLocation"
+          }
+        },
+        {
+          "section": "MY ESCAPE ROUTES",
+          "fields": [
+            {
+              "label": "Route 1:",
+              "type": "text",
+              "id": "escapeRoute1"
+            },
+            {
+              "label": "Route 2:",
+              "type": "text",
+              "id": "escapeRoute2"
+            }
+          ]
+        },
+        {
+          "section": "IF I NEED TO LEAVE",
+          "checkboxes": [
+            "I know where the shelter is",
+            "I have phone numbers memorized",
+            "I have some money saved",
+            "Someone knows my situation",
+            "I have copies of documents"
+          ]
+        }
+      ],
+      "actions": [
+        {
+          "button": "Save This Plan Securely",
+          "action": "saveSafetyPlan",
+          "security": "encrypted"
+        },
+        {
+          "button": "Download PDF (Delete After Saving Elsewhere)",
+          "action": "downloadSafetyPlanPDF"
+        }
+      ],
+      "storage": {
+        "saveAs": "course5_safetyPlan",
+        "encrypted": true,
+        "warning": "Store securely, not on device abuser can access"
+      }
+    },
+    {
+      "id": 21,
+      "type": "checkpoint",
+      "content": {
+        "title": "COMMITMENT TO SAFETY",
+        "instruction": "To confirm you understand the seriousness of domestic violence and your rights, both partners copy and paste the following statement:",
+        "requiredText": "I understand that domestic violence in ANY form - physical, sexual, emotional, financial, social, technological, or religious - is abuse. I know that abuse is illegal and against Islamic principles. I know my legal rights including protection orders and where to seek help. I commit to treating my partner with respect and never using violence or control. If I experience abuse, I know I have the right to seek help and safety. I will support others who face violence by believing them and connecting them to resources.",
+        "validation": {
+          "mustMatchExactly": true,
+          "bothMustComplete": true,
+          "errorMessage": "Text must match exactly. Please copy and paste the complete statement."
+        }
+      }
+    },
+    {
+      "id": 22,
+      "type": "content",
+      "title": "HELPING OTHERS WHO FACE VIOLENCE",
+      "sections": [
+        {
+          "heading": "IF SOMEONE TELLS YOU THEY'RE BEING ABUSED:",
+          "items": [
+            "BELIEVE THEM",
+            "Listen without judgment",
+            "Don't blame or question",
+            "Affirm it's not their fault",
+            "Support their decisions",
+            "Don't pressure to leave",
+            "Offer practical help",
+            "Keep information confidential"
+          ]
+        },
+        {
+          "heading": "WHAT TO SAY:",
+          "items": [
+            "'I believe you'",
+            "'This is not your fault'",
+            "'You don't deserve this'",
+            "'I'm here for you'",
+            "'What do you need right now?'",
+            "'Here are some resources...'"
+          ]
+        },
+        {
+          "heading": "WHAT NOT TO SAY:",
+          "items": [
+            "'Why don't you just leave?'",
+            "'What did you do to provoke him?'",
+            "'Are you sure it's that bad?'",
+            "'But he seems so nice'",
+            "'Maybe you're overreacting'"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "type": "content",
+      "title": "STATE SUPPORT SERVICES",
+      "sections": [
+        {
+          "heading": "FINANCIAL SUPPORT:",
+          "items": [
+            "Single Parent Allowance: 3,000 MVR/month",
+            "Disability Allowance: varies",
+            "Foster Care Support",
+            "Emergency assistance available"
+          ],
+          "contact": "NSPA: 1414"
+        },
+        {
+          "heading": "HEALTHCARE:",
+          "items": [
+            "Aasandha covers all citizens",
+            "Mental health services available",
+            "Substance abuse treatment"
+          ],
+          "contact": "Aasandha: 1337"
+        },
+        {
+          "heading": "HOUSING:",
+          "items": [
+            "Hiya flat applications",
+            "HDC housing",
+            "Emergency shelter"
+          ],
+          "contact": "HDC: [number]"
+        },
+        {
+          "heading": "EDUCATION:",
+          "items": [
+            "School enrollment assistance",
+            "Special education services",
+            "Scholarship information"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "content",
+      "title": "BUILDING HEALTHY RELATIONSHIPS",
+      "sections": [
+        {
+          "heading": "HEALTHY RELATIONSHIPS HAVE:",
+          "items": [
+            "Mutual respect",
+            "Trust and honesty",
+            "Good communication",
+            "Equality",
+            "Independence and togetherness",
+            "Support for each other",
+            "Physical and emotional safety",
+            "Conflict resolution skills"
+          ]
+        },
+        {
+          "heading": "UNHEALTHY RELATIONSHIPS HAVE:",
+          "items": [
+            "Control and manipulation",
+            "Disrespect",
+            "Dishonesty",
+            "Intimidation",
+            "Isolation",
+            "Jealousy and possessiveness",
+            "Volatility",
+            "Lack of boundaries"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "content",
+      "title": "RED FLAGS IN DATING/ENGAGEMENT",
+      "sections": [
+        {
+          "heading": "WATCH FOR THESE WARNING SIGNS:",
+          "items": [
+            "Moves relationship too fast",
+            "Excessively jealous or possessive",
+            "Isolates you from family/friends",
+            "Constantly checks up on you",
+            "Controls what you wear/do",
+            "Has angry outbursts",
+            "Blames others for problems",
+            "History of violence",
+            "Disrespects women generally",
+            "Pressures for sex",
+            "Ignores your boundaries",
+            "Makes you feel afraid"
+          ]
+        }
+      ],
+      "closing": "Trust your instincts. If something feels wrong, it probably is."
+    },
+    {
+      "id": 26,
+      "type": "content",
+      "title": "WHEN TO WALK AWAY",
+      "sections": [
+        {
+          "heading": "IT'S OKAY TO END A RELATIONSHIP IF:",
+          "items": [
+            "You feel unsafe",
+            "Partner is abusive in any way",
+            "You're not happy more often than you're happy",
+            "Your needs aren't being met",
+            "You've grown in different directions",
+            "Trust is broken and can't be repaired",
+            "You're better apart than together"
+          ]
+        },
+        {
+          "heading": "ENDING ENGAGEMENT:",
+          "items": [
+            "Better to end engagement than marry wrong person",
+            "You don't owe anyone explanation",
+            "Return gifts if appropriate",
+            "Your safety and happiness matter most"
+          ]
+        }
+      ],
+      "reminder": "Better to be single than in unsafe relationship."
+    },
+    {
+      "id": 27,
+      "type": "content",
+      "title": "SUPPORTING YOURSELF",
+      "sections": [
+        {
+          "heading": "SELF-CARE IS ESSENTIAL:",
+          "items": [
+            "Maintain relationships",
+            "Pursue interests and hobbies",
+            "Take care of physical health",
+            "Address mental health needs",
+            "Set boundaries",
+            "Don't lose yourself in relationship"
+          ]
+        },
+        {
+          "heading": "BUILD YOUR SUPPORT NETWORK:",
+          "items": [
+            "Family connections",
+            "Friends",
+            "Community",
+            "Professional support if needed",
+            "Religious community"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "type": "video",
+      "title": "Survivor Stories",
+      "video": {
+        "duration": "7min",
+        "description": "DV survivors share their stories and recovery (7 minutes)"
+      }
+    },
+    {
+      "id": 29,
+      "type": "checkpoint",
+      "content": {
+        "title": "KNOWLEDGE CHECK: CASE STUDIES",
+        "cases": [
+          {
+            "caseNumber": 1,
+            "scenario": "Aisha's husband Ahmed checks her phone daily, reads all messages, and gets angry if she talks to male colleagues at work. He says 'I'm just protecting you.'",
+            "questions": [
+              {
+                "id": 1,
+                "type": "multipleChoice",
+                "question": "Is this abuse?",
+                "options": [
+                  "Yes - this is controlling behavior",
+                  "No - he's being protective",
+                  "Maybe - depends on context"
+                ],
+                "correctAnswer": 0
+              }
+            ]
+          },
+          {
+            "caseNumber": 2,
+            "scenario": "During an argument, Mohamed grabbed Fathimath's arm tightly, leaving bruises. He apologized later and bought her flowers, saying 'I was just stressed from work. It won't happen again.'",
+            "questions": [
+              {
+                "id": 2,
+                "type": "multipleChoice",
+                "question": "Should Fathimath:",
+                "options": [
+                  "Accept the apology and move on",
+                  "Recognize this as physical abuse and seek help",
+                  "Wait and see if it happens again"
+                ],
+                "correctAnswer": 1
+              }
+            ]
+          },
+          {
+            "caseNumber": 3,
+            "scenario": "Aminath wants to visit her sick mother, but her husband says no and threatens 'If you go, don't come back.' This has happened multiple times.",
+            "questions": [
+              {
+                "id": 3,
+                "type": "checkboxes",
+                "question": "What type(s) of abuse is this?",
+                "options": [
+                  "Social isolation",
+                  "Emotional abuse",
+                  "Controlling behavior",
+                  "All of the above"
+                ],
+                "correctAnswers": [
+                  0,
+                  1,
+                  2,
+                  3
+                ]
+              }
+            ]
+          }
+        ],
+        "feedback": {
+          "allCorrect": "Excellent! You can recognize different types of abuse.",
+          "someCorrect": "Review the types of domestic violence. Make sure you can identify each type.",
+          "needsReview": "Please review the material on types of domestic violence before proceeding."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "content",
+      "title": "COMPLETE RESOURCE DIRECTORY",
+      "categories": [
+        {
+          "category": "EMERGENCY",
+          "contacts": [
+            "Police: 119 / 3322111",
+            "Ambulance: 102",
+            "IGMH Emergency: 3335577"
+          ]
+        },
+        {
+          "category": "DOMESTIC VIOLENCE SUPPORT",
+          "contacts": [
+            "Gender Ministry Hotline: 1421 / 3005500",
+            "Family Protection Authority: 3319922",
+            "National Shelter: 1421",
+            "Amaan House: [number]",
+            "FCSCs (Family & Child Service Centres): 1421"
+          ]
+        },
+        {
+          "category": "LEGAL SUPPORT",
+          "contacts": [
+            "Family Court: 3308585",
+            "Criminal Court: 3006411",
+            "Legal Aid: [number]",
+            "Prosecutor General's Office: 3007070"
+          ]
+        },
+        {
+          "category": "POLICE COMPLAINTS",
+          "contacts": [
+            "Police Professional Standards: [number]",
+            "Police Integrity Commission: [number]",
+            "Human Rights Commission: 3016770"
+          ]
+        },
+        {
+          "category": "COUNSELING & MENTAL HEALTH",
+          "contacts": [
+            "IGMH Psychiatric Unit: 3335577",
+            "Gender Ministry Counseling: 1421",
+            "Suicide Hotline: 1676",
+            "Private counselors: [available]"
+          ]
+        },
+        {
+          "category": "STATE SUPPORT",
+          "contacts": [
+            "NSPA (Disability, Single Parent allowance): 1414",
+            "Aasandha (Health Insurance): 1337",
+            "HDC (Housing): [number]"
+          ]
+        },
+        {
+          "category": "CHILD PROTECTION",
+          "contacts": [
+            "Gender Ministry: 1421",
+            "FCSCs: 1421"
+          ]
+        }
+      ],
+      "action": "Download Complete Resource PDF with all details"
+    },
+    {
+      "id": 31,
+      "type": "content",
+      "title": "KNOW YOUR RIGHTS SUMMARY",
+      "sections": [
+        {
+          "heading": "YOU HAVE THE RIGHT TO:",
+          "items": [
+            "Safety in your home",
+            "Protection from violence",
+            "Report abuse to police",
+            "Get protection order from court",
+            "Seek shelter if needed",
+            "Divorce if being abused",
+            "Keep your children safe",
+            "Financial support during and after marriage",
+            "Legal representation",
+            "Mental health support"
+          ]
+        },
+        {
+          "heading": "REMEMBER:",
+          "items": [
+            "Abuse is NEVER your fault",
+            "You deserve safety and respect",
+            "Help is available",
+            "You don't have to stay",
+            "Your safety matters most"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "type": "content",
+      "title": "PREVENTING ABUSE IN YOUR RELATIONSHIP",
+      "sections": [
+        {
+          "heading": "BOTH PARTNERS COMMIT TO:",
+          "items": [
+            "Treating each other with respect",
+            "Never using violence of any kind",
+            "Communicating openly and honestly",
+            "Respecting boundaries",
+            "Sharing power and control",
+            "Supporting each other's independence",
+            "Seeking help if problems arise",
+            "Holding each other accountable"
+          ]
+        },
+        {
+          "heading": "IF YOU FIND YOURSELF BECOMING CONTROLLING:",
+          "items": [
+            "Recognize the problem",
+            "Seek counseling immediately",
+            "Learn healthy relationship skills",
+            "Address underlying issues (stress, trauma, etc.)",
+            "Take responsibility for your behavior",
+            "Commit to change"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "type": "checkpoint",
+      "content": {
+        "title": "KNOWLEDGE CHECK: TRUE OR FALSE",
+        "passingScore": 7,
+        "totalQuestions": 8,
+        "questions": [
+          {
+            "id": 1,
+            "statement": "Physical abuse is the only 'real' type of domestic violence.",
+            "correctAnswer": false
+          },
+          {
+            "id": 2,
+            "statement": "It's the victim's fault if they stay in abusive relationship.",
+            "correctAnswer": false
+          },
+          {
+            "id": 3,
+            "statement": "Protection orders can be obtained for free from Family Court.",
+            "correctAnswer": true
+          },
+          {
+            "id": 4,
+            "statement": "Marriage removes the requirement for consent to intimacy.",
+            "correctAnswer": false
+          },
+          {
+            "id": 5,
+            "statement": "Financial abuse is a form of domestic violence.",
+            "correctAnswer": true
+          },
+          {
+            "id": 6,
+            "statement": "Victims should always leave immediately when abuse occurs.",
+            "correctAnswer": false
+          },
+          {
+            "id": 7,
+            "statement": "The cycle of violence includes a honeymoon phase.",
+            "correctAnswer": true
+          },
+          {
+            "id": 8,
+            "statement": "Domestic violence is a private family matter that police shouldn't interfere with.",
+            "correctAnswer": false
+          }
+        ],
+        "feedback": {
+          "passing": "Excellent! You understand domestic violence and how to respond.",
+          "failing": "Please review the material. This knowledge can save lives."
+        }
+      }
+    },
+    {
+      "id": 34,
+      "type": "content",
+      "title": "GENDER MINISTRY SERVICES",
+      "sections": [
+        {
+          "heading": "GENDER MINISTRY (1421) PROVIDES:",
+          "items": [
+            "24/7 hotline",
+            "Counseling services",
+            "Emergency shelter",
+            "Legal assistance referrals",
+            "Case management",
+            "Safety planning",
+            "Advocacy",
+            "Support groups"
+          ]
+        },
+        {
+          "heading": "FAMILY & CHILD SERVICE CENTRES (FCSCs):",
+          "items": [
+            "Available on many islands",
+            "Provide local support",
+            "Coordinate with Gender Ministry",
+            "Community-based services"
+          ]
+        }
+      ],
+      "reminder": "These services are free and confidential."
+    },
+    {
+      "id": 35,
+      "type": "content",
+      "title": "CHILDREN EXPOSED TO DOMESTIC VIOLENCE",
+      "sections": [
+        {
+          "heading": "EFFECTS ON CHILDREN:",
+          "items": [
+            "Trauma and fear",
+            "Behavioral problems",
+            "Academic difficulties",
+            "Mental health issues",
+            "Learn violence is normal",
+            "Repeat patterns in own relationships"
+          ]
+        },
+        {
+          "heading": "PROTECTING CHILDREN:",
+          "items": [
+            "Remove them from violent environment",
+            "Provide stability and routine",
+            "Get counseling for them",
+            "Reassure them it's not their fault",
+            "Model healthy behavior",
+            "Seek custody/protection orders"
+          ]
+        }
+      ],
+      "closing": "Children deserve safe homes. Leaving for their sake is strength, not weakness."
+    },
+    {
+      "id": 36,
+      "type": "content",
+      "title": "RECOVERING FROM ABUSE",
+      "sections": [
+        {
+          "heading": "HEALING TAKES TIME:",
+          "items": [
+            "Be patient with yourself",
+            "Seek professional help",
+            "Join support groups",
+            "Rebuild relationships",
+            "Focus on self-care",
+            "Set boundaries",
+            "Rediscover yourself"
+          ]
+        },
+        {
+          "heading": "YOU ARE NOT ALONE:",
+          "items": [
+            "Many survivors recover and thrive",
+            "Support is available",
+            "You can build new life",
+            "Your experiences can help others",
+            "You are stronger than you know"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "type": "content",
+      "title": "FINAL REMINDERS",
+      "sections": [
+        {
+          "heading": "KEEP THIS KNOWLEDGE:",
+          "items": [
+            "Save emergency numbers in phone",
+            "Keep safety plan secure",
+            "Remember your rights",
+            "Know where to get help",
+            "Support others who need it",
+            "Build healthy relationships"
+          ]
+        },
+        {
+          "heading": "SHARE THIS KNOWLEDGE:",
+          "items": [
+            "Tell others about resources",
+            "Help friends recognize abuse",
+            "Support victims without judgment",
+            "Challenge abuse-enabling attitudes",
+            "Be part of solution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "type": "completion",
+      "title": "CONGRATULATIONS!",
+      "subtitle": "You have completed Course 5: BUILDING A SAFE HOME & NAVIGATING SYSTEMS",
+      "learned": {
+        "heading": "What you learned:",
+        "items": [
+          "Types of domestic violence (7 types)",
+          "Cycle of violence",
+          "Why victims stay (understanding, not judging)",
+          "Warning signs abuse will escalate",
+          "Legal rights (protection orders)",
+          "How to report to police (and what to do if they don't help)",
+          "Court processes",
+          "Shelter services",
+          "Safety planning",
+          "State support services",
+          "Helping others (bystander intervention)",
+          "Building healthy relationships",
+          "Red flags to watch for",
+          "When to walk away"
+        ]
+      },
+      "created": {
+        "heading": "What you created:",
+        "items": [
+          "Personal safety plan",
+          "Resource contact list",
+          "Commitment to non-violence"
+        ]
+      },
+      "keyTakeaway": [
+        "Everyone deserves safety in marriage",
+        "Abuse is NEVER acceptable",
+        "Help is available",
+        "You have rights",
+        "Knowledge is protection"
+      ],
+      "progress": "Certificate Progress: 5/6 Complete",
+      "next": "Next: Course 6 - Parenting & Child Well-being",
+      "nextDescription": "You'll learn about preparing for children, child development, and positive parenting."
+    }
+  ]
+}

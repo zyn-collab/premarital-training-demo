@@ -1,0 +1,655 @@
+{
+  "courseTitle": "Course 1: Foundations of Partnership",
+  "courseDuration": "60 minutes",
+  "totalSlides": 20,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 1",
+      "subtitle": "FOUNDATIONS OF PARTNERSHIP",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "WELCOME TO THE MARRIAGE PREPARATION PROGRAM",
+      "body": "This program prepares you for a successful, healthy marriage based on Islamic principles and Maldivian law.",
+      "sections": [
+        {
+          "heading": "WHAT YOU'LL COMPLETE:",
+          "items": [
+            "6 Courses | 6 Hours Total",
+            "Course 1: Foundations of Partnership (60 min)",
+            "Course 2: Communication & Planning Together (75 min)",
+            "Course 3: Health & Intimacy (60 min)",
+            "Course 4: Financial Partnership (60 min)",
+            "Course 5: Building Safe Home & Navigating Systems (70 min)",
+            "Course 6: Parenting & Child Well-being (60 min)"
+          ]
+        },
+        {
+          "heading": "WHAT YOU'LL GET:",
+          "items": [
+            "Knowledge of your rights and responsibilities",
+            "Communication and conflict resolution skills",
+            "Financial planning tools",
+            "Safety and system navigation information",
+            "Parenting preparation",
+            "Marital agreement template",
+            "Certificate for Family Court"
+          ]
+        },
+        {
+          "heading": "WHY THIS MATTERS:",
+          "content": "Strong marriages are built on: Knowledge, Communication, Mutual respect, Shared values, Realistic expectations"
+        }
+      ],
+      "closing": "Let's begin building your foundation!"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "title": "Introduction to Course",
+      "video": {
+        "duration": "3min",
+        "description": "Facilitator welcomes participants, explains program"
+      }
+    },
+    {
+      "id": 4,
+      "type": "content",
+      "title": "QURANIC FOUNDATION OF MARRIAGE",
+      "quranVerse": {
+        "arabic": "And among His signs is that He created for you spouses from among yourselves so that you may find comfort in them. And He has placed between you compassion and mercy. Surely in this are signs for people who reflect.",
+        "reference": "Quran 30:21",
+        "styling": "centered, larger font"
+      },
+      "teachings": [
+        "Marriage is a divine sign",
+        "Spouses are meant to bring comfort",
+        "Compassion (mawaddah) is essential",
+        "Mercy (rahmah) is essential",
+        "Marriage requires reflection and intention"
+      ],
+      "closing": "Marriage is a sacred bond, not just a contract."
+    },
+    {
+      "id": 5,
+      "type": "video",
+      "title": "Islamic Scholar Explains Marriage in Islam",
+      "video": {
+        "duration": "5min",
+        "description": "Religious scholar provides Islamic perspective"
+      }
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "WHAT IS MARRIAGE?",
+      "source": "From the Religious (Dheenee) Course",
+      "definition": "Marriage is a bond that ties two lives into one. Whatever happiness and pain either experiences, both will experience together.",
+      "emphasis": "Marriage is a TEAM.",
+      "principles": {
+        "heading": "Key Islamic Principles:",
+        "items": [
+          "Marriage is worship when done with right intention",
+          "Half of faith (hadith)",
+          "Protection of modesty",
+          "Continuing the human lineage",
+          "Companionship and mutual support"
+        ]
+      },
+      "requirements": {
+        "heading": "Marriage requires:",
+        "items": [
+          "Maturity",
+          "Commitment",
+          "Effort from both partners",
+          "Understanding of rights and responsibilities",
+          "Willingness to grow together"
+        ]
+      },
+      "closing": "This is not just romance - it's a lifelong partnership."
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "title": "PURPOSES OF MARRIAGE IN ISLAM",
+      "source": "From the Religious (Dheenee) Course",
+      "purposes": [
+        {
+          "number": 1,
+          "title": "COMPANIONSHIP",
+          "points": [
+            "Supporting each other",
+            "Sharing life's journey",
+            "Emotional connection"
+          ]
+        },
+        {
+          "number": 2,
+          "title": "CONTINUING THE HUMAN LINEAGE",
+          "points": [
+            "Having children (if able and willing)",
+            "Raising righteous next generation",
+            "Building family"
+          ]
+        },
+        {
+          "number": 3,
+          "title": "PROTECTING MODESTY",
+          "points": [
+            "Halal intimacy",
+            "Fulfilling natural desires",
+            "Guarding chastity"
+          ]
+        },
+        {
+          "number": 4,
+          "title": "MUTUAL DEVELOPMENT",
+          "points": [
+            "Growing in faith together",
+            "Helping each other improve",
+            "Building character"
+          ]
+        }
+      ],
+      "closing": "All these purposes work together to create a strong, blessed marriage."
+    },
+    {
+      "id": 8,
+      "type": "checkpoint",
+      "content": {
+        "title": "MARRIAGE: A STRONG COVENANT",
+        "quranVerse": {
+          "text": "And they have taken from you a strong covenant (mithaqan ghaleedha)",
+          "reference": "Quran 4:21"
+        },
+        "explanation": [
+          "Not a casual agreement",
+          "Sacred bond before Allah",
+          "Serious commitment",
+          "Rights and responsibilities",
+          "Cannot be taken lightly"
+        ],
+        "context": "This is the SAME word used for: Covenant with the Prophets, Very serious agreements in Islam",
+        "emphasis": "Marriage is ONE OF THE MOST SERIOUS commitments you will ever make.",
+        "instruction": "To confirm you understand the seriousness of marriage as a covenant, both partners copy and paste this exact text:",
+        "requiredText": "I understand that marriage is a strong covenant (mithaqan ghaleedha) before Allah, requiring serious commitment, mutual rights and responsibilities, and lifelong effort. I enter this marriage with full awareness of its sacred nature.",
+        "validation": {
+          "mustMatchExactly": true,
+          "bothMustComplete": true,
+          "errorMessage": "Text must match exactly. Please copy and paste the complete statement."
+        }
+      }
+    },
+    {
+      "id": 9,
+      "type": "content",
+      "title": "YOUR LEGAL RIGHT TO MARRY",
+      "legalReference": "Constitution of the Maldives, Article 34(h):",
+      "quote": "Every citizen has the right to marry based on mutual consent and free choice.",
+      "meaning": {
+        "heading": "What this means:",
+        "items": [
+          "YOU choose your spouse",
+          "Both must consent freely",
+          "No one can force you",
+          "Marriage requires mutual agreement"
+        ]
+      },
+      "note": "This is both an Islamic principle AND constitutional right.",
+      "freeChoiceIncludes": {
+        "heading": "FREE CHOICE includes:",
+        "items": [
+          "Choosing to marry or not marry",
+          "Choosing your partner",
+          "Choosing when to marry",
+          "Refusing proposals",
+          "Ending engagement if you change your mind"
+        ]
+      },
+      "familyRole": [
+        "Your family can advise.",
+        "Your family cannot force."
+      ],
+      "closing": "This is your decision."
+    },
+    {
+      "id": 10,
+      "type": "content",
+      "title": "⚠️ FORCED MARRIAGE IS ILLEGAL ⚠️",
+      "legalContext": "Under Maldivian Criminal Law:",
+      "offense": "Forcing someone to marry is a CRIMINAL OFFENSE.",
+      "penalty": "Penalty: Fine of 1,000 to 5,000 rufiyaa",
+      "includes": [
+        "Physical force",
+        "Threats",
+        "Emotional pressure that removes free choice",
+        "Using blackmail",
+        "Deceiving someone into marriage"
+      ],
+      "ifBeingForced": {
+        "heading": "If you are being forced to marry:",
+        "contacts": [
+          "Police: 119 / 3322111",
+          "Gender Ministry: 1421 / 3005500",
+          "Family Protection Authority: 3319922"
+        ]
+      },
+      "emphasis": [
+        "You have the legal right to refuse.",
+        "No one can force you into marriage.",
+        "If you witness forced marriage: REPORT IT. You could save someone's life."
+      ]
+    },
+    {
+      "id": 11,
+      "type": "content",
+      "title": "UNDERSTANDING MAHRU (DOWRY)",
+      "source": "From the Legal (Gaanoonee) Course",
+      "definition": "A gift from the husband to the wife at the time of marriage.",
+      "keyFacts": [
+        {
+          "number": 1,
+          "title": "IT IS THE WIFE'S ABSOLUTE RIGHT",
+          "detail": "Not optional. Must be given."
+        },
+        {
+          "number": 2,
+          "title": "THE WIFE DECIDES THE AMOUNT",
+          "detail": "She sets it based on her preference. No maximum or minimum in Islam. (Maldivian practice: often negotiated)"
+        },
+        {
+          "number": 3,
+          "title": "IT BECOMES HER PROPERTY AT NIKAH",
+          "detail": "Belongs entirely to her. She can use it however she wants."
+        },
+        {
+          "number": 4,
+          "title": "FAMILY CANNOT TAKE IT",
+          "detail": "It's not for her family. It's not for the wedding expenses. It's HER money."
+        },
+        {
+          "number": 5,
+          "title": "SHE CAN CLAIM IT IN COURT",
+          "detail": "If husband doesn't pay, she can sue."
+        }
+      ],
+      "closing": "The mahru symbolizes the husband's commitment and the wife's value. It is her financial security."
+    },
+    {
+      "id": 12,
+      "type": "content",
+      "title": "HUSBAND'S RESPONSIBILITIES",
+      "source": "From Legal (Gaanoonee) & Religious (Dheenee) Courses",
+      "nafaqa": {
+        "heading": "NAFAQA (MAINTENANCE) - OBLIGATION:",
+        "intro": "The husband MUST provide:",
+        "items": [
+          {
+            "title": "HOUSING",
+            "details": ["Safe, appropriate shelter", "Protection from elements", "Suitable for family size"]
+          },
+          {
+            "title": "FOOD",
+            "details": ["Adequate nutrition", "According to his means"]
+          },
+          {
+            "title": "CLOTHING",
+            "details": ["Appropriate clothing", "According to his means"]
+          },
+          {
+            "title": "HEALTHCARE",
+            "details": ["Medical treatment when needed", "Medicine and care"]
+          },
+          {
+            "title": "CHILDREN'S EXPENSES",
+            "details": ["Food, clothing, education", "Healthcare", "All basic needs"]
+          }
+        ]
+      },
+      "otherDuties": [
+        "MAHRU PAYMENT: Must pay the agreed mahru (Wife can claim in court if unpaid)",
+        "GOOD TREATMENT: Treat wife with kindness, Respect and dignity, Good character, Cannot force her to do haram"
+      ],
+      "important": "These are MINIMUM requirements, not maximum. A good husband does MORE than the minimum.",
+      "hadith": "The best of you are those who are best to their wives. - Prophet Muhammad ﷺ"
+    },
+    {
+      "id": 13,
+      "type": "checkpoint",
+      "content": {
+        "title": "WIFE'S FINANCIAL RIGHTS",
+        "introduction": "From Legal (Gaanoonee) & Religious (Dheenee) Courses",
+        "keyPrinciple": "HER MONEY IS HERS:",
+        "rights": [
+          "Her salary - she keeps it ALL",
+          "Her property - in her name",
+          "Her inheritance - belongs to her",
+          "Her mahru - her absolute right",
+          "NOT obligated to spend on household"
+        ],
+        "additionalRights": [
+          "She can work without husband's permission",
+          "Her earnings are her own"
+        ],
+        "criticalUnderstanding": "Marriage does NOT remove these rights.",
+        "husbandCannot": [
+          "Take her money",
+          "Control her property",
+          "Prevent her from working (though can discuss)",
+          "Force sexual relations",
+          "Treat her with disrespect"
+        ],
+        "consequences": "If a husband violates these rights, it may be grounds for divorce AND legal action.",
+        "instruction": "To confirm you understand the wife's financial rights, both partners copy and paste:",
+        "requiredText": "I understand that the wife's earnings, property, inheritance, and mahru belong entirely to her. She is not obligated to spend on the household. Her financial rights are protected by both Islamic law and Maldivian law.",
+        "validation": {
+          "mustMatchExactly": true,
+          "bothMustComplete": true,
+          "errorMessage": "Text must match exactly. Please copy and paste the complete statement."
+        }
+      }
+    },
+    {
+      "id": 14,
+      "type": "content",
+      "title": "MARITAL AGREEMENT (MARRIAGE CONTRACT)",
+      "definition": "A written contract registered with Family Court that clarifies agreements on:",
+      "topics": [
+        "Financial arrangements",
+        "Living arrangements",
+        "Decision-making processes",
+        "Children and parenting",
+        "Division of responsibilities",
+        "What happens if you separate"
+      ],
+      "importance": {
+        "heading": "Why is it important?",
+        "benefits": [
+          {
+            "title": "PREVENTS MISUNDERSTANDINGS",
+            "points": ["Everything is written clearly", "Both know expectations", "No confusion later"]
+          },
+          {
+            "title": "PROTECTS BOTH PARTIES",
+            "points": ["Wife's rights protected", "Husband's rights protected", "Enforceable in court"]
+          },
+          {
+            "title": "ISLAMIC AND LEGAL",
+            "points": ["Encouraged in Islam", "Recognized by Maldivian law", "Can be customized to your needs"]
+          },
+          {
+            "title": "ESPECIALLY EMPOWERS WOMEN",
+            "points": ["Ensures her rights respected", "Prevents financial abuse", "Provides security"]
+          }
+        ]
+      },
+      "timing": "You will complete your marital agreement during Course 2 after learning about communication and making decisions together.",
+      "closing": "This is one of the most important documents you'll create together."
+    },
+    {
+      "id": 15,
+      "type": "content",
+      "title": "CULTURAL vs RELIGIOUS PRACTICES",
+      "introduction": "It's important to distinguish between: What Islam REQUIRES vs What culture EXPECTS",
+      "religious": {
+        "heading": "RELIGIOUS (Required in Islam):",
+        "items": [
+          "Wali (guardian) for bride",
+          "Witnesses",
+          "Mahr (mahru)",
+          "Consent of both parties",
+          "Islamic marriage ceremony"
+        ]
+      },
+      "cultural": {
+        "heading": "CULTURAL (NOT required, optional):",
+        "items": [
+          "Expensive weddings",
+          "Specific mahru amounts based on status",
+          "Living with in-laws",
+          "Wife not working outside home",
+          "Husband making all decisions",
+          "Elaborate ceremonies and customs",
+          "Following family traditions exactly"
+        ]
+      },
+      "yourChoice": {
+        "heading": "YOU CAN CHOOSE:",
+        "items": [
+          "Simple or elaborate wedding (your budget)",
+          "Live independently or with family (your choice)",
+          "Wife works or doesn't (mutual decision)",
+          "How to make decisions (together)"
+        ]
+      },
+      "warning": "Don't let cultural pressure force you into: Debt for wedding expenses, Living situations you don't want, Giving up your Islamic rights",
+      "closing": "Culture can be beautiful, but it doesn't override Islamic principles or your rights. Discuss what YOU want, not just what others expect."
+    },
+    {
+      "id": 16,
+      "type": "content",
+      "title": "COMMON MISCONCEPTIONS ABOUT MARRIAGE",
+      "format": "MYTH ❌ → TRUTH ✓",
+      "misconceptions": [
+        {
+          "myth": "Wife must ask permission for everything",
+          "truth": "Islam gives women autonomy in many areas. She can manage her money, visit family, make decisions about her own affairs."
+        },
+        {
+          "myth": "Husband can prevent wife from working",
+          "truth": "Wife has right to work. While spouses should discuss major decisions, he cannot simply forbid her employment."
+        },
+        {
+          "myth": "In-laws have authority over the couple",
+          "truth": "Primary relationship is between husband and wife. In-laws can advise but shouldn't control decisions."
+        },
+        {
+          "myth": "Wife must tolerate abuse to keep family together",
+          "truth": "Islam absolutely forbids oppression (dhulm). Wife has right to safety and can divorce if abused."
+        },
+        {
+          "myth": "Husband owns everything including wife's salary",
+          "truth": "Wife's earnings are entirely hers. Husband has NO right to take or control her money."
+        },
+        {
+          "myth": "Divorce is always wrong",
+          "truth": "While divorce is disliked, it's permitted when necessary. Better than staying in harmful marriage."
+        },
+        {
+          "myth": "Wife's family gets the mahru",
+          "truth": "Mahru belongs ONLY to the wife, not her family."
+        },
+        {
+          "myth": "Only religious marriage is needed",
+          "truth": "Legal registration with Family Court is required for marriage to be recognized by the state."
+        }
+      ],
+      "closing": "Don't build your marriage on myths. Build it on truth."
+    },
+    {
+      "id": 17,
+      "type": "checkpoint",
+      "content": {
+        "title": "KNOWLEDGE CHECK",
+        "passingScore": 4,
+        "totalQuestions": 5,
+        "questions": [
+          {
+            "id": 1,
+            "question": "What is marriage in Islam?",
+            "options": [
+              "A casual relationship",
+              "A strong covenant (mithaqan ghaleedha)",
+              "A temporary arrangement",
+              "Only a legal contract"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 2,
+            "question": "Who decides the amount of mahru?",
+            "options": [
+              "The husband",
+              "The wife",
+              "Both families negotiate",
+              "The Qadi/marriage officer"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 3,
+            "question": "Can a husband prevent his wife from working?",
+            "options": [
+              "Yes, he has full authority",
+              "No, she has the right to work",
+              "Only if she's pregnant",
+              "Only if in-laws agree"
+            ],
+            "correctAnswer": 1
+          },
+          {
+            "id": 4,
+            "question": "Forcing someone to marry is:",
+            "options": [
+              "Acceptable if family agrees",
+              "Fine if for good reasons",
+              "A criminal offense",
+              "Allowed in emergencies"
+            ],
+            "correctAnswer": 2
+          },
+          {
+            "id": 5,
+            "question": "The wife's salary belongs to:",
+            "options": [
+              "The household",
+              "Her husband",
+              "Entirely to her",
+              "Split 50/50"
+            ],
+            "correctAnswer": 2
+          }
+        ],
+        "feedback": {
+          "passing": "Excellent! You understand the foundations of marriage.",
+          "failing": "Please review the material and try again. You need to get at least 4/5 correct."
+        }
+      }
+    },
+    {
+      "id": 18,
+      "type": "content",
+      "title": "ESSENTIAL DISCUSSIONS BEFORE MARRIAGE",
+      "introduction": "You need to discuss these topics BEFORE marriage:",
+      "topics": [
+        {
+          "number": 1,
+          "title": "CHILDREN",
+          "questions": ["Do we want children?", "How many?", "When?", "What if we can't have children?"]
+        },
+        {
+          "number": 2,
+          "title": "FINANCES",
+          "questions": ["How will we manage money?", "Who pays for what?", "What are our financial goals?"]
+        },
+        {
+          "number": 3,
+          "title": "LIVING ARRANGEMENTS",
+          "questions": ["Where will we live?", "Independently or with family?", "Which island/city?"]
+        },
+        {
+          "number": 4,
+          "title": "WORK & EDUCATION",
+          "questions": ["Will both work?", "Career plans?", "Further education?"]
+        },
+        {
+          "number": 5,
+          "title": "FAMILY RELATIONSHIPS",
+          "questions": ["How involved will families be?", "Boundaries with in-laws?", "How often visit family?"]
+        },
+        {
+          "number": 6,
+          "title": "DECISION-MAKING",
+          "questions": ["How will we make decisions?", "What decisions are joint?", "How handle disagreements?"]
+        }
+      ],
+      "emphasis": "These aren't just casual conversations. These are LIFE-SHAPING decisions.",
+      "preview": "Course 2 will guide you through making these decisions together and documenting them in your marital agreement.",
+      "closing": "For now, just think about YOUR answers."
+    },
+    {
+      "id": 19,
+      "type": "checkpoint",
+      "content": {
+        "title": "REFLECTION: WHAT HAVE WE DISCUSSED?",
+        "instruction": "Both partners: Independently check which topics you've already discussed together:",
+        "checkboxes": [
+          "Whether we want children",
+          "How many children we want",
+          "When to start having children",
+          "How we'll manage finances",
+          "Where we'll live",
+          "Whether wife will work",
+          "Family boundaries and in-law relationships",
+          "How we'll make decisions",
+          "How we'll handle disagreements",
+          "Religious practices and expectations",
+          "How we'll raise children",
+          "Career and education plans"
+        ],
+        "feedback": {
+          "fewChecked": {
+            "threshold": 7,
+            "message": "You have important conversations ahead in Course 2!"
+          },
+          "manyChecked": {
+            "threshold": 7,
+            "message": "Great start! Course 2 will help you formalize these discussions and ensure you're aligned."
+          }
+        },
+        "tracking": "System tracks count for each partner independently",
+        "closing": "Remember: Discussing before marriage prevents conflicts after marriage."
+      }
+    },
+    {
+      "id": 20,
+      "type": "completion",
+      "title": "CONGRATULATIONS!",
+      "subtitle": "You have completed Course 1: FOUNDATIONS OF PARTNERSHIP",
+      "learned": {
+        "heading": "What you learned:",
+        "items": [
+          "Islamic foundations of marriage",
+          "Marriage as a sacred covenant",
+          "Legal right to marry freely",
+          "Forced marriage is illegal",
+          "Understanding mahru",
+          "Husband's responsibilities (nafaqa and more)",
+          "Wife's financial and other rights",
+          "Marital agreement importance",
+          "Cultural vs religious practices",
+          "Common misconceptions corrected",
+          "Essential topics to discuss"
+        ]
+      },
+      "keyTakeaways": {
+        "heading": "Key Takeaways:",
+        "items": [
+          "Marriage is a serious, sacred commitment",
+          "Both partners have clear rights and responsibilities",
+          "Knowledge protects you",
+          "Communication is essential",
+          "Cultural pressure shouldn't override rights",
+          "Planning prevents problems"
+        ]
+      },
+      "progress": "Certificate Progress: 1/6 Complete",
+      "next": "Next: Course 2 - Communication & Planning Together",
+      "nextDescription": "You'll learn HOW to discuss those important topics and make decisions together."
+    }
+  ]
+}

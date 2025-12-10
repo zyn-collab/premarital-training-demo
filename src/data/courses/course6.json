@@ -1,0 +1,1506 @@
+{
+  "courseTitle": "Course 6: Parenting & Child Well-Being",
+  "courseDuration": "60 minutes",
+  "totalSlides": 32,
+  "slides": [
+    {
+      "id": 1,
+      "type": "title",
+      "title": "COURSE 6",
+      "subtitle": "PARENTING & CHILD WELL-BEING",
+      "tagline": "Marriage Preparation Program"
+    },
+    {
+      "id": 2,
+      "type": "content",
+      "title": "PLANNING FOR CHILDREN",
+      "reminder": "In Course 2, you decided IF and WHEN you want children. Now let's learn how to prepare.",
+      "definition": {
+        "heading": "Parenting is:",
+        "characteristics": [
+          "Most rewarding experience",
+          "Most challenging responsibility",
+          "Lifelong commitment",
+          "Requires preparation"
+        ]
+      },
+      "goodNews": "Good news: Parenting CAN be learned!",
+      "courseCovers": {
+        "heading": "This course covers:",
+        "topics": [
+          "Readiness for children",
+          "Child development stages",
+          "Positive discipline",
+          "Impact of conflict on children",
+          "Co-parenting (together or apart)",
+          "Children with disabilities",
+          "Balancing work and family"
+        ]
+      },
+      "note": "Even if not planning children soon, this knowledge helps!"
+    },
+    {
+      "id": 3,
+      "type": "video",
+      "title": "Introduction to Parenting",
+      "video": {
+        "duration": "3min",
+        "description": "Pediatrician or parenting expert introduces course (3 minutes)"
+      }
+    },
+    {
+      "id": 4,
+      "type": "checkpoint",
+      "content": {
+        "title": "ARE YOU READY FOR CHILDREN?",
+        "subtitle": "Honest self-assessment:",
+        "categories": [
+          {
+            "category": "FINANCIAL READINESS",
+            "checkboxes": [
+              "Stable income for at least one parent",
+              "Can afford basic needs (food, clothes, healthcare)",
+              "Have emergency fund",
+              "Understand children are expensive"
+            ]
+          },
+          {
+            "category": "EMOTIONAL READINESS",
+            "checkboxes": [
+              "Relationship is stable and healthy",
+              "Both want children (not just one)",
+              "Ready for less sleep, less freedom",
+              "Can handle stress together",
+              "Mental health is stable"
+            ]
+          },
+          {
+            "category": "PRACTICAL READINESS",
+            "checkboxes": [
+              "Housing suitable for baby",
+              "Know basics of baby care (or willing to learn)",
+              "Support system (family, friends)",
+              "Access to healthcare",
+              "Plan for childcare if both work"
+            ]
+          },
+          {
+            "category": "TIMING",
+            "checkboxes": [
+              "Not in crisis or major transition",
+              "Career/education plans considered",
+              "Health conditions stable",
+              "Time since marriage (if relevant)"
+            ]
+          }
+        ],
+        "itsOkayTo": {
+          "heading": "It's OKAY to:",
+          "items": [
+            "Wait until you're ready",
+            "Never have children (if both agree)",
+            "Change your mind"
+          ]
+        },
+        "closing": "Children deserve prepared parents.",
+        "tracking": "Count checked items per partner",
+        "storage": "course6_readinessCheck"
+      }
+    },
+    {
+      "id": 5,
+      "type": "content",
+      "title": "UNDERSTANDING CHILD DEVELOPMENT",
+      "introduction": "Children develop in predictable stages. Understanding helps you:",
+      "benefits": [
+        "Know what to expect",
+        "Support their growth",
+        "Avoid unrealistic expectations"
+      ],
+      "stagesWellCover": {
+        "heading": "STAGES WE'LL COVER:",
+        "stages": [
+          {
+            "age": "AGE 0-1: INFANT",
+            "characteristics": [
+              "Total dependence",
+              "Rapid physical growth",
+              "Learning trust"
+            ]
+          },
+          {
+            "age": "AGE 1-3: TODDLER",
+            "characteristics": [
+              "Walking, talking",
+              "Exploring everything",
+              "'NO!' phase"
+            ]
+          },
+          {
+            "age": "AGE 3-5: PRESCHOOL",
+            "characteristics": [
+              "Imagination blooms",
+              "Social skills developing",
+              "Lots of questions"
+            ]
+          },
+          {
+            "age": "AGE 6-12: SCHOOL AGE",
+            "characteristics": [
+              "Learning academic skills",
+              "Friendships important",
+              "More independent"
+            ]
+          },
+          {
+            "age": "AGE 13-18: TEEN",
+            "characteristics": [
+              "Identity formation",
+              "Peer influence strong",
+              "Seeking independence"
+            ]
+          },
+          {
+            "age": "AGE 18+: YOUNG ADULT",
+            "characteristics": [
+              "Still developing!",
+              "Brain not fully mature until 25",
+              "Need guidance, not control"
+            ]
+          }
+        ]
+      },
+      "closing": "Each stage has different needs. Let's learn them!"
+    },
+    {
+      "id": 6,
+      "type": "content",
+      "title": "WHAT CHILDREN NEED AT EVERY AGE",
+      "introduction": "ALL AGES NEED:",
+      "needs": [
+        {
+          "category": "PHYSICAL CARE",
+          "items": [
+            "Nutritious food",
+            "Safe shelter",
+            "Clean clothes",
+            "Healthcare",
+            "Adequate sleep"
+          ]
+        },
+        {
+          "category": "EMOTIONAL SECURITY",
+          "items": [
+            "Unconditional love",
+            "Consistent care",
+            "Protection from harm",
+            "Comfort when upset"
+          ]
+        },
+        {
+          "category": "BELONGING",
+          "items": [
+            "Family connection",
+            "Feeling valued",
+            "Part of community"
+          ]
+        },
+        {
+          "category": "BOUNDARIES & DISCIPLINE",
+          "items": [
+            "Clear rules",
+            "Consistent consequences",
+            "Structure and routine"
+          ]
+        },
+        {
+          "category": "LEARNING & STIMULATION",
+          "items": [
+            "Age-appropriate play",
+            "Books and stories",
+            "Exploration",
+            "Education"
+          ]
+        },
+        {
+          "category": "POSITIVE ROLE MODELS",
+          "items": [
+            "Parents who show respect",
+            "See healthy relationships",
+            "Learn good behavior by example"
+          ]
+        },
+        {
+          "category": "AUTONOMY (age-appropriate)",
+          "items": [
+            "Choices when possible",
+            "Increasing independence",
+            "Respect for growing maturity"
+          ]
+        }
+      ],
+      "closing": "Meeting these needs = Healthy, happy children"
+    },
+    {
+      "id": 7,
+      "type": "content",
+      "title": "POSITIVE DISCIPLINE",
+      "distinction": {
+        "heading": "DISCIPLINE vs PUNISHMENT:",
+        "discipline": {
+          "title": "DISCIPLINE:",
+          "characteristics": [
+            "Teaches right from wrong",
+            "Guides behavior",
+            "Builds self-control",
+            "Maintains dignity"
+          ]
+        },
+        "punishment": {
+          "title": "PUNISHMENT:",
+          "characteristics": [
+            "Inflicts pain/humiliation",
+            "Focuses on past",
+            "Uses fear",
+            "Damages relationship"
+          ]
+        }
+      },
+      "techniques": {
+        "heading": "POSITIVE DISCIPLINE TECHNIQUES:",
+        "methods": [
+          {
+            "number": 1,
+            "name": "NATURAL CONSEQUENCES",
+            "description": "Child experiences result of action",
+            "example": "Doesn't eat lunch → Gets hungry"
+          },
+          {
+            "number": 2,
+            "name": "LOGICAL CONSEQUENCES",
+            "description": "Related to misbehavior",
+            "example": "Throws toy → Toy removed"
+          },
+          {
+            "number": 3,
+            "name": "TIME-OUT (age-appropriate)",
+            "description": "Calm down time, not punishment",
+            "rule": "1 minute per year of age"
+          },
+          {
+            "number": 4,
+            "name": "REDIRECTION",
+            "description": "For young children",
+            "action": "Guide to acceptable alternative"
+          },
+          {
+            "number": 5,
+            "name": "PROBLEM-SOLVING TOGETHER",
+            "description": "For older children",
+            "action": "Involve them in solution"
+          }
+        ]
+      },
+      "islamicGuidance": {
+        "heading": "WHAT ISLAM SAYS:",
+        "quran": "'And live with them in kindness' - Quran 4:19",
+        "hadith": "Prophet ﷺ said: 'The best of you are those who are best to their families'"
+      },
+      "neverUse": {
+        "heading": "NEVER use:",
+        "prohibited": [
+          "Hitting, slapping, beating",
+          "Shaking (can cause brain damage)",
+          "Burning, pinching",
+          "Emotional abuse (name-calling, humiliation)",
+          "Withholding food/love",
+          "Locking in rooms"
+        ],
+        "legal": "These are HARMFUL and ILLEGAL under Child Rights Protection Act."
+      }
+    },
+    {
+      "id": 8,
+      "type": "content",
+      "title": "IMPACT OF CONFLICT ON CHILDREN",
+      "reality": "Children are ALWAYS affected by parents' conflict. Even babies feel tension.",
+      "shortTermEffects": {
+        "heading": "SHORT-TERM EFFECTS:",
+        "items": [
+          "Fear, anxiety",
+          "Sleep problems",
+          "Acting out (aggression, tantrums)",
+          "Regression (bedwetting, baby talk)",
+          "School problems",
+          "Physical symptoms (headaches, stomach aches)"
+        ]
+      },
+      "longTermEffects": {
+        "heading": "LONG-TERM EFFECTS:",
+        "items": [
+          "Mental health issues (depression, anxiety)",
+          "Difficulty in own relationships",
+          "Low self-esteem",
+          "Academic struggles",
+          "Higher risk of substance abuse",
+          "Repeat patterns of conflict"
+        ]
+      },
+      "protectingChildren": {
+        "heading": "PROTECTING CHILDREN FROM CONFLICT:",
+        "healthyConflict": {
+          "title": "HEALTHY CONFLICT (okay for children to see):",
+          "items": [
+            "Calm voices",
+            "Respectful disagreement",
+            "Problem-solving",
+            "Compromise",
+            "Apology and forgiveness"
+          ],
+          "benefit": "This TEACHES conflict resolution!"
+        },
+        "harmfulConflict": {
+          "title": "HARMFUL CONFLICT (NEVER let children see):",
+          "items": [
+            "Yelling, screaming",
+            "Name-calling",
+            "Physical violence",
+            "Throwing objects",
+            "Threats",
+            "Involving children ('Tell your father...')",
+            "Blaming children for conflict"
+          ]
+        }
+      },
+      "ifChildrenWitness": {
+        "heading": "IF CHILDREN WITNESS CONFLICT:",
+        "actions": [
+          "Reassure them it's not their fault",
+          "Explain parents sometimes disagree",
+          "Show them you made up",
+          "Maintain routine",
+          "Extra comfort and attention"
+        ]
+      },
+      "ifMustSeparate": {
+        "heading": "IF MUST SEPARATE:",
+        "principle": "Better to separate peacefully than stay in violent home.",
+        "childrenNeed": [
+          "Both parents (if safe)",
+          "Stability",
+          "No badmouthing other parent",
+          "Shielded from adult problems"
+        ]
+      },
+      "closing": "Your relationship affects your children more than you think."
+    },
+    {
+      "id": 9,
+      "type": "video",
+      "title": "Co-Parenting and Child Development",
+      "video": {
+        "duration": "5min",
+        "description": "Parenting expert on healthy co-parenting (5 minutes)"
+      }
+    },
+    {
+      "id": 10,
+      "type": "content",
+      "title": "CO-PARENTING: WORKING TOGETHER",
+      "principle": "WHETHER MARRIED OR DIVORCED: Children need both parents working together.",
+      "goodCoParentingPrinciples": {
+        "heading": "PRINCIPLES OF GOOD CO-PARENTING:",
+        "principles": [
+          {
+            "number": 1,
+            "title": "CHILDREN COME FIRST",
+            "detail": "Not your feelings about ex-partner"
+          },
+          {
+            "number": 2,
+            "title": "CONSISTENT RULES",
+            "detail": "Similar expectations both homes. Coordinate bedtimes, discipline, screen time"
+          },
+          {
+            "number": 3,
+            "title": "RESPECTFUL COMMUNICATION",
+            "detail": "About children only. Use business-like tone. Text/email if talking too difficult"
+          },
+          {
+            "number": 4,
+            "title": "NO BADMOUTHING",
+            "detail": "Never criticize other parent to children. Don't use children as messengers"
+          },
+          {
+            "number": 5,
+            "title": "FLEXIBLE FOR CHILDREN'S NEEDS",
+            "detail": "Adjust schedule when needed. Special events, emergencies"
+          }
+        ]
+      },
+      "coParentingPlanIncludes": {
+        "heading": "CO-PARENTING PLAN INCLUDES:",
+        "sections": [
+          {
+            "category": "SCHEDULE",
+            "items": [
+              "Regular visitation/custody",
+              "Holidays and special occasions",
+              "School breaks",
+              "Pickup/dropoff arrangements"
+            ]
+          },
+          {
+            "category": "DECISION-MAKING",
+            "items": [
+              "Who decides what",
+              "Major decisions (education, health) together",
+              "Day-to-day decisions by parent with child"
+            ]
+          },
+          {
+            "category": "COMMUNICATION",
+            "items": [
+              "How often",
+              "Which method (call, text, email)",
+              "About what (children only)"
+            ]
+          }
+        ]
+      },
+      "maldivianLaw": {
+        "heading": "MALDIVIAN LAW ON CUSTODY:",
+        "islamicPrinciple": [
+          "Young children (under 7) typically with mother",
+          "Older children's preference considered",
+          "Both parents maintain rights and responsibilities"
+        ]
+      },
+      "whenCoParentingFails": {
+        "heading": "WHEN CO-PARENTING FAILS:",
+        "ifOtherParent": [
+          "Is violent",
+          "Uses drugs",
+          "Refuses contact",
+          "Endangers children"
+        ],
+        "solution": "→ PARALLEL PARENTING",
+        "parallelParenting": [
+          "Minimal communication",
+          "Court-ordered plan",
+          "No flexibility required"
+        ]
+      },
+      "closing": "Seek legal advice if needed."
+    },
+    {
+      "id": 11,
+      "type": "content",
+      "title": "CHILDREN WITH DISABILITIES",
+      "principle": "EVERY CHILD IS A BLESSING.",
+      "truth": "Disability does not reduce a child's value.",
+      "types": {
+        "heading": "TYPES OF DISABILITIES:",
+        "categories": [
+          {
+            "type": "PHYSICAL",
+            "examples": [
+              "Mobility challenges",
+              "Cerebral palsy",
+              "Polio",
+              "Limb differences"
+            ]
+          },
+          {
+            "type": "SENSORY",
+            "examples": [
+              "Blind/Low vision",
+              "Deaf/Hard of hearing",
+              "Other sensory issues"
+            ]
+          },
+          {
+            "type": "INTELLECTUAL/DEVELOPMENTAL",
+            "examples": [
+              "Down syndrome",
+              "Autism spectrum",
+              "Learning disabilities",
+              "ADHD"
+            ]
+          },
+          {
+            "type": "CHRONIC HEALTH",
+            "examples": [
+              "Asthma",
+              "Diabetes",
+              "Epilepsy",
+              "Heart conditions"
+            ]
+          }
+        ]
+      },
+      "rightsAndResponsibilities": {
+        "heading": "YOUR RIGHTS & RESPONSIBILITIES:",
+        "rights": {
+          "title": "RIGHTS:",
+          "items": [
+            "Education (SHE - Special Needs Education)",
+            "Healthcare (Aasandha covers)",
+            "Disability allowance (NSPA)",
+            "Therapies (speech, physical, occupational)",
+            "Assistive devices",
+            "Legal protections"
+          ]
+        },
+        "responsibilities": {
+          "title": "RESPONSIBILITIES:",
+          "items": [
+            "Early intervention (critical!)",
+            "Consistent therapies",
+            "Advocate for child",
+            "Love unconditionally",
+            "Celebrate abilities, not just disabilities",
+            "Prepare for adulthood"
+          ]
+        }
+      },
+      "resourcesInMaldives": {
+        "heading": "RESOURCES IN MALDIVES:",
+        "contacts": [
+          "SHE (Special Needs Education): [number]",
+          "NSPA (Disability allowance): 1414",
+          "Society for Health Education: [number]",
+          "Autism Association: [number]",
+          "Parent support groups",
+          "IGMH Child Development Center: 3335577"
+        ]
+      },
+      "never": {
+        "heading": "NEVER:",
+        "items": [
+          "Hide child away",
+          "Be ashamed",
+          "Give up hope",
+          "Compare to 'normal' children",
+          "Limit based on assumptions"
+        ]
+      },
+      "closing": "Your child can achieve amazing things with the right support!"
+    },
+    {
+      "id": 12,
+      "type": "content",
+      "title": "BALANCING WORK AND FAMILY",
+      "reality": "Most families need both parents working. This is challenging but possible!",
+      "challenges": {
+        "heading": "CHALLENGES:",
+        "items": [
+          "Not enough time",
+          "Exhaustion",
+          "Guilt ('not good enough parent')",
+          "Childcare costs",
+          "Career vs family decisions"
+        ]
+      },
+      "solutions": {
+        "heading": "SOLUTIONS:",
+        "strategies": [
+          {
+            "number": 1,
+            "title": "QUALITY OVER QUANTITY",
+            "detail": "Focused time > Long time. 15 minutes full attention better than hours distracted"
+          },
+          {
+            "number": 2,
+            "title": "SHARE THE LOAD",
+            "detail": "Both parents contribute equally. Divide: cooking, cleaning, homework, bedtime"
+          },
+          {
+            "number": 3,
+            "title": "ROUTINE & STRUCTURE",
+            "detail": "Predictable schedule helps everyone. Bedtime routine, meal times, family time"
+          },
+          {
+            "number": 4,
+            "title": "ASK FOR HELP",
+            "detail": "Family, friends, neighbors. It takes a village!"
+          },
+          {
+            "number": 5,
+            "title": "SET BOUNDARIES",
+            "detail": "Work stays at work (when possible). Family time is sacred"
+          },
+          {
+            "number": 6,
+            "title": "LOWER PERFECTIONIST STANDARDS",
+            "detail": "House doesn't need to be perfect. Store-bought cake is fine. 'Good enough' IS good enough"
+          }
+        ]
+      },
+      "childcareOptions": {
+        "heading": "CHILDCARE OPTIONS:",
+        "options": [
+          "Family members (grandparents, siblings)",
+          "Licensed daycare centers",
+          "Home-based caregivers",
+          "Babysitters for short periods",
+          "Older children help younger"
+        ]
+      },
+      "remember": {
+        "heading": "REMEMBER:",
+        "truths": [
+          "Working doesn't make you bad parent",
+          "Children benefit from seeing parents work",
+          "Self-care enables caregiving",
+          "You're doing your best"
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "type": "content",
+      "title": "INFANT CARE BASICS (0-1 YEAR)",
+      "sections": [
+        {
+          "heading": "FEEDING:",
+          "items": [
+            "Breastfeeding best (if possible)",
+            "Formula also fine",
+            "Feed on demand (every 2-3 hours)",
+            "Burp after feeding",
+            "Start solid foods around 6 months"
+          ]
+        },
+        {
+          "heading": "SLEEPING:",
+          "items": [
+            "Back to sleep (prevents SIDS)",
+            "Safe sleep environment (firm mattress, no pillows/blankets)",
+            "15-17 hours per day (newborn)",
+            "Establish bedtime routine early"
+          ]
+        },
+        {
+          "heading": "DEVELOPMENT:",
+          "items": [
+            "Smiling (6 weeks)",
+            "Rolling over (4-6 months)",
+            "Sitting (6-8 months)",
+            "Crawling (7-10 months)",
+            "First words (10-14 months)"
+          ]
+        },
+        {
+          "heading": "HEALTHCARE:",
+          "items": [
+            "Regular checkups",
+            "Vaccinations on schedule",
+            "Track growth",
+            "Watch for developmental milestones"
+          ]
+        }
+      ],
+      "reminder": "Every baby develops at own pace. Don't compare!"
+    },
+    {
+      "id": 14,
+      "type": "content",
+      "title": "TODDLER YEARS (1-3)",
+      "sections": [
+        {
+          "heading": "CHARACTERISTICS:",
+          "items": [
+            "Very active - constant motion",
+            "Learning to walk, run, climb",
+            "Starting to talk",
+            "Exploring everything",
+            "Testing boundaries ('No!' phase)",
+            "Short attention span",
+            "Big emotions, small coping skills"
+          ]
+        },
+        {
+          "heading": "PARENTING STRATEGIES:",
+          "items": [
+            "Childproof environment",
+            "Offer limited choices",
+            "Redirect misbehavior",
+            "Keep routines consistent",
+            "Use short, simple sentences",
+            "Validate emotions",
+            "Be patient!"
+          ]
+        },
+        {
+          "heading": "DEVELOPMENT MILESTONES:",
+          "items": [
+            "Walking independently (12-15 months)",
+            "Running (18 months)",
+            "Two-word phrases (18-24 months)",
+            "Toilet training readiness (18-30 months)",
+            "Playing alongside other children",
+            "Beginning imaginative play"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "type": "content",
+      "title": "PRESCHOOL YEARS (3-5)",
+      "sections": [
+        {
+          "heading": "CHARACTERISTICS:",
+          "items": [
+            "Imagination flourishes",
+            "Asking endless questions ('Why?')",
+            "Developing social skills",
+            "Learning to share (hard!)",
+            "More independent",
+            "Fears (dark, monsters)",
+            "Starting to understand rules"
+          ]
+        },
+        {
+          "heading": "PARENTING STRATEGIES:",
+          "items": [
+            "Answer questions patiently",
+            "Encourage imaginative play",
+            "Arrange playdates",
+            "Read together daily",
+            "Teach kindness and sharing",
+            "Set clear, consistent rules",
+            "Praise good behavior"
+          ]
+        },
+        {
+          "heading": "PREPARING FOR SCHOOL:",
+          "items": [
+            "Practice following instructions",
+            "Teach basic self-care",
+            "Develop social skills",
+            "Establish learning routine",
+            "Visit school beforehand"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "type": "content",
+      "title": "SCHOOL AGE CHILDREN (6-12)",
+      "sections": [
+        {
+          "heading": "CHARACTERISTICS:",
+          "items": [
+            "Academic learning accelerates",
+            "Friendships very important",
+            "Want to fit in",
+            "Developing skills and interests",
+            "Understanding right and wrong",
+            "Can reason and problem-solve",
+            "Starting to think independently"
+          ]
+        },
+        {
+          "heading": "PARENTING STRATEGIES:",
+          "items": [
+            "Support homework (don't do it for them)",
+            "Encourage interests/hobbies",
+            "Monitor friendships",
+            "Teach responsibility (chores)",
+            "Have family meals together",
+            "Set screen time limits",
+            "Keep communication open",
+            "Know where they are and who they're with"
+          ]
+        },
+        {
+          "heading": "CHALLENGES:",
+          "items": [
+            "Peer pressure begins",
+            "Academic struggles possible",
+            "Bullying concerns",
+            "Screen addiction risks",
+            "Need balance of freedom and supervision"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "type": "content",
+      "title": "TEENAGERS (13-18)",
+      "sections": [
+        {
+          "heading": "CHARACTERISTICS:",
+          "items": [
+            "Physical changes (puberty)",
+            "Seeking identity",
+            "Peer influence very strong",
+            "Emotional ups and downs",
+            "Want independence",
+            "May seem to reject parents",
+            "Risk-taking behavior",
+            "Brain still developing!"
+          ]
+        },
+        {
+          "heading": "PARENTING STRATEGIES:",
+          "items": [
+            "Stay connected even when pushed away",
+            "Listen without judgment",
+            "Set boundaries but allow appropriate freedom",
+            "Respect privacy (but stay aware)",
+            "Be available to talk",
+            "Don't lecture - have conversations",
+            "Pick your battles",
+            "Model behavior you want to see"
+          ]
+        },
+        {
+          "heading": "CRITICAL TOPICS TO DISCUSS:",
+          "items": [
+            "Physical/emotional changes",
+            "Relationships and boundaries",
+            "Peer pressure and drugs",
+            "Online safety",
+            "Sexual health",
+            "Future plans",
+            "Islamic values"
+          ]
+        }
+      ],
+      "reminder": "Your teen still needs you - just differently!"
+    },
+    {
+      "id": 18,
+      "type": "content",
+      "title": "TEACHING ISLAMIC VALUES",
+      "sections": [
+        {
+          "heading": "START EARLY:",
+          "items": [
+            "Model Islamic behavior",
+            "Make prayer routine part of life",
+            "Tell stories of Prophets",
+            "Read Quran together",
+            "Explain 'why' behind rules",
+            "Make Islam joyful, not just rules"
+          ]
+        },
+        {
+          "heading": "CORE VALUES TO TEACH:",
+          "items": [
+            "Love of Allah and Prophet ﷺ",
+            "Honesty and truthfulness",
+            "Kindness and compassion",
+            "Respect for parents and elders",
+            "Charity and helping others",
+            "Patience and gratitude",
+            "Modesty and good character"
+          ]
+        },
+        {
+          "heading": "AGE-APPROPRIATE:",
+          "items": [
+            "Young children: Focus on love of Allah, basic prayers",
+            "School age: Teach prayers, fasting gradually, Quran reading",
+            "Teens: Discuss deeper concepts, answer questions, involve in decisions"
+          ]
+        }
+      ],
+      "reminder": "Your example teaches more than your words."
+    },
+    {
+      "id": 19,
+      "type": "content",
+      "title": "BUILDING STRONG PARENT-CHILD BOND",
+      "sections": [
+        {
+          "heading": "WAYS TO CONNECT:",
+          "items": [
+            "Spend one-on-one time with each child",
+            "Have family meals together",
+            "Create traditions and rituals",
+            "Play together",
+            "Read bedtime stories",
+            "Talk about their day",
+            "Listen actively",
+            "Show affection",
+            "Attend their events",
+            "Respect their individuality"
+          ]
+        },
+        {
+          "heading": "COMMUNICATION TIPS:",
+          "items": [
+            "Make eye contact",
+            "Get down to their level (physically)",
+            "Validate their feelings",
+            "Don't dismiss concerns",
+            "Ask open-ended questions",
+            "Share about your own life",
+            "Admit when you're wrong",
+            "Say 'I love you' often"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "type": "content",
+      "title": "HANDLING CHALLENGING BEHAVIORS",
+      "sections": [
+        {
+          "heading": "COMMON CHALLENGES:",
+          "items": [
+            "Tantrums (toddlers)",
+            "Whining and complaining",
+            "Not listening",
+            "Sibling fighting",
+            "Lying",
+            "Back talk (older kids)",
+            "Screen addiction",
+            "Refusing to do chores/homework"
+          ]
+        },
+        {
+          "heading": "GENERAL STRATEGIES:",
+          "items": [
+            "Stay calm yourself",
+            "Set clear expectations",
+            "Be consistent with consequences",
+            "Catch them being good",
+            "Understand developmental stage",
+            "Look for underlying needs",
+            "Use natural/logical consequences",
+            "Don't take it personally"
+          ]
+        },
+        {
+          "heading": "WHEN TO SEEK HELP:",
+          "items": [
+            "Extreme aggression",
+            "Persistent depression or anxiety",
+            "Self-harm",
+            "Drastic behavior changes",
+            "School refusal",
+            "Regression after being advanced",
+            "Concerns about development"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "type": "content",
+      "title": "SIBLING RELATIONSHIPS",
+      "sections": [
+        {
+          "heading": "SIBLING RIVALRY IS NORMAL:",
+          "items": [
+            "Competition for attention",
+            "Jealousy",
+            "Fighting over toys/space",
+            "Different temperaments",
+            "Age gaps affect dynamics"
+          ]
+        },
+        {
+          "heading": "MINIMIZING CONFLICT:",
+          "items": [
+            "Don't compare children",
+            "Give individual attention to each",
+            "Teach sharing and taking turns",
+            "Let them work out minor disputes",
+            "Intervene in physical fights",
+            "Don't always blame older child",
+            "Celebrate each child's uniqueness",
+            "Have fair (not equal) treatment"
+          ]
+        },
+        {
+          "heading": "ENCOURAGING BONDING:",
+          "items": [
+            "Team activities",
+            "Shared responsibilities",
+            "Teach them to support each other",
+            "Create positive memories together",
+            "Point out when they're kind to each other"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "type": "content",
+      "title": "SCREEN TIME & TECHNOLOGY",
+      "sections": [
+        {
+          "heading": "CONCERNS:",
+          "items": [
+            "Addiction",
+            "Reduced physical activity",
+            "Sleep disruption",
+            "Attention problems",
+            "Exposure to inappropriate content",
+            "Cyberbullying",
+            "Privacy/safety issues"
+          ]
+        },
+        {
+          "heading": "HEALTHY GUIDELINES:",
+          "items": [
+            "Under 2: No screen time (except video chat)",
+            "2-5 years: Max 1 hour quality content",
+            "6+: Consistent limits set by parents",
+            "No screens during meals",
+            "No screens 1 hour before bed",
+            "Keep devices out of bedrooms",
+            "Monitor what they watch/play",
+            "Co-view when possible"
+          ]
+        },
+        {
+          "heading": "TEACHING ONLINE SAFETY:",
+          "items": [
+            "Never share personal information",
+            "Don't talk to strangers online",
+            "Report uncomfortable interactions",
+            "Think before posting",
+            "Understand digital footprint",
+            "Know privacy settings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "type": "content",
+      "title": "NUTRITION & PHYSICAL HEALTH",
+      "sections": [
+        {
+          "heading": "HEALTHY EATING:",
+          "items": [
+            "Variety of foods",
+            "Fruits and vegetables daily",
+            "Limit sweets and junk food",
+            "Regular meal times",
+            "Family meals together",
+            "Model healthy eating",
+            "Don't use food as reward/punishment",
+            "Stay hydrated"
+          ]
+        },
+        {
+          "heading": "PHYSICAL ACTIVITY:",
+          "items": [
+            "At least 60 minutes daily",
+            "Free play",
+            "Organized sports if interested",
+            "Family activities (swimming, walking)",
+            "Limit sedentary time"
+          ]
+        },
+        {
+          "heading": "SLEEP:",
+          "items": [
+            "Age-appropriate bedtimes",
+            "Consistent sleep schedule",
+            "Bedtime routine",
+            "Dark, quiet sleep environment",
+            "Enough hours (varies by age)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "type": "content",
+      "title": "EMOTIONAL INTELLIGENCE",
+      "sections": [
+        {
+          "heading": "TEACHING EMOTIONAL SKILLS:",
+          "items": [
+            "Name feelings",
+            "Validate emotions",
+            "Teach healthy expression",
+            "Model emotional regulation",
+            "Problem-solving skills",
+            "Empathy for others",
+            "Coping strategies"
+          ]
+        },
+        {
+          "heading": "EMOTIONAL COACHING:",
+          "items": [
+            "Notice emotions",
+            "See it as opportunity to connect",
+            "Listen and validate",
+            "Help label emotions",
+            "Set limits on behavior (not feelings)",
+            "Problem-solve together"
+          ]
+        },
+        {
+          "heading": "BUILDING RESILIENCE:",
+          "items": [
+            "Allow age-appropriate challenges",
+            "Don't rescue from every difficulty",
+            "Teach problem-solving",
+            "Model bouncing back from setbacks",
+            "Focus on effort, not just outcomes",
+            "Maintain loving support"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "type": "content",
+      "title": "EDUCATION & LEARNING",
+      "sections": [
+        {
+          "heading": "SUPPORTING SCHOOL SUCCESS:",
+          "items": [
+            "Regular attendance",
+            "Homework routine",
+            "Communicate with teachers",
+            "Attend school events",
+            "Show interest in learning",
+            "Help when needed (don't do it for them)",
+            "Celebrate efforts and achievements",
+            "Address struggles early"
+          ]
+        },
+        {
+          "heading": "LEARNING AT HOME:",
+          "items": [
+            "Read together",
+            "Ask questions",
+            "Explore interests",
+            "Visit museums/library",
+            "Limit screen time",
+            "Encourage curiosity",
+            "Make learning fun"
+          ]
+        },
+        {
+          "heading": "IF CHILD STRUGGLES:",
+          "items": [
+            "Talk to teacher",
+            "Get evaluation if needed",
+            "Extra help/tutoring",
+            "Check for learning disabilities",
+            "Focus on strengths too",
+            "Be patient and supportive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "type": "content",
+      "title": "SAFETY & PROTECTION",
+      "sections": [
+        {
+          "heading": "TEACH CHILDREN:",
+          "items": [
+            "Body safety ('private parts are private')",
+            "Right to say no to unwanted touch",
+            "Difference between good/bad/confusing touch",
+            "Tell trusted adult if uncomfortable",
+            "No secrets that make them uncomfortable",
+            "Safe vs unsafe situations",
+            "What to do if lost",
+            "Emergency numbers"
+          ]
+        },
+        {
+          "heading": "PREVENTING ABUSE:",
+          "items": [
+            "Know where children are",
+            "Know their friends and families",
+            "Monitor online activity",
+            "Trust your instincts",
+            "Notice behavioral changes",
+            "Create open communication",
+            "Respond if they disclose abuse"
+          ]
+        },
+        {
+          "heading": "IF CHILD DISCLOSES ABUSE:",
+          "items": [
+            "BELIEVE them",
+            "Stay calm",
+            "Reassure not their fault",
+            "Don't interrogate",
+            "Report immediately (Police 119, Gender Ministry 1421)",
+            "Seek professional help",
+            "Protect from further contact"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "type": "content",
+      "title": "SELF-CARE FOR PARENTS",
+      "sections": [
+        {
+          "heading": "YOU NEED TO:",
+          "items": [
+            "Get enough sleep (when possible)",
+            "Eat nutritious food",
+            "Exercise",
+            "Take breaks",
+            "Maintain friendships",
+            "Pursue interests",
+            "Ask for help",
+            "Lower perfectionist standards"
+          ]
+        },
+        {
+          "heading": "PARENTAL BURNOUT IS REAL:",
+          "signs": [
+            "Always exhausted",
+            "Irritable with children",
+            "Feeling inadequate",
+            "No joy in parenting",
+            "Anxiety or depression",
+            "Physical symptoms"
+          ]
+        },
+        {
+          "heading": "PREVENT BURNOUT:",
+          "items": [
+            "Share parenting duties",
+            "Take regular breaks",
+            "Maintain identity beyond parent",
+            "Connect with other parents",
+            "Seek professional help if needed",
+            "Be kind to yourself"
+          ]
+        }
+      ],
+      "reminder": "You can't pour from empty cup. Taking care of yourself enables you to care for children."
+    },
+    {
+      "id": 28,
+      "type": "content",
+      "title": "WHEN TO SEEK PROFESSIONAL HELP",
+      "sections": [
+        {
+          "heading": "FOR CHILDREN:",
+          "items": [
+            "Developmental delays",
+            "Behavioral problems beyond normal",
+            "Mental health concerns",
+            "Learning difficulties",
+            "Trauma exposure",
+            "Chronic health issues",
+            "Signs of abuse"
+          ]
+        },
+        {
+          "heading": "FOR PARENTS:",
+          "items": [
+            "Feeling overwhelmed constantly",
+            "Depression or anxiety",
+            "Marital problems affecting parenting",
+            "Anger management issues",
+            "Substance abuse",
+            "Thoughts of harming self/child"
+          ]
+        },
+        {
+          "heading": "RESOURCES IN MALDIVES:",
+          "items": [
+            "Pediatricians",
+            "Child psychologists",
+            "Family counselors",
+            "Parent support groups",
+            "School counselors",
+            "Gender Ministry: 1421",
+            "IGMH Mental Health: 3335577"
+          ]
+        }
+      ],
+      "encouragement": "Seeking help is strength, not weakness. Your children deserve healthy, supported parents."
+    },
+    {
+      "id": 29,
+      "type": "checkpoint",
+      "content": {
+        "title": "KNOWLEDGE CHECK",
+        "passingScore": 5,
+        "totalQuestions": 6,
+        "questions": [
+          {
+            "id": 1,
+            "statement": "Hitting children is acceptable discipline if not done too hard.",
+            "correctAnswer": false
+          },
+          {
+            "id": 2,
+            "statement": "Children under 7 typically stay with mother after divorce according to Islamic law.",
+            "correctAnswer": true
+          },
+          {
+            "id": 3,
+            "statement": "Parents' conflict doesn't affect babies because they don't understand.",
+            "correctAnswer": false
+          },
+          {
+            "id": 4,
+            "statement": "Children with disabilities can receive disability allowance from NSPA.",
+            "correctAnswer": true
+          },
+          {
+            "id": 5,
+            "statement": "Co-parenting means the same rules in both homes.",
+            "correctAnswer": true
+          },
+          {
+            "id": 6,
+            "statement": "Quality time is more important than quantity of time with children.",
+            "correctAnswer": true
+          }
+        ],
+        "feedback": {
+          "passing": "Excellent! You understand healthy parenting principles.",
+          "failing": "Please review the material. You need to get at least 5/6 correct."
+        }
+      }
+    },
+    {
+      "id": 30,
+      "type": "content",
+      "title": "PARENTING RESOURCES",
+      "subtitle": "Save These Important Numbers:",
+      "categories": [
+        {
+          "category": "CHILD HEALTH & DEVELOPMENT",
+          "contacts": [
+            "IGMH Pediatrics: 3335577",
+            "IGMH Child Development Center: 3335577",
+            "Health Centers (all islands)",
+            "Aasandha: 1337"
+          ]
+        },
+        {
+          "category": "SPECIAL NEEDS",
+          "contacts": [
+            "SHE (Special Needs Education): [number]",
+            "Society for Health Education: [number]",
+            "Autism Association: [number]",
+            "NSPA (Disability allowance): 1414"
+          ]
+        },
+        {
+          "category": "CHILD PROTECTION",
+          "contacts": [
+            "Gender Ministry: 1421",
+            "FCSCs (Family & Child Service Centres): 1421",
+            "Police: 119"
+          ]
+        },
+        {
+          "category": "FAMILY SUPPORT",
+          "contacts": [
+            "NSPA (Single Parent allowance): 1414",
+            "Family Court (custody, maintenance): 3308585",
+            "Counseling services: 1421"
+          ]
+        },
+        {
+          "category": "EDUCATION",
+          "contacts": [
+            "Ministry of Education: [number]",
+            "School enrollment information",
+            "Scholarship programs"
+          ]
+        },
+        {
+          "category": "PARENTING SUPPORT GROUPS",
+          "contacts": [
+            "Online parent communities",
+            "Special needs parent groups",
+            "New parent support"
+          ]
+        }
+      ],
+      "action": "Download Complete Parenting Resource PDF"
+    },
+    {
+      "id": 31,
+      "type": "content",
+      "title": "FINAL PARENTING REMINDERS",
+      "sections": [
+        {
+          "heading": "REMEMBER:",
+          "items": [
+            "No perfect parents - only real ones",
+            "Every child is unique",
+            "Mistakes are learning opportunities",
+            "Love is the foundation",
+            "Consistency matters",
+            "Your example teaches most",
+            "Ask for help when needed",
+            "Enjoy the journey"
+          ]
+        },
+        {
+          "heading": "MOST IMPORTANT:",
+          "items": [
+            "Your children need you - imperfect but loving",
+            "Small moments matter more than grand gestures",
+            "Connection before correction",
+            "They won't remember perfect house, they'll remember feeling loved",
+            "You're doing better than you think"
+          ]
+        }
+      ],
+      "islamicBlessing": "May Allah make your children the coolness of your eyes and make you among the grateful."
+    },
+    {
+      "id": 32,
+      "type": "completion",
+      "title": "CONGRATULATIONS!",
+      "subtitle": "You have completed Course 6: PARENTING & CHILD WELL-BEING",
+      "learned": {
+        "heading": "What you learned:",
+        "items": [
+          "Readiness assessment for having children",
+          "Child development stages (0-18+)",
+          "What children need at every age",
+          "Positive discipline techniques",
+          "Impact of conflict on children",
+          "Co-parenting (together or apart)",
+          "Children with disabilities (rights & resources)",
+          "Balancing work and family",
+          "Teaching Islamic values",
+          "Building strong parent-child bonds",
+          "Handling challenging behaviors",
+          "Safety and protection",
+          "Self-care for parents"
+        ]
+      },
+      "assessed": {
+        "heading": "What you assessed:",
+        "items": [
+          "Your readiness for children",
+          "Understanding of child development",
+          "Discipline knowledge"
+        ]
+      },
+      "keyTakeaway": "Good parenting can be learned. Children need: Love, Security, Consistency, Boundaries, and Protection from harm",
+      "progress": "Certificate Progress: 6/6 Complete",
+      "celebration": "🎉 YOU HAVE COMPLETED ALL 6 COURSES! 🎉",
+      "nextSteps": "Generate your certificate and download your marital agreement template.",
+      "finalMessage": "May Allah bless your marriage and family with love, mercy, health, and happiness. You are now prepared to build a strong, healthy marriage based on Islamic principles and Maldivian law."
+    }
+  ]
+}
