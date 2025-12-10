@@ -27,7 +27,36 @@ export default function CourseViewer() {
       try {
         setLoading(true);
         const data = await import(`../data/courses/course${courseId}.json`);
-        setCourseData(data.default);
+
+        // For Course 3, filter slides based on gender selection
+        if (parseInt(courseId) === 3) {
+          const selectedGender = localStorage.getItem('course_3_gender');
+
+          // Filter slides: include all non-gender-specific slides + matching gender slides
+          const filteredSlides = data.default.slides.filter(slide => {
+            // Always include slides without genderSpecific field
+            if (!slide.genderSpecific) return true;
+            // Include slides matching the selected gender
+            if (selectedGender && slide.genderSpecific === selectedGender) return true;
+            // Exclude slides for the other gender
+            return false;
+          });
+
+          // Reassign slide IDs sequentially after filtering
+          const reindexedSlides = filteredSlides.map((slide, index) => ({
+            ...slide,
+            id: index + 1
+          }));
+
+          setCourseData({
+            ...data.default,
+            slides: reindexedSlides,
+            totalSlides: reindexedSlides.length
+          });
+        } else {
+          setCourseData(data.default);
+        }
+
         setLoading(false);
       } catch (err) {
         console.error('Error loading course:', err);

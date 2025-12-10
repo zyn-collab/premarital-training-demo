@@ -7,6 +7,7 @@ import CheckpointSlide from './slides/CheckpointSlide';
 import SummarySlide from './slides/SummarySlide';
 import CompletionSlide from './slides/CompletionSlide';
 import InteractiveSlide from './slides/InteractiveSlide';
+import GenderSelectionSlide from './slides/GenderSelectionSlide';
 
 export default function SlideRenderer({ slide, onNextEnabled, courseId = 2 }) {
   if (!slide) {
@@ -36,6 +37,8 @@ export default function SlideRenderer({ slide, onNextEnabled, courseId = 2 }) {
       return <CompletionSlide data={slide} />;
     case 'interactive':
       return <InteractiveSlide data={slide} onNextEnabled={onNextEnabled} />;
+    case 'gender-selection':
+      return <GenderSelectionSlide data={slide} onNextEnabled={onNextEnabled} />;
     default:
       return (
         <div className="bg-white rounded-lg shadow-lg p-8">

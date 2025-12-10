@@ -1,7 +1,7 @@
 {
   "courseTitle": "Course 3: Health & Intimacy",
   "courseDuration": "60 minutes",
-  "totalSlides": 32,
+  "totalSlides": 33,
   "slides": [
     {
       "id": 1,
@@ -12,6 +12,14 @@
     },
     {
       "id": 2,
+      "type": "gender-selection",
+      "title": "SELECT YOUR TRACK",
+      "subtitle": "This course includes gender-specific health information",
+      "explanation": "Some topics in this course are specific to male or female health. Please select which track you'd like to follow. Both tracks cover important information in an Islamically appropriate way.",
+      "note": "Your selection helps us show you the most relevant health information for your preparation."
+    },
+    {
+      "id": 3,
       "type": "content",
       "title": "WHY HEALTH & INTIMACY EDUCATION MATTERS",
       "sections": [
@@ -39,7 +47,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 4,
       "type": "video",
       "title": "Introduction to Course",
       "video": {
@@ -48,7 +56,7 @@
       }
     },
     {
-      "id": 4,
+      "id": 5,
       "type": "content",
       "title": "ISLAMIC PERSPECTIVE ON INTIMACY",
       "sections": [
@@ -75,7 +83,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 6,
       "type": "content",
       "title": "PRE-MARRIAGE HEALTH SCREENING",
       "sections": [
@@ -102,7 +110,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 7,
       "type": "content",
       "title": "REPRODUCTIVE HEALTH BASICS",
       "sections": [
@@ -129,7 +137,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 8,
       "type": "content",
       "title": "FAMILY PLANNING IN ISLAM",
       "sections": [
@@ -156,7 +164,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 9,
       "type": "content",
       "title": "MENTAL & EMOTIONAL HEALTH",
       "sections": [
@@ -183,7 +191,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 10,
       "type": "video",
       "title": "Understanding Sexual Health",
       "video": {
@@ -192,7 +200,7 @@
       }
     },
     {
-      "id": 10,
+      "id": 11,
       "type": "content",
       "title": "COMMUNICATING ABOUT INTIMACY",
       "sections": [
@@ -219,7 +227,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 12,
       "type": "content",
       "title": "PREGNANCY & CHILDBIRTH",
       "sections": [
@@ -246,7 +254,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 13,
       "type": "content",
       "title": "POSTPARTUM PERIOD",
       "sections": [
@@ -273,7 +281,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 14,
       "type": "content",
       "title": "INFERTILITY: IF YOU FACE CHALLENGES",
       "sections": [
@@ -300,7 +308,7 @@
       ]
     },
     {
-      "id": 14,
+      "id": 15,
       "type": "checkpoint",
       "content": {
         "title": "UNDERSTANDING CONSENT & RIGHTS",
@@ -330,7 +338,7 @@
       }
     },
     {
-      "id": 15,
+      "id": 16,
       "type": "transition",
       "title": "NEXT: GENDER-SPECIFIC SESSIONS",
       "explanation": "The next section covers sensitive health topics specific to men and women.",
@@ -361,7 +369,7 @@
       "assurance": "All information is: Medically accurate, Islamically appropriate, Practical and helpful"
     },
     {
-      "id": 16,
+      "id": 17,
       "type": "content",
       "genderSpecific": "male",
       "title": "MALE SEXUAL HEALTH",
@@ -389,7 +397,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 18,
       "type": "content",
       "genderSpecific": "male",
       "title": "SUPPORTING YOUR WIFE",
@@ -417,7 +425,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 19,
       "type": "content",
       "genderSpecific": "female",
       "title": "FEMALE SEXUAL HEALTH",
@@ -445,7 +453,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 20,
       "type": "content",
       "genderSpecific": "female",
       "title": "PREGNANCY & YOUR BODY",
@@ -473,7 +481,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 21,
       "type": "content",
       "genderSpecific": "female",
       "title": "COMMUNICATING YOUR NEEDS",
@@ -501,7 +509,7 @@
       ]
     },
     {
-      "id": 21,
+      "id": 22,
       "type": "content",
       "title": "ISLAMIC GUIDANCE ON INTIMACY",
       "sections": [
@@ -538,7 +546,7 @@
       ]
     },
     {
-      "id": 22,
+      "id": 23,
       "type": "video",
       "title": "Healthy Relationships",
       "video": {
@@ -547,7 +555,7 @@
       }
     },
     {
-      "id": 23,
+      "id": 24,
       "type": "content",
       "title": "WHEN TO SEEK MEDICAL HELP",
       "sections": [
@@ -577,7 +585,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 25,
       "type": "content",
       "title": "HEALTHY LIFESTYLE FOR FERTILITY",
       "sections": [
@@ -616,7 +624,7 @@
       ]
     },
     {
-      "id": 25,
+      "id": 26,
       "type": "content",
       "title": "SEXUALLY TRANSMITTED INFECTIONS (STIs)",
       "sections": [
@@ -653,7 +661,7 @@
       ]
     },
     {
-      "id": 26,
+      "id": 27,
       "type": "content",
       "title": "THALASSEMIA AWARENESS",
       "sections": [
@@ -690,7 +698,7 @@
       ]
     },
     {
-      "id": 27,
+      "id": 28,
       "type": "content",
       "title": "STRESS & INTIMACY",
       "sections": [
@@ -719,7 +727,7 @@
       ]
     },
     {
-      "id": 28,
+      "id": 29,
       "type": "content",
       "title": "MAINTAINING HEALTHY INTIMACY",
       "sections": [
@@ -748,7 +756,7 @@
       ]
     },
     {
-      "id": 29,
+      "id": 30,
       "type": "content",
       "title": "RESOURCES & SUPPORT",
       "sections": [
@@ -776,7 +784,7 @@
       ]
     },
     {
-      "id": 30,
+      "id": 31,
       "type": "checkpoint",
       "content": {
         "title": "KNOWLEDGE CHECK",
@@ -831,7 +839,7 @@
       }
     },
     {
-      "id": 31,
+      "id": 32,
       "type": "content",
       "title": "KEY TAKEAWAYS",
       "sections": [
@@ -851,7 +859,7 @@
       ]
     },
     {
-      "id": 32,
+      "id": 33,
       "type": "completion",
       "title": "CONGRATULATIONS!",
       "subtitle": "You have completed Course 3: HEALTH & INTIMACY",
