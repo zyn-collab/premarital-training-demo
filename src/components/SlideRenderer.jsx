@@ -32,7 +32,7 @@ export default function SlideRenderer({ slide, onNextEnabled, courseId = 2 }) {
     case 'checkpoint':
       return <CheckpointSlide data={slide} onNextEnabled={onNextEnabled} courseId={courseId} />;
     case 'summary':
-      return <SummarySlide data={slide} onNextEnabled={onNextEnabled} />;
+      return <SummarySlide data={slide} onNextEnabled={onNextEnabled} courseId={courseId} />;
     case 'completion':
       return <CompletionSlide data={slide} />;
     case 'interactive':

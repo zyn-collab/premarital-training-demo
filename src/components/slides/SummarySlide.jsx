@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
-import { getCheckpointAnswer } from '../../utils/localStorage';
+import { getCourseCheckpointAnswer } from '../../utils/localStorage';
 
-export default function SummarySlide({ data, onNextEnabled }) {
+export default function SummarySlide({ data, onNextEnabled, courseId = 2 }) {
   useEffect(() => {
     // Enable next button immediately
     onNextEnabled();
@@ -29,7 +29,7 @@ export default function SummarySlide({ data, onNextEnabled }) {
 
         <div className="space-y-3">
           {data.decisionsToShow.map((decision) => {
-            const answer = getCheckpointAnswer(decision.number);
+            const answer = getCourseCheckpointAnswer(courseId, decision.number);
             return (
               <div key={decision.number} className="border-b border-emerald-200 pb-3 last:border-b-0">
                 <p className="text-sm font-semibold text-gray-600">

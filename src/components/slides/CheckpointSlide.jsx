@@ -5,8 +5,13 @@ import {
   getCourseCheckpointTextAnswer,
   getCourseProgress
 } from '../../utils/localStorage';
+import ContentCheckpointSlide from './ContentCheckpointSlide';
 
 export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
+  // Content-nested format (courses 1, 3, 4, 5, 6 special checkpoints)
+  if (data.content) {
+    return <ContentCheckpointSlide data={data} onNextEnabled={onNextEnabled} />;
+  }
   const [selectedOption, setSelectedOption] = useState('');
   const [textAnswer, setTextAnswer] = useState('');
   const [message, setMessage] = useState(null);
@@ -35,27 +40,30 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
   const handleSubmit = () => {
     setMessage(null);
 
-    // Check for "Need to discuss" option
-    if (selectedOption === "Need to discuss with Ghaazee/counselor") {
-      setMessage({
-        type: 'warning',
-        text: data.needDiscussMessage || "This topic will be discussed during your pre-marriage meeting with the Ghaazee/marriage officer."
-      });
-      saveCourseCheckpointAnswer(courseId, data.checkpointNumber, selectedOption);
-      onNextEnabled();
-      return;
+    // Only validate the dropdown when options are present
+    if (data.options) {
+      // Check for "Need to discuss" option
+      if (selectedOption === "Need to discuss with Ghaazee/counselor") {
+        setMessage({
+          type: 'warning',
+          text: data.needDiscussMessage || "This topic will be discussed during your pre-marriage meeting with the Ghaazee/marriage officer."
+        });
+        saveCourseCheckpointAnswer(courseId, data.checkpointNumber, selectedOption);
+        onNextEnabled();
+        return;
+      }
+
+      // Check dropdown match
+      if (selectedOption !== data.demoCorrectAnswer) {
+        setMessage({
+          type: 'error',
+          text: "Your answers don't match. Please discuss together and resubmit when you've reached agreement."
+        });
+        return;
+      }
     }
 
-    // Check dropdown match
-    if (selectedOption !== data.demoCorrectAnswer) {
-      setMessage({
-        type: 'error',
-        text: "Your answers don't match. Please discuss together and resubmit when you've reached agreement."
-      });
-      return;
-    }
-
-    // Dropdown matches - check text if needed
+    // Check text match if required
     if (data.requiresTextMatch) {
       const normalizedInput = textAnswer.trim();
       const normalizedCorrect = data.correctTextMatch.trim();
@@ -74,7 +82,7 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
       type: 'success',
       text: "✓ Answers match! You're aligned on this decision."
     });
-    saveCourseCheckpointAnswer(courseId, data.checkpointNumber, selectedOption, textAnswer || null);
+    saveCourseCheckpointAnswer(courseId, data.checkpointNumber, selectedOption || 'completed', textAnswer || null);
     onNextEnabled();
   };
 
@@ -151,20 +159,28 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
         </div>
       )}
 
-      {/* Dropdown */}
-      <div className="mb-6">
-        <label className="block font-semibold mb-3 text-lg">{data.question}</label>
-        <select
-          value={selectedOption}
-          onChange={(e) => setSelectedOption(e.target.value)}
-          className="w-full p-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 text-base"
-        >
-          <option value="">-- Select an option --</option>
-          {data.options.map((opt, i) => (
-            <option key={i} value={opt}>{opt}</option>
-          ))}
-        </select>
-      </div>
+      {/* Question label (always show) */}
+      {data.question && (
+        <div className="mb-3">
+          <label className="block font-semibold mb-3 text-lg">{data.question}</label>
+        </div>
+      )}
+
+      {/* Dropdown - only when options exist */}
+      {data.options && (
+        <div className="mb-6">
+          <select
+            value={selectedOption}
+            onChange={(e) => setSelectedOption(e.target.value)}
+            className="w-full p-3 border-2 border-gray-300 rounded-lg focus:ring-2 focus:ring-emerald-500 focus:border-emerald-500 text-base"
+          >
+            <option value="">-- Select an option --</option>
+            {data.options.map((opt, i) => (
+              <option key={i} value={opt}>{opt}</option>
+            ))}
+          </select>
+        </div>
+      )}
 
       {/* Text match if required */}
       {data.requiresTextMatch && (
@@ -198,7 +214,7 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
       {/* Submit button */}
       <button
         onClick={handleSubmit}
-        disabled={!selectedOption}
+        disabled={data.options ? !selectedOption : (data.requiresTextMatch ? !textAnswer.trim() : false)}
         className="w-full bg-emerald-600 text-white py-3 rounded-lg font-semibold hover:bg-emerald-700 disabled:opacity-50 disabled:cursor-not-allowed transition-colors min-h-[44px]"
       >
         Submit Answer
