@@ -50,7 +50,7 @@ export default function CourseSelection() {
               </p>
             </div>
           </div>
-          <p className="text-[#444] mt-3 text-base leading-relaxed max-w-xl">
+          <p className="text-[#444] mt-3 text-lg leading-relaxed max-w-xl">
             Complete all 6 courses to prepare for a successful marriage
           </p>
         </div>
@@ -86,7 +86,7 @@ export default function CourseSelection() {
           <div className="grid md:grid-cols-2 gap-6 text-[#2e2e2e]">
             <div>
               <h3 className="font-semibold text-[#1B3F61] mb-3 text-sm uppercase tracking-wide">Program Details</h3>
-              <ul className="space-y-2 text-sm text-[#444]">
+              <ul className="space-y-2.5 text-[#2e2e2e] leading-relaxed">
                 <li>• <strong>Total Duration:</strong> {coursesMetadata.totalDuration}</li>
                 <li>• <strong>Total Content:</strong> {coursesMetadata.totalSlides} slides</li>
                 <li>• <strong>Format:</strong> Self-paced online learning</li>
@@ -95,7 +95,7 @@ export default function CourseSelection() {
             </div>
             <div>
               <h3 className="font-semibold text-[#1B3F61] mb-3 text-sm uppercase tracking-wide">What You'll Learn</h3>
-              <ul className="space-y-2 text-sm text-[#444]">
+              <ul className="space-y-2.5 text-[#2e2e2e] leading-relaxed">
                 <li>• Islamic foundations of marriage</li>
                 <li>• Communication and conflict resolution</li>
                 <li>• Health, intimacy, and family planning</li>

@@ -24,32 +24,32 @@ export default function CourseCard({ course, progress }) {
       onClick={handleClick}
     >
       {/* Course Header */}
-      <div className={`p-6 ${isCompleted ? 'bg-emerald-50' : isInProgress ? 'bg-[#F5EDE6]' : 'bg-gray-50'}`}>
+      <div className={`p-6 ${isCompleted ? 'bg-emerald-50' : isInProgress ? 'bg-[#F5EDE6]' : 'bg-cream'}`}>
         <div className="flex items-start justify-between">
           <div className="flex-1">
             <div className="flex items-center gap-3 mb-2">
               <span className="text-4xl">{icon}</span>
               <div>
-                <h3 className="text-xl font-bold text-gray-800">Course {id}</h3>
-                <p className="text-sm text-gray-600">{duration}</p>
+                <h3 className="text-lg font-bold text-[#1a1a1a]">Course {id}</h3>
+                <p className="text-sm text-[#666]">{duration}</p>
               </div>
             </div>
-            <h2 className="text-2xl font-bold text-gray-900 mb-2">{title}</h2>
+            <h2 className="text-xl font-bold text-[#1a1a1a] leading-snug">{title}</h2>
           </div>
 
           {/* Status Badge */}
           {isCompleted && (
-            <span className="px-3 py-1 bg-emerald-600 text-white text-sm font-semibold rounded-full">
+            <span className="px-3 py-1 bg-emerald-600 text-white text-xs font-semibold rounded-full whitespace-nowrap">
               ✓ Completed
             </span>
           )}
           {isInProgress && (
-            <span className="px-3 py-1 bg-[#E8926B] text-white text-sm font-semibold rounded-full">
+            <span className="px-3 py-1 bg-[#E8926B] text-white text-xs font-semibold rounded-full whitespace-nowrap">
               In Progress
             </span>
           )}
           {isNotStarted && (
-            <span className="px-3 py-1 bg-gray-300 text-gray-700 text-sm font-semibold rounded-full">
+            <span className="px-3 py-1 bg-black/10 text-[#444] text-xs font-semibold rounded-full whitespace-nowrap">
               Not Started
             </span>
           )}
@@ -58,20 +58,20 @@ export default function CourseCard({ course, progress }) {
 
       {/* Course Content */}
       <div className="p-6">
-        <p className="text-gray-700 mb-4">{description}</p>
+        <p className="text-[#2e2e2e] leading-relaxed mb-4">{description}</p>
 
         {/* Topics */}
-        <div className="mb-4">
-          <p className="text-sm font-semibold text-gray-600 mb-2">Topics Covered:</p>
-          <ul className="space-y-1">
+        <div className="mb-5">
+          <p className="text-xs font-semibold text-[#1a1a1a] uppercase tracking-wide mb-2">Topics Covered</p>
+          <ul className="space-y-1.5">
             {topics.slice(0, 3).map((topic, idx) => (
-              <li key={idx} className="text-sm text-gray-600 flex items-start">
-                <span className="mr-2">•</span>
+              <li key={idx} className="text-sm text-[#444] flex items-start gap-2">
+                <span className="text-terracotta mt-0.5 flex-shrink-0">•</span>
                 <span>{topic}</span>
               </li>
             ))}
             {topics.length > 3 && (
-              <li className="text-sm text-gray-500 italic">
+              <li className="text-sm text-[#666] italic">
                 + {topics.length - 3} more topics
               </li>
             )}
@@ -80,18 +80,18 @@ export default function CourseCard({ course, progress }) {
 
         {/* Progress Bar */}
         {isInProgress && (
-          <div className="mb-4">
-            <div className="flex justify-between text-sm text-gray-600 mb-1">
+          <div className="mb-5">
+            <div className="flex justify-between text-sm text-[#555] mb-1.5">
               <span>Progress</span>
               <span>{progressPercent}%</span>
             </div>
-            <div className="w-full bg-gray-200 rounded-full h-2">
+            <div className="w-full bg-[#ede8e3] rounded-full h-2">
               <div
                 className="bg-[#C44B34] h-2 rounded-full transition-all"
                 style={{ width: `${progressPercent}%` }}
               />
             </div>
-            <p className="text-xs text-gray-500 mt-1">
+            <p className="text-xs text-[#666] mt-1">
               Slide {progress.currentSlide} of {totalSlides}
             </p>
           </div>
@@ -99,12 +99,12 @@ export default function CourseCard({ course, progress }) {
 
         {/* Action Button */}
         <button
-          className={`w-full py-3 px-4 rounded-lg font-semibold transition-colors ${
+          className={`w-full py-3 px-4 rounded-lg font-semibold transition-colors text-white ${
             isCompleted
-              ? 'bg-emerald-600 hover:bg-emerald-700 text-white'
+              ? 'bg-emerald-600 hover:bg-emerald-700'
               : isInProgress
-              ? 'bg-emerald-600 hover:bg-emerald-700 text-white'
-              : 'bg-gray-800 hover:bg-gray-900 text-white'
+              ? 'bg-emerald-600 hover:bg-emerald-700'
+              : 'bg-navy hover:bg-navy-dark'
           }`}
         >
           {isCompleted ? 'Review Course' : isInProgress ? 'Continue' : 'Start Course'}
