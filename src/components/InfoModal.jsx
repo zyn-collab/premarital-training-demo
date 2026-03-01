@@ -23,7 +23,7 @@ export default function InfoModal({ isOpen, onClose }) {
           {/* How the Real App Works */}
           <section>
             <h3 className="text-xl font-bold text-gray-800 mb-3">🤝 How the Real App Works</h3>
-            <div className="bg-blue-50 p-4 rounded-lg border-l-4 border-blue-500">
+            <div className="bg-navy-light p-4 rounded-lg border-l-4 border-navy">
               <ol className="space-y-2 text-gray-700">
                 <li><strong>1.</strong> Both partners access the course independently (on their own devices/accounts)</li>
                 <li><strong>2.</strong> Each partner submits their answers without seeing the other's responses</li>
@@ -56,8 +56,8 @@ export default function InfoModal({ isOpen, onClose }) {
 
             <div className="space-y-3 max-h-96 overflow-y-auto pr-2">
               {/* TOPIC 1: CHILDREN */}
-              <div className="bg-blue-50 p-3 rounded border-l-4 border-blue-500">
-                <p className="font-bold text-blue-900 mb-2">TOPIC 1: CHILDREN (4 decisions)</p>
+              <div className="bg-navy-light p-3 rounded border-l-4 border-navy">
+                <p className="font-bold text-navy mb-2">TOPIC 1: CHILDREN (4 decisions)</p>
                 <div className="space-y-2 ml-2">
                   <p className="text-sm"><strong>1. Do we want children?</strong><br/>Yes, but flexible about it</p>
                   <p className="text-sm"><strong>2. How many?</strong><br/>Flexible, we'll see</p>
@@ -117,8 +117,8 @@ export default function InfoModal({ isOpen, onClose }) {
               </div>
 
               {/* TOPICS 6-15: REMAINING */}
-              <div className="bg-indigo-50 p-3 rounded border-l-4 border-indigo-500">
-                <p className="font-bold text-indigo-900 mb-2">REMAINING TOPICS (8 decisions)</p>
+              <div className="bg-navy-light p-3 rounded border-l-4 border-navy">
+                <p className="font-bold text-navy mb-2">REMAINING TOPICS (8 decisions)</p>
                 <div className="space-y-2 ml-2">
                   <p className="text-sm"><strong>15. Decision-making:</strong><br/>All decided jointly (both must agree)</p>
                   <p className="text-sm"><strong>16. Housework:</strong><br/>Split everything equally</p>

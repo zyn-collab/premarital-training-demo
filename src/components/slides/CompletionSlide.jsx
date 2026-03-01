@@ -1,6 +1,6 @@
 export default function CompletionSlide({ data }) {
   return (
-    <div className="bg-gradient-to-br from-emerald-50 to-white rounded-lg shadow-lg p-8 md:p-12 text-center">
+    <div className="bg-gradient-to-br from-emerald-50 to-white rounded-xl shadow-card p-8 md:p-12 text-center">
       <div className="mb-6">
         <div className="inline-block p-4 bg-emerald-100 rounded-full mb-4">
           <svg className="w-16 h-16 text-emerald-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">

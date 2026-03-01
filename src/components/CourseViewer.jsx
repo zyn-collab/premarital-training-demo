@@ -122,7 +122,7 @@ export default function CourseViewer() {
 
   if (loading) {
     return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+      <div className="min-h-screen bg-cream flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-600 mx-auto mb-4"></div>
           <p className="text-gray-600">Loading course...</p>
@@ -133,7 +133,7 @@ export default function CourseViewer() {
 
   if (error) {
     return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+      <div className="min-h-screen bg-cream flex items-center justify-center">
         <div className="bg-white rounded-lg shadow-lg p-8 max-w-md text-center">
           <div className="text-red-500 text-5xl mb-4">⚠️</div>
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Course Not Available</h2>
@@ -156,7 +156,7 @@ export default function CourseViewer() {
     console.error(`Slide ${currentSlide} not found in course ${courseId}. Resetting to slide 1.`);
     setCurrentSlide(1);
     return (
-      <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+      <div className="min-h-screen bg-cream flex items-center justify-center">
         <div className="text-center">
           <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-600 mx-auto mb-4"></div>
           <p className="text-gray-600">Loading course...</p>
@@ -166,7 +166,7 @@ export default function CourseViewer() {
   }
 
   return (
-    <div className="min-h-screen bg-gray-50 pb-24">
+    <div className="min-h-screen bg-cream pb-24">
       <ProgressBar
         current={currentSlide}
         total={courseData.totalSlides}
@@ -178,7 +178,7 @@ export default function CourseViewer() {
       <div className="max-w-4xl mx-auto px-4 pt-4">
         <button
           onClick={() => setIsInfoModalOpen(true)}
-          className="text-emerald-600 hover:text-emerald-700 font-medium text-sm underline flex items-center gap-1"
+          className="text-[#C44B34] hover:text-[#A33B27] font-medium text-sm underline flex items-center gap-1 transition-colors"
         >
           📖 Info about model + demo answers to use
         </button>

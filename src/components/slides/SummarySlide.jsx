@@ -13,7 +13,7 @@ export default function SummarySlide({ data, onNextEnabled, courseId = 2 }) {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <div className="bg-white rounded-xl shadow-card p-6 md:p-8">
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4 text-center">
         {data.title}
       </h2>

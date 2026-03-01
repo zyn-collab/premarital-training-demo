@@ -55,7 +55,7 @@ export default function VideoSlide({ data, onNextEnabled }) {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <div className="bg-white rounded-xl shadow-card p-6 md:p-8">
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4">
         {data.title}
       </h2>
@@ -126,7 +126,7 @@ export default function VideoSlide({ data, onNextEnabled }) {
       )}
 
       {/* Video Placeholder */}
-      <div className="my-6 bg-gray-300 rounded-lg min-h-[300px] flex flex-col items-center justify-center p-8">
+      <div className="my-6 bg-navy-light rounded-xl min-h-[300px] flex flex-col items-center justify-center p-8 border border-navy/10">
         <p className="text-xl font-bold text-gray-700 mb-4 text-center">
           {isMobile
             ? `📱 VERTICAL VIDEO PLACEHOLDER - ${data.video.duration}`

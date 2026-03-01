@@ -3,7 +3,7 @@ export default function CertificateProgress({ completedCount, totalCourses = 6 }
   const isComplete = completedCount === totalCourses;
 
   return (
-    <div className={`rounded-lg p-6 mb-8 ${isComplete ? 'bg-emerald-600' : 'bg-gradient-to-r from-blue-600 to-indigo-600'}`}>
+    <div className={`rounded-xl p-6 mb-8 shadow-card ${isComplete ? 'bg-emerald-600' : 'bg-[#1B3F61]'}`}>
       <div className="text-white">
         <div className="flex items-center justify-between mb-4">
           <div>

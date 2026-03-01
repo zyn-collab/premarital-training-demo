@@ -22,7 +22,7 @@ export default function InteractiveSlide({ data, onNextEnabled }) {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <div className="bg-white rounded-xl shadow-card p-6 md:p-8">
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4">
         {data.title}
       </h2>
@@ -74,7 +74,7 @@ export default function InteractiveSlide({ data, onNextEnabled }) {
 
       {/* Tips/Notes */}
       {data.tips && (
-        <div className="mb-6 p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
+        <div className="mb-6 p-4 bg-navy-light rounded-lg border-l-4 border-navy">
           <h3 className="font-semibold mb-2">{data.tips.heading}</h3>
           <ul className="space-y-1 ml-4">
             {data.tips.items.map((tip, i) => (

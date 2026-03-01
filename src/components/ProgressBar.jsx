@@ -2,41 +2,44 @@ export default function ProgressBar({ current, total, courseTitle, courseId, onB
   const percentage = Math.round((current / total) * 100);
 
   return (
-    <div className="bg-white border-b border-gray-200 sticky top-0 z-10 shadow-sm">
-      <div className="max-w-4xl mx-auto px-4 py-4">
-        {/* Header with back button and course number */}
+    <div className="bg-peach sticky top-0 z-10" style={{boxShadow:'0 2px 8px rgba(0,0,0,0.08)'}}>
+      <div className="max-w-4xl mx-auto px-4 py-3 md:py-4">
+        {/* Top row: back link + course badge */}
         <div className="flex items-center justify-between mb-2">
           {onBackToCourses && (
             <button
               onClick={onBackToCourses}
-              className="text-emerald-600 hover:text-emerald-700 font-medium text-sm flex items-center gap-1"
+              className="text-[#1B3F61] hover:text-[#142F4A] font-semibold text-sm flex items-center gap-1 transition-colors"
             >
               ← Back to Courses
             </button>
           )}
           {courseId && (
-            <span className="text-sm font-semibold text-gray-600 bg-gray-100 px-3 py-1 rounded-full">
-              Course {courseId}/6
+            <span className="text-xs font-semibold text-[#1B3F61] bg-white/60 px-3 py-1 rounded-full border border-[#1B3F61]/20">
+              Course {courseId} of 6
             </span>
           )}
         </div>
 
-        <h1 className="text-lg md:text-xl font-semibold text-gray-800 mb-2">
+        {/* Course title */}
+        <h1 className="text-base md:text-lg font-bold text-[#1a1a1a] mb-2 leading-snug">
           {courseTitle}
         </h1>
-        <div className="flex items-center gap-4">
-          <p className="text-sm text-gray-600 whitespace-nowrap">
-            Slide {current} of {total}
+
+        {/* Progress row */}
+        <div className="flex items-center gap-3">
+          <p className="text-xs text-[#555] whitespace-nowrap font-medium">
+            {current} / {total}
           </p>
           <div className="flex-1">
-            <div className="w-full bg-gray-200 rounded-full h-2.5">
+            <div className="w-full bg-black/10 rounded-full h-2">
               <div
-                className="bg-emerald-600 h-2.5 rounded-full transition-all duration-300"
+                className="bg-[#1B3F61] h-2 rounded-full transition-all duration-300"
                 style={{ width: `${percentage}%` }}
-              ></div>
+              />
             </div>
           </div>
-          <p className="text-sm text-gray-600 font-medium">{percentage}%</p>
+          <p className="text-xs text-[#555] font-semibold w-10 text-right">{percentage}%</p>
         </div>
       </div>
     </div>

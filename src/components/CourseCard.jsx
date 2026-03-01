@@ -20,11 +20,11 @@ export default function CourseCard({ course, progress }) {
 
   return (
     <div
-      className="bg-white rounded-lg shadow-lg hover:shadow-xl transition-shadow cursor-pointer overflow-hidden"
+      className="bg-white rounded-xl shadow-card hover:shadow-card-hv transition-all hover:-translate-y-0.5 cursor-pointer overflow-hidden border border-black/[0.06]"
       onClick={handleClick}
     >
       {/* Course Header */}
-      <div className={`p-6 ${isCompleted ? 'bg-emerald-50' : isInProgress ? 'bg-blue-50' : 'bg-gray-50'}`}>
+      <div className={`p-6 ${isCompleted ? 'bg-emerald-50' : isInProgress ? 'bg-[#F5EDE6]' : 'bg-gray-50'}`}>
         <div className="flex items-start justify-between">
           <div className="flex-1">
             <div className="flex items-center gap-3 mb-2">
@@ -44,7 +44,7 @@ export default function CourseCard({ course, progress }) {
             </span>
           )}
           {isInProgress && (
-            <span className="px-3 py-1 bg-blue-600 text-white text-sm font-semibold rounded-full">
+            <span className="px-3 py-1 bg-[#E8926B] text-white text-sm font-semibold rounded-full">
               In Progress
             </span>
           )}
@@ -87,7 +87,7 @@ export default function CourseCard({ course, progress }) {
             </div>
             <div className="w-full bg-gray-200 rounded-full h-2">
               <div
-                className="bg-blue-600 h-2 rounded-full transition-all"
+                className="bg-[#C44B34] h-2 rounded-full transition-all"
                 style={{ width: `${progressPercent}%` }}
               />
             </div>
@@ -103,7 +103,7 @@ export default function CourseCard({ course, progress }) {
             isCompleted
               ? 'bg-emerald-600 hover:bg-emerald-700 text-white'
               : isInProgress
-              ? 'bg-blue-600 hover:bg-blue-700 text-white'
+              ? 'bg-emerald-600 hover:bg-emerald-700 text-white'
               : 'bg-gray-800 hover:bg-gray-900 text-white'
           }`}
         >

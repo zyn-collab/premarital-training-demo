@@ -19,7 +19,7 @@ export default function GenderSelectionSlide({ data, onNextEnabled }) {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <div className="bg-white rounded-xl shadow-card p-6 md:p-8">
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4 text-center">
         {data.title}
       </h2>
@@ -29,7 +29,7 @@ export default function GenderSelectionSlide({ data, onNextEnabled }) {
       )}
 
       {data.explanation && (
-        <div className="mb-8 p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
+        <div className="mb-8 p-4 bg-navy-light rounded-lg border-l-4 border-navy">
           <p className="text-base text-gray-700">{data.explanation}</p>
         </div>
       )}

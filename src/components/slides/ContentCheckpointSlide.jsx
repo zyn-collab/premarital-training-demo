@@ -103,20 +103,20 @@ function CommitmentCheckpoint({ content, onNextEnabled }) {
       )}
 
       {content.context && (
-        <div className="mb-4 p-3 bg-blue-50 rounded">
-          <p className="text-blue-800">{content.context}</p>
+        <div className="mb-4 p-3 bg-navy-light rounded">
+          <p className="text-navy">{content.context}</p>
         </div>
       )}
 
       {content.emphasis && (
-        <div className="mb-4 p-4 bg-gray-800 rounded-lg text-center">
+        <div className="mb-4 p-4 bg-navy rounded-lg text-center">
           <p className="text-white font-bold text-lg">{content.emphasis}</p>
         </div>
       )}
 
       {content.instruction && (
-        <div className="mb-4 p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
-          <p className="font-semibold text-blue-900">{content.instruction}</p>
+        <div className="mb-4 p-4 bg-navy-light rounded-lg border-l-4 border-navy">
+          <p className="font-semibold text-navy">{content.instruction}</p>
         </div>
       )}
 
@@ -375,8 +375,8 @@ function MCQQuiz({ content, onNextEnabled }) {
             disabled={submitted}
           />
           {submitted && q.sampleAnswer && (
-            <div className="mt-2 p-3 bg-blue-50 rounded border-l-4 border-blue-400">
-              <p className="text-sm text-blue-800">
+            <div className="mt-2 p-3 bg-navy-light rounded border-l-4 border-navy">
+              <p className="text-sm text-navy">
                 <span className="font-semibold">Sample answer:</span> {q.sampleAnswer}
               </p>
             </div>
@@ -450,8 +450,8 @@ function MCQQuiz({ content, onNextEnabled }) {
             })}
         </div>
         {submitted && q.explanation && (
-          <div className="mt-2 p-3 bg-blue-50 rounded border-l-4 border-blue-400">
-            <p className="text-sm text-blue-800">{q.explanation}</p>
+          <div className="mt-2 p-3 bg-navy-light rounded border-l-4 border-navy">
+            <p className="text-sm text-navy">{q.explanation}</p>
           </div>
         )}
       </div>
@@ -565,8 +565,8 @@ function ChecklistCheckpoint({ content, onNextEnabled }) {
       {content.subtitle && <p className="text-gray-600 mb-4">{content.subtitle}</p>}
 
       {content.instruction && (
-        <div className="mb-4 p-3 bg-blue-50 rounded-lg border-l-4 border-blue-500">
-          <p className="text-blue-900">{content.instruction}</p>
+        <div className="mb-4 p-3 bg-navy-light rounded-lg border-l-4 border-navy">
+          <p className="text-navy">{content.instruction}</p>
         </div>
       )}
 
@@ -618,11 +618,11 @@ function ChecklistCheckpoint({ content, onNextEnabled }) {
       )}
 
       {content.itsOkayTo && (
-        <div className="mb-4 p-4 bg-blue-50 rounded-lg">
-          <p className="font-semibold text-blue-900 mb-2">{content.itsOkayTo.heading}</p>
+        <div className="mb-4 p-4 bg-navy-light rounded-lg">
+          <p className="font-semibold text-navy mb-2">{content.itsOkayTo.heading}</p>
           <ul className="space-y-1 ml-4">
             {content.itsOkayTo.items.map((item, i) => (
-              <li key={i} className="text-blue-800">
+              <li key={i} className="text-navy/80">
                 • {item}
               </li>
             ))}
@@ -692,7 +692,7 @@ export default function ContentCheckpointSlide({ data, onNextEnabled }) {
   }
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <div className="bg-white rounded-xl shadow-card p-6 md:p-8">
       <div className="mb-4 px-4 py-2 bg-emerald-100 rounded-lg inline-block">
         <p className="text-sm font-bold text-emerald-700">{badgeText}</p>
       </div>

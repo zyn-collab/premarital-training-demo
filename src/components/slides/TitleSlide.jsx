@@ -8,7 +8,7 @@ export default function TitleSlide({ data, onNextEnabled }) {
   }, []);
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-8 md:p-12 text-center min-h-[400px] flex flex-col justify-center">
+    <div className="bg-white rounded-xl shadow-card p-8 md:p-12 text-center min-h-[400px] flex flex-col justify-center">
       <h1 className="text-4xl md:text-5xl font-bold text-gray-800 mb-4">
         {data.title}
       </h1>

@@ -87,7 +87,7 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
   };
 
   return (
-    <div className="bg-white rounded-lg shadow-lg p-6 md:p-8">
+    <div className="bg-white rounded-xl shadow-card p-6 md:p-8">
       <div className="mb-4 px-4 py-2 bg-emerald-100 rounded-lg inline-block">
         <p className="text-sm font-bold text-emerald-700">
           DECISION {data.checkpointNumber}
@@ -96,11 +96,11 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
 
       {/* Workflow explanation - only show on first checkpoint */}
       {data.checkpointNumber === 1 && (
-        <div className="mb-6 p-4 bg-gradient-to-r from-purple-50 to-blue-50 rounded-lg border-2 border-purple-200">
-          <p className="text-sm font-semibold text-purple-900 mb-2">
+        <div className="mb-6 p-4 bg-navy-light rounded-lg border-2 border-navy/20">
+          <p className="text-sm font-semibold text-navy mb-2">
             🤝 How Decision Checkpoints Work:
           </p>
-          <ul className="text-sm text-purple-800 space-y-1 ml-4">
+          <ul className="text-sm text-navy/80 space-y-1 ml-4">
             <li>• Each partner submits their answer independently</li>
             <li>• You can go back and change your answers anytime</li>
             <li>• You can only proceed when BOTH partners' answers match</li>
@@ -119,7 +119,7 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
 
       {/* Discussion points */}
       {data.discussionPoints && (
-        <div className="mb-6 bg-blue-50 p-4 rounded-lg">
+        <div className="mb-6 bg-navy-light p-4 rounded-lg">
           <h3 className="font-semibold mb-2">{data.discussionPoints.heading}</h3>
           <ul className="space-y-1 ml-4">
             {data.discussionPoints.items.map((item, i) => (
@@ -188,11 +188,11 @@ export default function CheckpointSlide({ data, onNextEnabled, courseId = 2 }) {
           <label className="block font-semibold mb-2">
             {data.textMatchPrompt}
           </label>
-          <div className="mb-3 p-4 bg-blue-50 rounded-lg border-l-4 border-blue-500">
-            <p className="text-sm font-semibold text-blue-900 mb-2">
+          <div className="mb-3 p-4 bg-navy-light rounded-lg border-l-4 border-navy">
+            <p className="text-sm font-semibold text-navy mb-2">
               📝 How this works:
             </p>
-            <ol className="text-sm text-blue-800 space-y-1 ml-4">
+            <ol className="text-sm text-navy/80 space-y-1 ml-4">
               <li>1. Discuss this topic together and agree on a statement</li>
               <li>2. Text it to each other in a chat so you both have the same wording</li>
               <li>3. Both partners copy-paste the exact same agreed statement below</li>
